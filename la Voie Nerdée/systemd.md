@@ -1,3 +1,5 @@
+# timesyncd
+
 Uncomment the relevant line in `/etc/systemd/timesyncd.conf`
 
 ```bash
