@@ -1,3 +1,13 @@
+/* adjust title size */
+.markdown-preview-view .inline-title,
+.markdown-source-view.mod-cm6 .inline-title {
+  font-size: 2.3rem;
+}
+
+.banner-icon {
+  padding-left: 0.5rem;
+}
+
 /* remove borders around callouts */
 .callout {
   border: none !important;

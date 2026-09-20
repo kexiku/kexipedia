@@ -1,12 +1,11 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[l'Univers.png]]"
+banner_icon: 🌙
+banner_y: 42.8%
 ---
-![[Welcome.png|banner]]
-> [!banner-icon] 🌙
 # 🔭 la Voie Nerdée
 
 - ## [[la Voie Nerdée/Index|Index]]

@@ -1,12 +1,10 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[la Zone Rouge.jpg]]"
+banner_icon: 🛵
 ---
-![[Wet-Road.jpg|banner]]
-> [!banner-icon] 🛵
 # Les scooters
 
 ![[Scooters.base]]

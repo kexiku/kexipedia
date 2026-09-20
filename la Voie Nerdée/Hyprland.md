@@ -1,10 +1,7 @@
 ---
-cssclasses:
-  - banner
-  - banner-fade
+banner: "[[Hyprland.jpg]]"
+banner_icon: 💧
 ---
-![[wallhaven-gpegye.jpg|banner]]
-> [!banner-icon] 💧
 ## Enable Dark theme
 
 ### 🧙‍♂️ GTK (GNOME apps):

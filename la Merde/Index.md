@@ -1,11 +1,9 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[la Merde.jpg]]"
+banner_icon: 🧻
 ---
-![[Merde.jpg|banner]]
-> [!banner-icon] 🧻
 - [[🏴‍☠️ Yarr]]
 - [[Callouts]]

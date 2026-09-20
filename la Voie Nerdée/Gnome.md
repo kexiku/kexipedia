@@ -1,10 +1,8 @@
 ---
-cssclasses:
-  - banner
-  - banner-fade
+banner: "[[Gnome.jpg]]"
+banner_icon: 🐾
+banner_y: 68.4%
 ---
-![[letter_by_ajvl_d847iw5.jpg|banner]]
-> [!banner-icon] 🐾
 # 🛠️ Set up
 
 ## ⌨️ Change layout switching shortcut

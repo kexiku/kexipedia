@@ -1,10 +1,7 @@
 ---
-cssclasses:
-  - banner
-  - banner-fade
+banner: "[[Unix philosophy.png]]"
+banner_icon: 🧬
 ---
-![[Blog---Unix.png|banner]]
-
 The *Unix philosophy* emphasizes building simple, short, clear and extensible software that can be easily maintained and repurposed by developers.
 
 [[Operating systems#*UNIX*|Unix]] brought the concepts of modularity and reusability into software development practice, having a significant impact on the entire tech industry.

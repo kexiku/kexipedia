@@ -1,12 +1,10 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[Linux.png]]"
+banner_icon: 🪐
 ---
-![[such linumx.png|banner]]
-> [!banner-icon] 🪐
 # 🥀 Fondamentales
 
 - [[Kernel]]
@@ -35,11 +33,9 @@ obsidianUIMode: preview
 - ## 🎴 DE
 	- [[Hyprland]]
 	- [[Gnome]]
-	- [[KDE]]
 
 - ## 🥡 Packages
 	- [[apt]] ([[backports]])
-	- [[pacman]]
 
 # 🪽 L'amorçage
 

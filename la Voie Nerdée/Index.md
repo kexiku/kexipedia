@@ -1,16 +1,13 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[la Voie Nerdée.png]]"
+banner_icon: 🔭
 ---
-![[la Voie Nerdée.png|banner]]
-> [!banner-icon] 🔭
 # Systèmes d'exploitation
 
 - ## [[Linux]]
-	- [[Arch]]
 	- [[Debian]]
 - >[!info]- 📜 Les manuels
 > • [[Linux]]

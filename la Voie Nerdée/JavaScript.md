@@ -1,12 +1,10 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
   - dashboard
 obsidianUIMode: preview
+banner: "[[JavaScript.jpg]]"
+banner_icon: 🍹
 ---
-![[photo-1619410283995-43d9134e7656.jpg|banner]]
-> [!banner-icon] 🍹
 # Basics
 
 - [[⏺️ Types]]
