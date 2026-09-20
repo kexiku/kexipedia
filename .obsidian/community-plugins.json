@@ -1,8 +1,7 @@
 [
-  "obsidian-style-settings",
-  "templater-obsidian",
   "homepage",
   "omnisearch",
-  "quickadd",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "banners-reloaded",
+  "obsidian-style-settings"
 ]

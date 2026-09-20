@@ -1,10 +1,8 @@
 ---
-cssclasses:
-  - banner
-  - banner-fade
+banner: "[[GNU.png]]"
+banner_icon: 🥾
+banner_y: 50.0%
 ---
-![[gnu-2.png|banner]]
-
 *The GNU Project* is an open-source programming project started by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) in 1983.
 
 Its goal is to give users freedom and control in use of their computers by giving everyone the rights to freely run, modify and distribute the software.

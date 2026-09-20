@@ -1,10 +1,7 @@
 ---
-cssclasses:
-  - banner
-  - banner-fade
+banner: "[[Debian.jpg]]"
+banner_icon: 🗻
 ---
-![[linux-lesbians-anime-debian-k-on-hd-wallpaper-5970287d01ba5deb0687c82ff041767d.jpg|banner]]
-> [!banner-icon] 🗻
 # 🛠️ Installation
 
 1. [Download](https://www.debian.org/distrib/) an ISO and [[GnuPG|verify]] the checksum

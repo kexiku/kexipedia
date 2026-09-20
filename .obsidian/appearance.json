@@ -1,18 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "CSS.Banners",
-    "Properties",
-    "Theme.tweaks",
-    "Banners",
-    "Multi.Column",
-    "Theme.Tweaks",
-    "Theme tweaks",
-    "banners",
-    "main-dashboard",
     "dashboard",
     "tiny-tweaks"
   ],
   "cssTheme": "Shimmering Focus",
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": true
 }
