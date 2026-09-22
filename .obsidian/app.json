@@ -6,5 +6,6 @@
   "readableLineLength": true,
   "showIndentGuide": false,
   "propertiesInDocument": "hidden",
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "spellcheck": false
 }

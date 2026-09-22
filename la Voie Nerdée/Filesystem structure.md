@@ -8,8 +8,7 @@ The top-most directory in a file tree where all other directories branching from
 
 ## `/bin`
 
-Essential commands and binaries that need to be available in [[Single user mode|single-user mode]], 
-(e.g. `ls`, `cat`, `grep`)
+Essential commands and binaries that need to be available in Single user mode (e.g. `ls`, `cat`, `grep`)
 
 ## `/boot`
 
@@ -19,7 +18,7 @@ Bootloader and kernel files
 ## `/dev`
 
 Device files
-(e.g. USB, disk [[Partitioning|partitions]], `/dev/null`)
+(e.g. USB, disk partitions, `/dev/null`)
 
 ## `/etc`
 

@@ -28,10 +28,6 @@ banner_icon: 🍹
 - [[♾️ Event loop]]
 - [[📦 npm]]
 
-# ESLint
-
-- [[🗜️ Convert old configs]]
-
 # Log
 
 - [[Άλφα]]

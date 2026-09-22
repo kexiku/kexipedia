@@ -18,7 +18,7 @@ It presents a real-time view of running [[processes]] along with overall resourc
 - Shows how the CPU time is distributed across different types of tasks:
 	- `us` - Percentage of CPU time spent running ==us==er processes
 	- `sy` - Percentage of CPU time spent running kernel (==sy==stem) processes
-	- `ni` - Percentage of CPU time spent running processes with a [[nice|nice value]]
+	- `ni` - Percentage of CPU time spent running processes with a [[Niceness|nice value]]
 	- `id` - Percentage of CPU time spent ==id==le
 	- `wa` - Percentage of CPU time spent ==wa==iting for I/O operations to complete
 	- `hi` - Percentage of CPU time spent servicing ==h==ardware ==i==nterrupts
@@ -40,7 +40,7 @@ It presents a real-time view of running [[processes]] along with overall resourc
 | `PID`     | Task’s [[Processes#🪪 PID/PPID\|process id]]     |
 | `USER`    | Task owner                                       |
 | `PR`      | Process’ priority                                |
-| `NI`      | Task's [[Nice\|nice value]]                      |
+| `NI`      | Task's [[Niceness\|nice value]]                  |
 | `VIRT`    | Total virtual memory used by the process         |
 | `RES`     | RAM used by the process (in `kb`)                |
 | `SHR`     | Shared memory size used by the process (in `kb`) |
