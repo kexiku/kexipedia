@@ -8,7 +8,7 @@ banner_y: 42.8%
 ---
 # 🔭 la Voie Nerdée
 
-- ## [[la Voie Nerdée]]
+- ## [[la Voie Nerdee]]
 
 # 🧻 Merde
 

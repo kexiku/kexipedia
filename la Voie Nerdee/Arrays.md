@@ -1,5 +1,4 @@
 ## ✍️ Declaration
-
 ```jsx
 let arr = [];
 let arr = new Array();
@@ -9,7 +8,6 @@ let arr = Array.of();
 ## 📤 Getting elements
 
 To get the last element of the array, instead of calculating the last element index we can use `.at()` method:
-
 ```jsx
 const fruits = ["Apple", "Orange", "Plum"];
 

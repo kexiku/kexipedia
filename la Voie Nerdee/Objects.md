@@ -1,12 +1,10 @@
 An empty object can be created using one of two syntaxes:
-
 ```jsx
 let user = new Object(); // "object constructor" syntax
 let user = {};  // "object literal" syntax
 ```
 
 ## 📃 Computed properties
-
 ```jsx
 let fruit = prompt("Which fruit to buy?", "apple");
 
@@ -16,13 +14,11 @@ let bag = {
 
 console.log( bag.apple ); // 5
 ```
-
 The meaning of a computed property is simple: `[fruit]` means that the property name should be taken from `fruit`.
 
 ## ✍️ Property value shorthand
 
 The use-case of making a property from a variable is so common, that there’s a special _property value shorthand_ to make it shorter.
-
 ```jsx
 function makeUser(name, age) {
 	*return {
@@ -36,7 +32,6 @@ function makeUser(name, age) {
 ## 📥 In operator
 
 With `in` operator we can easily test whether the property exists:
-
 ```jsx
 let user = { name: "John", age: 30 };
 
@@ -47,7 +42,6 @@ console.log( "blabla" in user ); // false
 ## 🔢 Properties order
 
 Object is ordered “in a special fashion”: integer properties are sorted, others appear _in creation order_:
-
 ```jsx
 let codes = {
   "49": "Germany",
@@ -67,7 +61,6 @@ for (let code in codes) {
 Primitive values are always copied _“as a whole value”_, whereas objects are stored and copied _“by reference”._
 
 Here we put a copy of `message` into `phrase`:
-
 ```jsx
 let message = "Hello!";
 let phrase = message;
@@ -81,7 +74,6 @@ Objects are not like that.
 > **A variable assigned to an object stores not the object itself, but its “address in memory” – in other words “a reference” to it.**
 
 Let’s look at an example of such a variable:
-
 ```jsx
 let user = {
 	name: "John"
@@ -94,7 +86,6 @@ let user = {
 > **When an object variable is copied, the reference is copied, but the object itself is not duplicated.**
 
 For instance:
-
 ```jsx
 let user = {
 	name: "John"
@@ -113,7 +104,6 @@ As you can see, there’s still one object, but now with two variables that refe
 ## 🧬 Cloning
 
 To perform a simple object cloning (create a “shallow copy”) we can use `Object.assign`:
-
 ```jsx
 Object.assign(dest, ...sources);
 ```
@@ -122,7 +112,6 @@ Object.assign(dest, ...sources);
 - Further arguments is a list of source objects.
 
 For a deep cloning we can use `structuredClone()` method:
-
 ```jsx
 let user = {
   name: "John",
@@ -140,6 +129,8 @@ console.log( user.sizes === clone.sizes ); // false, different objects
 user.sizes.width = 60;    // change a property from one place
 alert(clone.sizes.width); // 50, not related
 ```
+
+
 
 
 

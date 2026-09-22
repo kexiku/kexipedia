@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdée/Linux.md",
+                "file": "la Voie Nerdee/Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Linux"
             }
+          },
+          {
+            "id": "662848e3d3cff750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdee/la Voie Nerdee.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "la Voie Nerdee"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdée/Linux.md",
+                "file": "la Voie Nerdee/la Voie Nerdee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,13 +188,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "la Voie Nerdée/Linux.md"
+                "file": "la Voie Nerdee/la Voie Nerdee.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,37 +213,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "52b2824a233ed2d2",
+  "active": "662848e3d3cff750",
   "lastOpenFiles": [
-    "la Voie Nerdée/System calls.md",
-    "la Voie Nerdée/Linux.md",
-    "la Voie Nerdée/VFS.md",
+    "la Voie Nerdee/Linux.md",
+    "la Voie Nerdee/la Voie Nerdee.md",
+    "media/banners/la Voie Nerdee.png",
+    "la Voie Nerdee/Daemons.md",
     "l'Univers.md",
-    "la Voie Nerdée/Unix philosophy.md",
-    "la Voie Nerdée/Debian.md",
-    "la Voie Nerdée/Users.md",
-    "la Voie Nerdée/Permissions.md",
-    "la Voie Nerdée/PulseAudio.md",
-    "la Voie Nerdée/sudo.md",
-    "la Voie Nerdée/systemd.md",
+    "la Voie Nerdée/la Voie Nerdee.md",
+    "la Voie Nerdee/Δέλτα.md",
+    "la Voie Nerdee/Γάμμα.md",
+    "la Voie Nerdee/Βήτα.md",
+    "la Voie Nerdee/Άλφα.md",
+    "la Voie Nerdee/zsh.md",
+    "la Voie Nerdee/yt-dlp.md",
+    "la Voie Nerdee/winget.md",
+    "la Voie Nerdee/ufw.md",
+    "la Voie Nerdee/top.md",
+    "la Voie Nerdee/systemd.md",
+    "la Voie Nerdee/swappiness.md",
+    "la Voie Nerdee/swap.md",
+    "la Voie Nerdee/sudo.md",
+    "la Voie Nerdee/shebang.md",
+    "la Voie Nerdee/reflector.md",
+    "la Voie Nerdee/npm.md",
+    "la Voie Nerdee/mpd.md",
+    "la Voie Nerdee/iwctl.md",
+    "la Voie Nerdee/grub.md",
+    "la Voie Nerdee/git.md",
+    "la Voie Nerdee/diskpart.md",
+    "la Voie Nerdee",
     "media/banners/systemd.png",
     "media/banners/ttynwc8l6ie41.png",
-    "la Voie Nerdée/Links.md",
-    "la Voie Nerdée/Inode.md",
-    "la Voie Nerdée/Files.md",
-    "la Voie Nerdée/la Voie Nerdée.md",
-    "la Voie Nerdée/mpd.md",
-    "la Voie Nerdée/ALSA.md",
-    "la Voie Nerdée/Environment variables.md",
-    "la Voie Nerdée/Mounting.md",
-    "la Voie Nerdée/ufw.md",
-    "la Voie Nerdée/shebang.md",
-    "la Voie Nerdée/bash.md",
-    "la Voie Nerdée/diskpart.md",
-    "la Voie Nerdée/Wiblows.md",
     "media/banners/Linux.png",
-    "la Voie Nerdée/UID.md",
-    "la Voie Nerdée/grub.md",
     "media/linus-torvalds-finger.jpg",
     "media/717wxusCslL.tmp.jpg",
     "media/717wxusCslL.jpg",
@@ -234,7 +253,6 @@
     "media/71rZC9gidXL.webp",
     "media/banners/la Voie Nerdée.png",
     "media/banners/Memoria.png",
-    "media/banners/la Merde.jpg",
     "media/eslint.config.mjs",
     "media/banners",
     "banners",
@@ -243,7 +261,6 @@
     "la Zone Rouge/Scooters.base",
     "la Zone Rouge/media",
     "la Zone Rouge",
-    "la Zone rouge",
     "Untitled.canvas"
   ]
 }
