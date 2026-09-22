@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[la Voie Nerdée.png]]"
+banner: "[[la Voie Nerdee.png]]"
 banner_icon: 🔭
 ---
 # 🪶 le Logiciel

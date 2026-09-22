@@ -14,7 +14,6 @@
 ## Labels
 
 To break the outer loop inside inner loop we can use _labels:_
-
 ```jsx
 labelName: for (let i = 0; i < 3; i++) {
 
@@ -26,8 +25,9 @@ labelName: for (let i = 0; i < 3; i++) {
   }
 }
 ```
-
 The `continue` directive can also be used with a label.
+
+
 
 
 

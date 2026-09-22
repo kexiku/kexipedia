@@ -46,11 +46,14 @@ They are used “under the cover” of `await` as well, as it’s another form
 
 To schedule a new _microtask_
 
-- Use `queueMicrotask(f)`.
+- Use `queueMicrotask(f)`
     
     OR
     
-- Use promise handlers.
+- Use promise handlers
+
+
+
 
 
 

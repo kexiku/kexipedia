@@ -1,11 +1,9 @@
 ## setTimeout
-
 ```jsx
 let timerId = setTimeout(func, [delay], [func arguments]...);
 ```
 
 ## setInterval
-
 ```jsx
 let timerId = setInterval(func, [delay], [func arguments]...);
 
