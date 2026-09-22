@@ -4,95 +4,108 @@ cssclasses:
 obsidianUIMode: preview
 banner: "[[Linux.png]]"
 banner_icon: 🪐
+banner_y: 49.6%
 ---
-# 🥀 Fondamentales
+# ♟️ l' Essentiel
 
-- [[Kernel]]
-- [[Packages]]
-- [[POSIX]]
-- [[Devices]]
-- [[Compiling]]
-- [[Environment variables]]
-- [[Standard streams]]
-- [[System calls]]
+- ⚖️ Fundamentals
+	- [[Unix philosophy]]
+	- [[POSIX]]
 
-# ⚗️ Processus
+# 🔮 le Système
 
-- [[Processes]]
-- [[Nice]]
-- [[Signals]]
-- [[Daemons]]
+- 🪔 Core
+	- [[Kernel]]
+	- [[Devices]]
+	- [[System calls]]
 
-# wqewrty
+- 🍄 Resources
+	- [[Memory]]
+	- [[swap]] | [[swappiness]]
 
-- ## 🐚 Shells
+- 🪉 Audio
+	- [[ALSA]]
+	- [[PulseAudio]]
+	- [[PipeWire]]
+
+- ⚗️ Processus
+	- [[Processes]]
+	- [[Environment variables]]
+	- [[Niceness]]
+	- [[Signals]]
+	- [[Daemons]]
+	- [[Standard streams]]
+
+- 🏺 Storage
+	- [[Files]]
+	- [[Filesystem]]
+	- [[Filesystem structure]]
+	- [[VFS]]
+	- [[Inode]]
+	- [[Partitions]]
+	- [[Mounting]]
+	- [[Links]]
+	- [[Symlinks]]
+
+- 📜 Control
+	- [[grub]]
+	- [[systemd]]
+
+# ⚔️ Sécurité
+
+- 🏰 Basic
+	- [[Passwords]]
+	- [[Keyrings]]
+	- [[Firewall]]
+
+- 👑 Access
+	- [[Users]] | [[Groups]]
+	- [[Permissions]]
+	- [[UID]]
+	- [[sudo]]
+
+- 🛡️ Tools
+	- [[ufw]]
+	- [[GnuPG]]
+
+# 🎠 Userland
+
+- 🎪 Distros
+	- [[Debian]]
+
+- 🎟 Desktop
+	- [[Wayland]]
+	- [[Hyprland]]
+	- [[Gnome]]
+
+- 🎭 Multimédia
+	- [[mpd]]
+	- [[yt-dlp]]
+
+-  🎀 Software
+	- [[Packages]]
+	- [[apt]] ([[backports]])
+	- [[Flatpak]]
+
+- 🎈 Utils
+	- [[top]]
+	- [[dd]]
+	- [[git]]
+	- [[reflector]]
+
+# 🕯️ Terminal
+
+- 🐚 Shells
 	- [[bash]]
 	- [[zsh]]
 	- [[fish]]
 
-- ## 🎴 DE
-	- [[Hyprland]]
-	- [[Gnome]]
+- 🪶 Scripting
+	- [[Functions]]
+	- [[Variables]]
+	- [[Pipelines]]
+	- [[Exit codes]]
+	- [[shebang]]
+	
 
-- ## 🥡 Packages
-	- [[apt]] ([[backports]])
-
-# 🪽 L'amorçage
-
-- [[grub]]
-- [[rEFInd]]
-
-# 🗝️ Sécurité
-
-- [[Passwords]]
-- [[Keyrings]]
-- [[Permissions]]
-- [[Firewall]]
-
-# 💃 Users et groupes
-
-- [[Users]] | [[Groups]]
-- [[UID]]
-- [[sudo]]
-- [[Single user mode]]
-
-# 🏷️ les Fichiers
-
-- [[Files]]
-- [[File system]] ([[VFS]])
-- [[File system structure]]
-- [[Inode]]
-- [[Symlinks]]
-- [[Hard & Soft links]]
-
-# ♟️ Mémoire
-
-- [[Partitioning]]
-- [[Mounting]]
-- [[swap]] | [[swappiness]]
-
-# 🎭 Multimédia
-
-- ## 🔉 Audio
-	- [[Audio]]
-	- [[ALSA]]
-	- [[PulseAudio]]
-	- [[PipeWire]]
-- ## 📺 Video
-	- [[Video]]
-
-# 🧩 des Logiciels
-
-- [[yt-dlp]]
-- [[mpd]]
-- [[💿 dd]] 
-- [[ufw]]
-- [[top]]
-- [[GnuPG]]
-- [[git]]
-
-# Varié
-
-- [[GNU]]
-- [[Unix philosophy]]
 

@@ -52,16 +52,22 @@
   column-gap: 3.125rem;
 }
 
-/* Topics*/
+/* Topics */
 .dashboard div>ul>li {
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+  font-variant: var(--h3-variant);
   min-width: 12.5rem;
   width: 15%;
 }
 
 /* Subtopics */
 .dashboard div>ul>li>ul {
-  margin-left: 3px;
-  margin-top: 8px;
+  font-size: var(--font-text-size);
+  font-weight: initial;
+  font-variant: initial;
+  margin-left: 0.1875rem;
+  margin-top: 0.5rem;
 }
 
 /* Embedded images in columns */

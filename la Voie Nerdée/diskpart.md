@@ -6,26 +6,21 @@
 | Microsoft Reserved Partition | msr        | -           | -            | 16 MB           |
 | Windows Partition            | primary    | `Windows`   | `C`          | at least 64 GB  |
 
-# 🛠️ Usage
+## 💽 Usage
 
-## Select object
-
+### Select object
 ```powershell
-diskpart
 list disk
 select disk X # Replace X with your SSD number
 ```
-*Object might be either disk, partition or volume* 
+Object might be either disk, partition or volume.
 
-## Convert to NTFS
-
+### Convert to NTFS
 ```powershell
-clean
 convert gpt
 ```
 
-## Create partitions
-
+### Create partitions
 ```powershell
 ~~~ EFI System Partition ~~~
 create partition efi size=100
@@ -41,7 +36,16 @@ format quick fs=ntfs label="Windows"
 assign letter=C
 ```
 
-> ⚠️ Some commands automatically change the focus: when you create a new partition, the focus immediately switches to it
+### Wipe disk
+```powershell
+clean
+```
+
+> [!WARNING]
+>This process immediately removes all data on the selected drive.
+>Triple-check the disk number before running the `clean` command.
+
+
 
 
 [^1]: Sources:

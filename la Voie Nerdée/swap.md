@@ -9,11 +9,13 @@ The data interchange process is called *swapping*, the rate and assertiveness of
 >It is highly recommend to work with partitions only inside the live USB to prevent data lose and corruption
 
 - Check existing swap space:
+
 ```bash
 swapon -s
 ```
 
 - disable swap volume:
+
 ```bash
 sudo swapoff /dev/<swap_path>
 ```

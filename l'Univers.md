@@ -8,19 +8,19 @@ banner_y: 42.8%
 ---
 # 🔭 la Voie Nerdée
 
-- ## [[la Voie Nerdée/Index|Index]]
+- ## [[la Voie Nerdée]]
 
-# 🧻 la Merde
+# 🧻 Merde
 
-- ## [[la Merde/Index|Index]]
+- ## [[Merde]]
 
 # 🛵 la Zone Rouge
 
-- ## [[la Zone Rouge/Index|Index]]
+- ## [[la Zone Rouge|la Zone Rouge]]
 
 # 💿 Memoria
 
-- ## [[Memoria/Index|Index]]
+- ## [[Memoria|Memoria]]
 
 # dd
 

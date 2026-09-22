@@ -3,14 +3,9 @@
 By default keyrings use the user’s login password to unlock. If the login password has changed or auto-login is enabled, they may not unlock automatically.
 To fix this, you can update the keyring's password to match your new one.
 
-# Gnome
-## ☘️ Update login keyring
+## 🪛 Troubleshooting
 
-- Open Seahorse *("Passwords and Keys")*
-- > Login keyring
-- > Change Password
-
-## 🪦 In case you don't remember old password
+In case you don't remember your previous password and want to reset keyrings
 
 - Remove existing keyring:
 

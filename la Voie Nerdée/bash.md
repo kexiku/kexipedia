@@ -7,12 +7,6 @@
 `~/.bashrc`
 - Executed for non-login interactive shells
 
-Reload the shell after making changes in config files:
-
-```bash
-source ~/.bashrc # for example
-```
-
 ## 🔑 Hotkeys
 
 | *Command*             | *Meaning*                                       |
@@ -42,10 +36,6 @@ source ~/.bashrc # for example
 
 ![[moving_cli(1) 1.png]]
 
-# ✒️ Scripting
-
-[[Exit codes]]
-[[shebang]]
 
 
 

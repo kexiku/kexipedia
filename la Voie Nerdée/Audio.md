@@ -22,8 +22,6 @@ Lossy encoding removes data from the PCM stream to safe space, while lossless en
 
 A new property encoding brings is the *bit rate*, which determines the amount of data processed per time unit, measured in kilobits per second (kbps)
 
-# 💃 ALSA
-
 
 
 

@@ -1,23 +1,17 @@
+/* hide window controls */
+div[aria-label="Close window"] { display: none !important; }
+div[aria-label="Restore down"] { display: none !important; }
+div[aria-label="Minimize"] { display: none !important; }
+
 /* adjust title size */
 .markdown-preview-view .inline-title,
 .markdown-source-view.mod-cm6 .inline-title {
   font-size: 2.3rem;
 }
 
+/* adjust icon */
 .banner-icon {
   padding-left: 0.5rem;
-}
-
-/* remove borders around callouts */
-.callout {
-  border: none !important;
-  box-shadow: none !important;
-  /* background-color: transparent !important; */
-}
-
-.cm-embed-block.cm-callout {
-  outline: none !important;
-  box-shadow: none !important;
 }
 
 /* remove borders around properties */
@@ -25,6 +19,29 @@
   border: none !important;
   box-shadow: none !important;
   background-color: transparent !important;
+}
+
+/* add space around code blocks */
+.cm-line:has(+ .HyperMD-codeblock-begin) {
+  padding-bottom: 1rem !important;
+}
+
+.HyperMD-codeblock-end + .cm-line {
+  padding-top: 1rem !important;
+}
+
+/* add space around callouts */
+.cm-line:has(+ .cm-callout) {
+  padding-bottom: 1rem !important;
+}
+
+.cm-callout + .cm-line {
+  padding-top: 1rem !important;
+}
+
+/* add rounded corners to the callout title */
+.callout-title {
+  border-radius: 5px 5px 0 0;
 }
 
 /* remove link underlines */

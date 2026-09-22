@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "098794e4f53debeb",
+        "id": "c6253311f4529187",
         "type": "tabs",
         "children": [
           {
-            "id": "5a092daf81b422e3",
+            "id": "52b2824a233ed2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'Univers.md",
+                "file": "la Voie Nerdée/Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "l'Univers"
-            }
-          },
-          {
-            "id": "3ccd8f5b793d24fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdée/💿 dd.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "💿 dd"
+              "title": "Linux"
             }
           }
         ]
@@ -112,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdée/Arch.md",
+                "file": "la Voie Nerdée/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,14 +172,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "l'Univers.md"
+                "file": "la Voie Nerdée/Linux.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,44 +196,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a092daf81b422e3",
+  "active": "52b2824a233ed2d2",
   "lastOpenFiles": [
-    "la Voie Nerdée/💿 dd.md",
-    "l'Univers.md",
+    "la Voie Nerdée/System calls.md",
     "la Voie Nerdée/Linux.md",
-    "la Voie Nerdée/⛓️‍💥 Non-blocking I／O.md",
-    "la Voie Nerdée/📦 npm.md",
-    "la Voie Nerdée/Keyrings.md",
+    "la Voie Nerdée/VFS.md",
+    "l'Univers.md",
+    "la Voie Nerdée/Unix philosophy.md",
+    "la Voie Nerdée/Debian.md",
+    "la Voie Nerdée/Users.md",
+    "la Voie Nerdée/Permissions.md",
+    "la Voie Nerdée/PulseAudio.md",
+    "la Voie Nerdée/sudo.md",
+    "la Voie Nerdée/systemd.md",
+    "media/banners/systemd.png",
+    "media/banners/ttynwc8l6ie41.png",
+    "la Voie Nerdée/Links.md",
+    "la Voie Nerdée/Inode.md",
     "la Voie Nerdée/Files.md",
-    "la Voie Nerdée/File system structure.md",
-    "la Voie Nerdée/Arch.md",
-    "la Voie Nerdée/grub.md",
-    "la Voie Nerdée/pacman.md",
-    "la Voie Nerdée/Partitioning.md",
-    "la Voie Nerdée/iwctl.md",
-    "la Voie Nerdée/Index.md",
+    "la Voie Nerdée/la Voie Nerdée.md",
+    "la Voie Nerdée/mpd.md",
+    "la Voie Nerdée/ALSA.md",
+    "la Voie Nerdée/Environment variables.md",
+    "la Voie Nerdée/Mounting.md",
+    "la Voie Nerdée/ufw.md",
+    "la Voie Nerdée/shebang.md",
+    "la Voie Nerdée/bash.md",
+    "la Voie Nerdée/diskpart.md",
+    "la Voie Nerdée/Wiblows.md",
     "media/banners/Linux.png",
-    "la Voie Nerdée/⏺️ Types.md",
-    "la Merde/Callouts.md",
-    "la Merde/🏴‍☠️ Yarr.md",
-    "la Merde/Index.md",
-    "la Voie Nerdée/JavaScript.md",
-    "Memoria/Index.md",
+    "la Voie Nerdée/UID.md",
+    "la Voie Nerdée/grub.md",
+    "media/linus-torvalds-finger.jpg",
+    "media/717wxusCslL.tmp.jpg",
+    "media/717wxusCslL.jpg",
+    "Memoria/USB.base",
+    "media/71rZC9gidXL.webp",
+    "media/banners/la Voie Nerdée.png",
     "media/banners/Memoria.png",
     "media/banners/la Merde.jpg",
-    "la Voie Nerdée/Gnome.md",
-    "la Voie Nerdée/GnuPG.md",
-    "la Voie Nerdée/Debian.md",
-    "media/761356774688.jpg",
-    "media/banners/Debian.jpg",
-    "la Voie Nerdée/Hyprland.md",
-    "la Voie Nerdée/yt-dlp.md",
-    "la Voie Nerdée/zsh.md",
-    "media/banners/Δέλτα.jpg",
-    "media/banners/Γάμμα.jpg",
-    "media/banners/Βήτα.jpg",
-    "media/banners/Άλφα.jpg",
-    "media/banners/Unix philosophy.png",
     "media/eslint.config.mjs",
     "media/banners",
     "banners",
@@ -259,7 +244,6 @@
     "la Zone Rouge/media",
     "la Zone Rouge",
     "la Zone rouge",
-    "La Zone Rouge",
     "Untitled.canvas"
   ]
 }

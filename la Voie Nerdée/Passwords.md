@@ -5,30 +5,32 @@ All user passwords are converted into a unique hash using a one-way function, th
 
 Most Linux distros use the SHA-512 algorithm for password hashing, although other algorithms like MD5 or SHA-256 may also be used depending on the system configuration.
 
-## 👤 Change password
+## 🔒 Management
 
+- Change password:
 ```bash
 passwd
-
-# to override password restrictions:
-sudo passwd <username>
 ```
-
-- It's a good idea to also change the login [[Keyrings|keyring]] password right after changing the user one
-
-## 🔒 Lock password
-
+- Lock password:
 ```bash
 passwd -l <username>
 
 # to check if its locked:
 sudo exigrep <username> /etc/shadow
 
-# If a line beginning with `!` or a `*` symbols after a username it signalize that the account is disabled;
+# If a line beginning with `!` or a `*` symbols after a username it signalize that the account is disabled
 # Any other value would indicate a working password
 ```
+- Change password timeout:
+```bash
+sudo visudo
 
+# Locate this line:
+Defaults        env_reset, timestamp_timeout=30 # Set this value (in minutes)
 
+# Set to '0' to make it asks for a password every single time
+# Set to '-1' to disable time out
+```
 
 
 
