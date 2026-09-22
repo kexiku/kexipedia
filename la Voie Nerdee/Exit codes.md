@@ -2,9 +2,9 @@ An *exit code* (also known as an *status code*) is a numerical value returned by
 
 Code `0` generally indicates a successful result; anything other than `0` is considered an error.
 
-The `?` environment variable contains info about the exit status of the previous command.
+The `?` [[environment variables|environment variable]] contains info about the exit status of the previous command.
 
-# 🔀 Condition chaining
+## 🔀 Condition chaining
 
 | *Operator* | *Name*    | *Meaning*                                             |
 | ---------- | --------- | ----------------------------------------------------- |

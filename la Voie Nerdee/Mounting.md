@@ -1,4 +1,4 @@
-*Mounting* is a process of making a file system accessible to the OS by attaching it to a specific directory (the mount point).
+*Mounting* is a process of making a [[filesystem]] accessible to the OS by attaching it to a specific directory (the mount point).
 
 The `/etc/fstab` is a system configuration file that defines how disk partitions, remote file systems and other storage devices should be mounted.
 

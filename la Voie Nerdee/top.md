@@ -1,4 +1,4 @@
-The *top* is a command-line system monitoring utility available on various UNIX systems.
+*top* is a command-line system monitoring utility available on various UNIX systems.
 It presents a real-time view of running [[processes]] along with overall resource usage details such as CPU load, memory consumption etc.
 
 ## 🧰 Main interface

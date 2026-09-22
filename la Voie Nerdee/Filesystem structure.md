@@ -18,7 +18,7 @@ Bootloader and kernel files
 ## `/dev`
 
 Device files
-(e.g. USB, disk partitions, `/dev/null`)
+(e.g. USB, disk [[partitions]], `/dev/null`)
 
 ## `/etc`
 
@@ -36,15 +36,15 @@ Libraries required for binaries in `/bin` and `/sbin`
 
 ## `/media`
 
-Mount points for removable devices
+[[Mounting|Mount]] points for removable devices
 
 ## `/mnt`
 
-Temporarily [[Mounting|mounted]] filesystems
+Temporarily mounted filesystems
 
 ## `/opt`
 
-Third-party software and packages
+Third-party software and [[packages]]
 
 ### `/proc`
 
@@ -52,7 +52,7 @@ Virtual filesystem providing detailed information about system [[processes]] and
 
 ## `/root`
 
-Root user's home directory
+[[Root]] user's home directory
 
 ## `/run`
 
@@ -60,7 +60,7 @@ Runtime data: information about the system state since the last boot, including 
 
 ## `/sbin`
 
-Essential *system* binaries used for administrative purposes
+Essential system binaries used for administrative purposes
 (e.g. `iptables`, `reboot`, `fdisk`, `swapon`)
 
 ## `/srv`

@@ -15,8 +15,7 @@ Those permissions are assigned to three categories of users:
 
 Use the `ls` command with `-l` flag to view the permissions set for the files and directories
 
-# 🔏 Change permissions
-
+## 🔏 Change permissions
 ```bash
 chmod <who>=<permissions> <file>
 
@@ -25,7 +24,6 @@ chmod <who>=<permissions> <file>
 
 You can also add or subtract permissions from an existing set using `+` or `-` instead of `=`.
 For example:
-
 ```bash
 chmod u+x foobar
 
@@ -36,7 +34,6 @@ chmod u+x foobar
 It allows you to edit permissions for the owner, group, and others at the same time.
 
 The basic code structure is this:
-
 ```bash
 chmod xxx <file>
 ```
@@ -44,6 +41,8 @@ chmod xxx <file>
 Where `xxx` is a 3-digit number where each digit can be anything from 0 to 7. The first digit applies to permissions for owner, the second digit applies to permissions for group, and the third digit applies to permissions for all others.
 
 ![[fb1a898a-8440-430e-8ffa-3612d0555e6f_1768x1288.png]]
+
+
 
 
 

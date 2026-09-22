@@ -34,5 +34,7 @@ Defaults        env_reset, timestamp_timeout=30 # Set this value (in minutes)
 
 
 
+
+
 [^1]: Sources:
 	https://eitca.org/cybersecurity/eitc-is-lsa-linux-system-administration/basic-linux-sysadmin-tasks/user-account-management/examination-review-user-account-management/how-are-passwords-stored-and-managed-in-linux/

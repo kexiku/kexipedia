@@ -1,4 +1,4 @@
-Lower swappiness values prioritize keeping data in RAM, while higher swappiness values result in assertive swapping
+Lower swappiness values prioritize keeping data in RAM, while higher swappiness values result in assertive swapping.
 
 | Swappiness Value | Swappiness Effect                    |
 | ---------------- | ------------------------------------ |
@@ -6,18 +6,19 @@ Lower swappiness values prioritize keeping data in RAM, while higher swappiness 
 | 10-50            | Slightly aggressive swappiness       |
 | 50-100           | Moderately aggressive swappiness     |
 | > 100            | Very aggressive swappiness           |
-## Change swappiness value
+## 💽 Change swappiness value
 
 - Check the `/proc/sys/vm/swappiness`
 - Edit `/etc/sysctl.conf`:
 ```bash
 vm.swappiness = [value]
 ```
-
 - Apply changes:
 ```bash
 sudo sysctl -p
 ```
+
+
 
 
 

@@ -65,6 +65,8 @@ managed=true # make sure it set to 'true'
 sudo apt install git zsh stow gnome-tweaks gnome-shell-extension-manager seahorse python3-pip python3-venv pipx freefilesync -y
 ```
 
+[[Debian releases]]
+
 
 [^1]: Sources:
 	https://www.reddit.com/r/debian/comments/14ykux3/comment/jrsuowc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button

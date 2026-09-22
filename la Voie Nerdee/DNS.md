@@ -41,6 +41,7 @@ It works like a phonebook for IP addresses so that users can access websites usi
 
 
 
+
 [^1]: Sources:
 	https://www.cloudflare.com/learning/dns/what-is-dns/
 	https://www.cloudflare.com/learning/dns/dns-server-types/

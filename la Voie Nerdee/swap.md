@@ -5,7 +5,7 @@ The data interchange process is called *swapping*, the rate and assertiveness of
 
 ## Increase/Decrease Swap Space
 
->[!warning] Note
+>[!warning]
 >It is highly recommend to work with partitions only inside the live USB to prevent data lose and corruption
 
 - Check existing swap space:

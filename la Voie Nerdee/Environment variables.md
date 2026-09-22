@@ -37,5 +37,6 @@ env <VARIABLE>=<VALUE> <command>
 
 
 
+
 [^1]: Sources:
 	https://www.cherryservers.com/blog/how-to-set-list-and-manage-linux-environment-variables

@@ -11,12 +11,12 @@ It allows programs to request access to privileged resources such as CPU, disk s
 
 ## 📁 File management
 
-- Operations on files and directories
+- Operations on [[files]] and directories
 - Examples: `open()`, `read()`, `write()`, `close()`
 
 ## 🖨️ Device management
 
-- Interacting with hardware devices and their buffers
+- Interacting with hardware [[devices]] and their buffers
 - Example: `ioctl()`
 
 ## 📄 Information maintenance

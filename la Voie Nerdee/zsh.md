@@ -15,5 +15,6 @@ echo $SHELL # Expected `/bin/zsh` or similar
 
 
 
+
 [^1]: Sources:
 	https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH

@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c6253311f4529187",
+        "id": "3e4fedae845e6c80",
         "type": "tabs",
         "children": [
           {
-            "id": "52b2824a233ed2d2",
+            "id": "aeac4c341bdcf263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdee/Linux.md",
+                "file": "l'Univers.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "662848e3d3cff750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdee/la Voie Nerdee.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "la Voie Nerdee"
+              "title": "l'Univers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdee/la Voie Nerdee.md",
+                "file": "l'Univers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,15 +171,12 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "la Voie Nerdee/la Voie Nerdee.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,35 +194,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "662848e3d3cff750",
+  "active": "aeac4c341bdcf263",
   "lastOpenFiles": [
-    "la Voie Nerdee/Linux.md",
-    "la Voie Nerdee/la Voie Nerdee.md",
-    "media/banners/la Voie Nerdee.png",
-    "la Voie Nerdee/Daemons.md",
-    "l'Univers.md",
-    "la Voie Nerdée/la Voie Nerdee.md",
-    "la Voie Nerdee/Δέλτα.md",
-    "la Voie Nerdee/Γάμμα.md",
-    "la Voie Nerdee/Βήτα.md",
-    "la Voie Nerdee/Άλφα.md",
     "la Voie Nerdee/zsh.md",
     "la Voie Nerdee/yt-dlp.md",
+    "la Voie Nerdee/Wimblows.md",
+    "la Voie Nerdee/la Voie Nerdee.md",
     "la Voie Nerdee/winget.md",
+    "la Voie Nerdee/Von Neumann architecture.md",
+    "la Voie Nerdee/VFS.md",
+    "la Voie Nerdee/Users.md",
+    "la Voie Nerdee/Unix philosophy.md",
+    "la Voie Nerdee/UID.md",
     "la Voie Nerdee/ufw.md",
+    "la Voie Nerdee/UDP.md",
+    "la Voie Nerdee/Types.md",
     "la Voie Nerdee/top.md",
+    "la Voie Nerdee/Timers.md",
+    "la Voie Nerdee/Thunderbolt Firmware.md",
+    "la Voie Nerdee/This.md",
+    "la Voie Nerdee/TCP.md",
     "la Voie Nerdee/systemd.md",
+    "la Voie Nerdee/System calls.md",
+    "la Voie Nerdee/Symlinks.md",
     "la Voie Nerdee/swappiness.md",
     "la Voie Nerdee/swap.md",
-    "la Voie Nerdee/sudo.md",
-    "la Voie Nerdee/shebang.md",
-    "la Voie Nerdee/reflector.md",
-    "la Voie Nerdee/npm.md",
-    "la Voie Nerdee/mpd.md",
-    "la Voie Nerdee/iwctl.md",
-    "la Voie Nerdee/grub.md",
-    "la Voie Nerdee/git.md",
+    "Merde/Callouts.md",
+    "la Voie Nerdee/backports.md",
     "la Voie Nerdee/diskpart.md",
+    "media/banners/la Voie Nerdee.png",
     "la Voie Nerdee",
     "media/banners/systemd.png",
     "media/banners/ttynwc8l6ie41.png",

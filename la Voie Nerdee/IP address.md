@@ -1,4 +1,3 @@
-
 An *IP address* is a unique identifier assigned to each device connected to a computer network that uses the [[IP|Internet Protocol]] for communication.
 
 It presents a sequence of characters which can reveals the user's approximate geographical location and identify their Internet Service Provider ([[ISP]])
@@ -29,6 +28,7 @@ It presents a sequence of characters which can reveals the user's approximate ge
 
 - Temporarily assigned from a pool of available addresses by the Dynamic Host Configuration Protocol ([[DHCP]])
 - Efficient for providers and consumer devices that do not require permanent addresses
+
 
 
 

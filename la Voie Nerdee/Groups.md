@@ -6,13 +6,11 @@ The `/etc/group` file contains a list of groups on the system.
 # Usage
 
 - Add user to the group:
-
 ```bash
 sudo usermod -aG <group> <username>
 ```
 
-- Display groups the user belongs to:
-
+- Show user's groups:
 ```bash
 groups <username>
 ```
