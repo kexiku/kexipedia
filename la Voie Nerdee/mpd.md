@@ -1,11 +1,11 @@
-# 🛠️ Setup
+## ⚙️ Config
 
 MPD use the `mpd.conf` file which can be located in one of two paths depending on the setup:
 
 1. `~/.config/mpd/mpd.conf` in per-user configuration mode
 2. `/etc/mpd.conf` in system-wide configuration mode
 
-## 👤 Per-user config
+To add a per-user config:
 
 - Copy the config file included in the package to the MPD's config location:
 ```bash
@@ -25,6 +25,8 @@ mkdir <state_dir>
 systemctl --user start mpd.service
 # Enable it to auto-start mpd on login
 ```
+
+
 
 
 

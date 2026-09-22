@@ -41,9 +41,10 @@ assign letter=C
 clean
 ```
 
-> [!WARNING]
+> [!warning]
 >This process immediately removes all data on the selected drive.
 >Triple-check the disk number before running the `clean` command.
+
 
 
 

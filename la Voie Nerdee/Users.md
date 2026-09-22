@@ -23,7 +23,7 @@ There are 3 types of users in Linux:
 A list of all user accounts is stored in `/etc/passwd` file, which also contains some useful information like user ID, group ID, etc.
 Despite the file name it doesn't actually store users [[Passwords|passwords]]: on modern Unix systems, they are written in `/etc/shadow`, hashed for security reasons.
 
-# 👥 Management
+## 👥 Management
 
 - Add user:
 ```bash
@@ -41,16 +41,7 @@ passwd <username>
 sudo deluser <username>
 ```
 
-# ✏️ User editing
-
 - Add a comment for a user:
-
 ```bash
 sudo usermod -c "comment" <username>
-```
-
-- Change the home directory of a user:
-
-```bash
-sudo usermod -d /home/manav test_user
 ```

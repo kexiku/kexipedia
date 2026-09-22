@@ -1,4 +1,3 @@
-# JavaScript
 ## String Concatenation
 
 - If the binary `+` is applied to strings, it merges (concatenates) them

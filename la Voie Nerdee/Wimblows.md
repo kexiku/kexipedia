@@ -1,3 +1,2 @@
-- [[winget]]
 - [[diskpart]]
 - [[Thunderbolt Firmware]]

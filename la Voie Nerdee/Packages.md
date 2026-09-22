@@ -6,5 +6,6 @@ A tool that handle the process of installing, updating and removing packages cal
 
 
 
+
 [^1]: Sources:
 	https://www.r-bloggers.com/2024/12/a-beginners-guide-to-package-management-in-linux/

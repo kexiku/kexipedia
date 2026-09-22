@@ -10,6 +10,7 @@ Once the packets arrive at their destination, they are handled differently depen
 
 
 
+
 [^1]: Sources:
 	https://www.cloudflare.com/learning/network-layer/internet-protocol/
 	https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/

@@ -4,15 +4,13 @@ When a signal is sent to a process, the operating system interrupts its executio
 
 If a process has defined a custom method to handle a specific signal, that method is executed; otherwise the system uses the default signal handler.
 
-## Usage
+## 📡 Usage
 
 To send a specific signal to process, use `kill` command:
-
 ```bash
 kill [-signal] <PID>
 # Sends SIGTERM signal by default
 ```
-
 Signal can be specified by its number or a signal name (either with or without the `SIG` prefix).
 
 ### Common signals

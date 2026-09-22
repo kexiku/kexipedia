@@ -1,5 +1,6 @@
-- Burn image to a USB drive:
+## 💿 Usage
 
+- Burn image to a USB drive:
 ```bash
 # Check the mounted USB drive name
 lsblk

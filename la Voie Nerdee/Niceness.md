@@ -9,16 +9,14 @@ It's a user-adjustable value that suggests to the kernel how "nice" a process sh
 - The default nice value for a newly started process is usually `0`
 - A user can only increase the nice value of their own processes
 
-## 🪛 Usage
+## ✨ Usage
 
 - Start a new command with a specified nice value:
-
 ```bash
 nice -n <nice_value> <command>
 ```
 
 - Change the nice value of an already running process:
-
 ```bash
 renice -n <nice_value> -p <PID>
 ```

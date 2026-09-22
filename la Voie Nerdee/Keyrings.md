@@ -5,16 +5,8 @@ To fix this, you can update the keyring's password to match your new one.
 
 ## 🪛 Troubleshooting
 
-In case you don't remember your previous password and want to reset keyrings
-
-- Remove existing keyring:
-
+In case you don't remember your previous password and want to reset keyrings:
 ```bash
+# Remove existing keyring
 rm ~/.local/share/keyrings/login.keyring && rm ~/.local/share/keyrings/user.keystore
-```
-
-- Reload the Gnome keyring daemon:
-
-```bash
-systemctl --user restart gnome-keyring-daemon.service
 ```

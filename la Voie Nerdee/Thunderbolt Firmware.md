@@ -30,6 +30,8 @@
 
 
 
+
+
 [^1]: Sources:
 	[https://www.reddit.com/r/thinkpad/comments/1aphtz2/is_there_any_simple_explanation_of_how_to_update/](https://www.reddit.com/r/thinkpad/comments/1aphtz2/is_there_any_simple_explanation_of_how_to_update/)
 	[https://pcsupport.lenovo.com/it/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/solutions/ht508988](https://pcsupport.lenovo.com/it/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/solutions/ht508988)

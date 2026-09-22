@@ -1,13 +1,13 @@
-## 🛠️ Config
+## ⚙️ Config
 
  `~/.bash_profile`
 - Executed only for login interactive shells
-- Useful for [[Environment variables]], aliases and functions
+- Useful for [[Environment variables]], [[aliases]] and [[functions]]
 
 `~/.bashrc`
 - Executed for non-login interactive shells
 
-## 🔑 Hotkeys
+## ⌨️ Hotkeys
 
 | *Command*             | *Meaning*                                       |
 | --------------------- | ----------------------------------------------- |
@@ -27,7 +27,6 @@
 | `Alt + T`             | Swap current word with previous                 |
 | `Alt + U`             | Uppercase characters from cursor to end of word |
 | `Alt + L`             | Lowercase characters from cursor to end of word |
-| `Alt + ?`             | Display the content of current directory        |
 | `Ctrl + C`            | Terminate the current process                   |
 | `Ctrl + Z`            | Suspend the current process                     |
 | `Ctrl + S`            | Pause the current process                       |
@@ -35,6 +34,8 @@
 | `Ctrl + D`            | Exit shell                                      |
 
 ![[moving_cli(1) 1.png]]
+
+
 
 
 

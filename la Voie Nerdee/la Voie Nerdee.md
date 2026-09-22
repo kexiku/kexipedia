@@ -9,7 +9,7 @@ banner_icon: 🔭
 
 - 💽 OS
 	- [[Linux]]
-	- [[Wiblows]]
+	- [[Wimblows]]
 
 # 🪨 le Matériel
 
