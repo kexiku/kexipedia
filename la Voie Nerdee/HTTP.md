@@ -3,7 +3,7 @@
 Each individual request is sent to a server, which handles it and provides an answer called the _response_.
 
 Between the client and the server there are numerous entities, collectively called [proxies](https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server).
-![[http-layers.jpg]]
+![[http-layers.webp]]
 
 **Basic aspects of HTTP:**
 
@@ -87,10 +87,10 @@ When a client wants to communicate with a server, it performs the following step
 
 ## ✉️ Messages
 🟡 Request:
-![[http-request.jpg]]
+![[http-request.webp]]
 
 🟢 Response:
-![[http-response.jpg]]
+![[http-response.webp]]
 
 
 > **Sources:**

@@ -49,7 +49,7 @@ There are various [[system calls]] which control the process execution:
 - Retrieve the [[Exit codes|exit status]] of the last process it waited for
 
 > [!example]- Flow scheme
-![[Screenshot From 2026-01-29 22-06-41.png|400]]
+![[Screenshot From 2026-01-29 22-06-41.webp|400]]
 
 
 

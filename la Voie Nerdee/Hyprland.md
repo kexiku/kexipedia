@@ -1,5 +1,5 @@
 ---
-banner: "[[Hyprland.jpg]]"
+banner: "[[Hyprland.webp]]"
 banner_icon: 💧
 ---
 ## ⚙️ Setup

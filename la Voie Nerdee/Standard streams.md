@@ -16,7 +16,7 @@ There are 3 types of I/O connections:
 - A stream which program writes error messages to
 - Use `2` file descriptor
 
-![[standard-stream.png]]
+![[standard-stream.webp]]
 
 # 🚏 Redirection
 
@@ -33,7 +33,6 @@ There are 3 types of I/O connections:
 # 🫖 tee
 
 To write the standard input to both standard output and one or more files, use `tee` command:
-
 ```bash
 <program> | tee -a output.txt
 

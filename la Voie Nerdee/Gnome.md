@@ -1,5 +1,5 @@
 ---
-banner: "[[Gnome.jpg]]"
+banner: "[[Gnome.webp]]"
 banner_icon: 🐾
 banner_y: 68.4%
 ---

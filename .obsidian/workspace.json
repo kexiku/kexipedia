@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4fedae845e6c80",
+        "id": "de3a20770423190c",
         "type": "tabs",
         "children": [
           {
-            "id": "aeac4c341bdcf263",
+            "id": "0d109670eef296b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,12 +171,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "la Voie Nerdee/Άλφα.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,34 +197,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aeac4c341bdcf263",
+  "active": "0d109670eef296b3",
   "lastOpenFiles": [
+    "la Voie Nerdee/OSI model.md",
+    "l'Univers.md",
+    "la Voie Nerdee/Arrays.md",
+    "la Voie Nerdee/Unix philosophy.md",
+    "la Voie Nerdee/bash.md",
+    "la Voie Nerdee/Permissions.md",
+    "la Voie Nerdee/git.md",
+    "la Voie Nerdee/Άλφα.md",
+    "Videos",
+    "la Voie Nerdee/Δέλτα.md",
+    "Merde/Merde.md",
+    "Merde/Callouts.md",
+    "Merde/🏴‍☠️ Yarr.md",
+    "Memoria/Memoria.md",
+    "Memoria/BC711.md",
+    "la Voie Nerdee/VFS.md",
+    "la Zone Rouge/la Zone Rouge.md",
+    "la Zone Rouge/Thérèse.md",
+    "la Zone Rouge/Joséphine.md",
+    "la Zone Rouge/IMG_20220819_151538.jpg.md",
+    "la Zone Rouge/Hélène.md",
+    "la Voie Nerdee/Γάμμα.md",
+    "la Voie Nerdee/Βήτα.md",
     "la Voie Nerdee/zsh.md",
     "la Voie Nerdee/yt-dlp.md",
     "la Voie Nerdee/Wimblows.md",
-    "la Voie Nerdee/la Voie Nerdee.md",
-    "la Voie Nerdee/winget.md",
     "la Voie Nerdee/Von Neumann architecture.md",
-    "la Voie Nerdee/VFS.md",
-    "la Voie Nerdee/Users.md",
-    "la Voie Nerdee/Unix philosophy.md",
-    "la Voie Nerdee/UID.md",
-    "la Voie Nerdee/ufw.md",
-    "la Voie Nerdee/UDP.md",
-    "la Voie Nerdee/Types.md",
-    "la Voie Nerdee/top.md",
-    "la Voie Nerdee/Timers.md",
-    "la Voie Nerdee/Thunderbolt Firmware.md",
-    "la Voie Nerdee/This.md",
-    "la Voie Nerdee/TCP.md",
-    "la Voie Nerdee/systemd.md",
-    "la Voie Nerdee/System calls.md",
-    "la Voie Nerdee/Symlinks.md",
-    "la Voie Nerdee/swappiness.md",
-    "la Voie Nerdee/swap.md",
-    "Merde/Callouts.md",
-    "la Voie Nerdee/backports.md",
-    "la Voie Nerdee/diskpart.md",
     "media/banners/la Voie Nerdee.png",
     "la Voie Nerdee",
     "media/banners/systemd.png",
@@ -241,7 +245,6 @@
     "Banners",
     "la Zone Rouge/Scooters.base",
     "la Zone Rouge/media",
-    "la Zone Rouge",
     "Untitled.canvas"
   ]
 }

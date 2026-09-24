@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[JavaScript.jpg]]"
+banner: "[[JavaScript.webp]]"
 banner_icon: 🍹
 ---
 # Basics

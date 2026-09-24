@@ -4,6 +4,6 @@ tags:
 model: Honda Click
 plate:
 mileage: 842 km
-pic: "[[DSCF4178-large.jpg]]"
+pic: "[[DSCF4178-large.webp]]"
 note: "starting mileage: 10698 km"
 ---
