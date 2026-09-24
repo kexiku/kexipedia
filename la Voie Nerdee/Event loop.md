@@ -1,4 +1,4 @@
-![[Node.js-Architecture-Chart.jpg]]
+![[Node.js-Architecture-Chart.webp]]
 
 As stated in the [specification](https://tc39.github.io/ecma262/#sec-jobs-and-job-queues):
 
@@ -19,7 +19,7 @@ The general algorithm:
 4. If the macrotask queue is empty, wait till a macrotask appears.
 5. Go to step 1.
 
-![[Screenshot 2024-10-20 194125.png]]
+![[Screenshot 2024-10-20 194125.webp]]
 
 Two more details:
 
@@ -34,7 +34,7 @@ To schedule a new macrotask:
 
 That may be used to split a big calculation-heavy task into pieces, for the browser to be able to react to user events and show progress between them
 
-![[Screenshot 2024-10-20 190325.png]]
+![[Screenshot 2024-10-20 190325.webp]]
 
 ## 🐛 Microtasks
 

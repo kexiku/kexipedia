@@ -1,5 +1,5 @@
 ---
-banner: systemd.png
+banner: systemd.webp
 banner_icon: 🎛️
 ---
 ## 🔧 Manage

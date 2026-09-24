@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[l'Univers.png]]"
+banner: "[[l'Univers.webp]]"
 banner_icon: 🌙
 banner_y: 42.8%
 ---

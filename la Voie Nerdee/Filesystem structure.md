@@ -88,4 +88,4 @@ Non-essential command binaries for all users
 Variable files, such as logs, spool files, and temporary e-mail files
 
 
-![[GQLCKqJbMAA_7U3.jpg]]
+![[GQLCKqJbMAA_7U3.webp]]

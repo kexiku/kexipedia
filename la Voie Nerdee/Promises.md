@@ -8,7 +8,7 @@ The promise object returned by the `new Promise` constructor has these inter
 
 - `state` — initially "pending", then changes to either "fulfilled" when `resolve` is called or "rejected" when `reject` is called.
 - `result` — initially `undefined`, then changes to `value` when `resolve(value)` is called or `error` when `reject(error)` is called.
-![[Screenshot 2024-10-04 141124.png]]
+![[Screenshot 2024-10-04 141124.webp]]
 
 ## 🍔 Consumers
 

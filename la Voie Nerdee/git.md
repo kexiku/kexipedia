@@ -23,7 +23,7 @@
 `git add <file path>`
 📇 Add files to the index
 
-![[Screenshot 2024-08-13 195911.png]]
+![[Screenshot 2024-08-13 195911.webp]]
 
 `git commit -m "<message>"` 
 📩 Create a commit

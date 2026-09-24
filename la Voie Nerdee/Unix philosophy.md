@@ -1,5 +1,5 @@
 ---
-banner: "[[Unix philosophy.png]]"
+banner: "[[Unix philosophy.webp]]"
 banner_icon: 🧬
 ---
 The *Unix philosophy* emphasizes building simple, short, clear and extensible software that can be easily maintained and repurposed by developers.

@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[Linux.png]]"
+banner: "[[Linux.webp]]"
 banner_icon: 🪐
 banner_y: 49.6%
 ---

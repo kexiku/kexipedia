@@ -1,5 +1,5 @@
 ---
-banner: "[[Debian.jpg]]"
+banner: "[[Debian.webp]]"
 banner_icon: 🗻
 ---
 ## 🛠️ Installation

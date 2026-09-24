@@ -67,7 +67,7 @@ let phrase = message;
 ```
 
 As a result we have two independent variables, each one storing the string `"Hello!"`
-![[Screenshot 2024-09-08 092711.png]]
+![[Screenshot 2024-09-08 092711.webp]]
 
 Objects are not like that.
 
@@ -80,7 +80,7 @@ let user = {
 };
 ```
 
-![[Screenshot 2024-09-08 093006.png]]
+![[Screenshot 2024-09-08 093006.webp]]
 
 
 > **When an object variable is copied, the reference is copied, but the object itself is not duplicated.**
@@ -95,7 +95,7 @@ let admin = user; // copy the reference
 ```
 
 Now we have two variables, each storing a reference to the same object:
-![[Screenshot 2024-09-08 093352.png]]
+![[Screenshot 2024-09-08 093352.webp]]
 
 As you can see, there’s still one object, but now with two variables that reference it.
 
