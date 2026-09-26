@@ -1,6 +1,8 @@
 ---
 banner: "[[Debian.webp]]"
 banner_icon: 🗻
+cssclasses:
+  - dashboard
 ---
 ## 🛠️ Installation
 
@@ -62,7 +64,7 @@ managed=true # make sure it set to 'true'
 - Install [[Flatpak]]
 - Install additional packages:
 ```bash
-sudo apt install git zsh stow gnome-tweaks gnome-shell-extension-manager seahorse python3-pip python3-venv pipx freefilesync -y
+sudo apt install fonts-noto freefilesync git gpg gnome-shell-extension-manager gnome-tweaks imagemagick pipx python3-pip python3-venv seahorse stow ufw unifont wget yt-dlp zsh zsh-syntax-highlighting -y
 ```
 
 [[Debian releases]]

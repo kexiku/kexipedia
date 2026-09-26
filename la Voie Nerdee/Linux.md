@@ -4,7 +4,7 @@ cssclasses:
 obsidianUIMode: preview
 banner: "[[Linux.webp]]"
 banner_icon: 🪐
-banner_y: 49.6%
+banner_y: 50.0%
 ---
 # ♟️ l' Essentiel
 
@@ -34,7 +34,6 @@ banner_y: 49.6%
 	- [[Niceness]]
 	- [[Signals]]
 	- [[Daemons]]
-	- [[Standard streams]]
 
 - 🏺 Storage
 	- [[Files]]
@@ -108,7 +107,15 @@ banner_y: 49.6%
 	- [[Variables]]
 	- [[Pipelines]]
 	- [[Exit codes]]
+	- [[Regular expressions]]
 	- [[shebang]]
+	- [[sed]]
+	- [[set]]
+	- [[command]]
+
+- ⚰️ I/O
+	- [[Standard streams]]
+	- [[Pipelines]]
+	- [[Redirection]]
+	- [[tee]]
 	
-
-

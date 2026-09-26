@@ -14,3 +14,8 @@ sudoedit # same as sudo -e
 ```
 This will create a temporary copy of that file which is owned by *your* user account, not the root user, and, if being modified, save the file to its original location.
 It allows to preserve user configurations, themes and plugins while editing the file.
+
+- Update a timestamp (useful at the beginning of scripts):
+```bash
+sudo -v
+```

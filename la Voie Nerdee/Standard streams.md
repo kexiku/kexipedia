@@ -18,28 +18,6 @@ There are 3 types of I/O connections:
 
 ![[standard-stream.webp]]
 
-# 🚏 Redirection
-
-| *Operator* | *Meaning*                                                 |
-| ---------- | --------------------------------------------------------- |
-| `>`        | Redirect to a file or another stream (overwrite data)     |
-| `>>`       | Redirect to a file or another stream (append data)        |
-| `2>`       | Redirect to a file or another stream (use stream `2`)     |
-| `2>&1`     | Redirect stream `2` to the same destination as stream `1` |
-| `<`        | input data from a file                                    |
-| `<<`       | input data from another input (line by line)              |
-| `<<<`      | input data from a string                                  |
-| `︱`        | Pipe to another command                                   |
-# 🫖 tee
-
-To write the standard input to both standard output and one or more files, use `tee` command:
-```bash
-<program> | tee -a output.txt
-
-# -a flag stands for append
-# (tee replaces the content of the target file by default)
-```
-
 
 
 
