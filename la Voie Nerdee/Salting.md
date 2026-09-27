@@ -1,4 +1,4 @@
-In cryptography, a *salt* is random data added to a password before hashing to create a unique value for every hashed password.
+In cryptography, a *salt* is random data added to a password before [[hash|hashing]] to create a unique value for every hashed password.
 This makes it impossible for an attacker to derive passwords from their hashes using [[rainbow tables]], as they would need to create separate tables for every single salt.
 
 # 🧂 How it works

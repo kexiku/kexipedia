@@ -1,6 +1,6 @@
 {
   "enableBanners": false,
-  "defaultBannerPath": "Banners/letter_by_ajvl_d847iw5.jpg",
+  "defaultBannerPath": "media/banners/wanderer.jpg",
   "frontmatterProperty": "banner",
   "defaultBannerHeight": "250px",
   "defaultBannerMobileHeight": "150px",

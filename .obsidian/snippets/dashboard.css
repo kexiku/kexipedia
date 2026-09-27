@@ -55,9 +55,10 @@
   display: none;
 }
 
-/* Hide collapse icons */
-.right-triangle {
-  display: none;
+/* Hide collapse arrows */
+.heading-collapse-indicator,
+.cm-fold-indicator .collapse-indicator {
+  display: none !important;
 }
 
 /* Shrink collapse icons area */

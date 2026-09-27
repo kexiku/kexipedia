@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - dashboard
-obsidianUIMode: preview
 banner: "[[Linux.webp]]"
 banner_icon: 🪐
 banner_y: 50.0%
+cssclasses:
+  - dashboard
+obsidianUIMode: preview
 ---
 # ♟️ l' Essentiel
 
@@ -18,6 +18,7 @@ banner_y: 50.0%
 	- [[Kernel]]
 	- [[Devices]]
 	- [[System calls]]
+	- [[Packages]]
 
 - 🍄 Resources
 	- [[Memory]]
@@ -34,28 +35,40 @@ banner_y: 50.0%
 	- [[Niceness]]
 	- [[Signals]]
 	- [[Daemons]]
+	- [[top]]
 
-- 🏺 Storage
-	- [[Files]]
-	- [[Filesystem]]
-	- [[Filesystem structure]]
-	- [[VFS]]
-	- [[Inode]]
-	- [[Partitions]]
-	- [[Mounting]]
-	- [[Links]]
-	- [[Symlinks]]
-
-- 📜 Control
+- 📖 Control
 	- [[grub]]
 	- [[systemd]]
 
 - 🕸️ Network
 	- [[iwctl]]
 
+# 🏺 Stockage
+
+- 🏛️ Basics
+	- [[Files]]
+	- [[Filesystem]]
+	- [[Filesystem structure]]
+
+- 📜 Management
+	- [[Partitions]]
+	- [[Mounting]]
+	- [[Inode]]
+	- [[Links]]
+	- [[Symlinks]]
+
+- ⏳ Integrity
+	- [[Checksums]]
+
+- ⚱️ File systems
+	- [[VFS]]
+	- [[ext4]]
+	- [[Btrfs]]
+
 # ⚔️ Sécurité
 
-- 🏰 Basic
+- 🏰 Basics
 	- [[Passwords]]
 	- [[Keyrings]]
 	- [[Firewall]]
@@ -69,13 +82,14 @@ banner_y: 50.0%
 - 🛡️ Tools
 	- [[ufw]]
 	- [[GnuPG]]
+		- [[dirmngr]]
 
 # 🎠 Userland
 
 - 🎪 Distros
 	- [[Debian]]
 
-- 🎟 Desktop
+- 🎟️ Desktop
 	- [[Wayland]]
 	- [[Hyprland]]
 	- [[Gnome]]
@@ -83,17 +97,16 @@ banner_y: 50.0%
 - 🎭 Multimédia
 	- [[mpd]]
 	- [[yt-dlp]]
+	- [[ImageMagick]]
 
--  🎀 Software
-	- [[Packages]]
-	- [[apt]] ([[backports]])
+- 🎈 Packages
+	- [[apt]] ([[Backports]])
 	- [[Flatpak]]
-
-- 🎈 Utils
-	- [[top]]
-	- [[dd]]
-	- [[git]]
 	- [[reflector]]
+
+- 🎀 Software
+	- [[VS Code]]
+	- [[Proton VPN]]
 
 # 🕯️ Terminal
 
@@ -118,4 +131,7 @@ banner_y: 50.0%
 	- [[Pipelines]]
 	- [[Redirection]]
 	- [[tee]]
-	
+
+- 🛶 Utils
+	- [[dd]]
+	- [[git]]

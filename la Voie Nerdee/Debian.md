@@ -3,34 +3,41 @@ banner: "[[Debian.webp]]"
 banner_icon: 🗻
 cssclasses:
   - dashboard
+obsidianUIMode: preview
 ---
+# 🧭 Map
+
+- 🎒 Repository
+	- [[apt]]
+	- [[Backports]]
+	- [[netinst]]
+	- [[Debian public key]]
+
+- ⛺ Concepts
+	- [[Don't break Debian]]
+	- [[Debian distributions]]
+
 ## 🛠️ Installation
 
 For the minimal, least-bloated setup:
 
-1. [Download](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/) the netinst ISO, the checksum file and the matching `.sign` file
-2. Download the Debian public key [manually](https://www.debian.org/CD/verify) (you need a 2011-01-05 version)
-   or use `wget`:
+1. [Download](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/) the [[netinst]] ISO, the [[Checksums|checksum]] file and the matching `.sign` file
+2. Download the [[Debian public key]]:
 ```bash
 wget -c "https://www.debian.org/CD/key-DA87E80D6294BE9B.txt"
 ```
-4. Import the downloaded key to keyring:
+3. Import the downloaded key:
 ```bash
 gpg --import key-DA87E80D6294BE9B.txt
-
 gpg --list-keys # check the result
 ```
-5. [[GnuPG#🔐 Usage|Verify]] the checksum file
-6. Check ISO filehash:
-```bash
-sha512sum --check --ignore-missing <sum_file> # same for sha256sum, md5sum etc.
-```
-7. [[dd|Create]] the installation media
-8. Boot from the media and follow the installer steps
-9. On the "Partition disks" menu, make sure to create all the required partitions properly
-
-- Example of Debian partition scheme for dual-boot setup:
-```
+4. [[GnuPG#🔐 Usage|Verify]] the checksum file's signature
+5. [[Checksums#☑️ Usage|Verify]] the ISO integrity
+6. [[dd|Create]] the installation media
+7. Boot from the media and follow the installer steps
+8. On the "Partition disks" menu, make sure to create all the required partitions properly
+```md
+# Example of Debian partition scheme for dual-boot setup
 ╭─────────────────────────────────────────────────────────────────────────╮
 | ID  |  Size     | Flag | FS    |  Description                   | Mount |
 |-------------------------------------------------------------------------|
@@ -41,14 +48,14 @@ sha512sum --check --ignore-missing <sum_file> # same for sha256sum, md5sum etc.
 | #5  |  4.0 GB   |  f   |  swap |                                | swap  |
 ╰─────────────────────────────────────────────────────────────────────────╯
 ```
-10. When you get to "Software selection", deselect everything but System Utilities
-11. After reboot:
+9. When you get to "Software selection", deselect everything but System Utilities
+10. After reboot:
 ```bash
 sudo apt update && sudo apt install gnome-core -y && sudo apt purge ifupdown -y && sudo shutdown -r now
 ```
 You will need to remove the ifupdown package (used by installer) to avoid conflict with NetworkManager (used by Gnome)
 
-12. Edit the NetworkManager config:
+11. Edit the NetworkManager config:
 ```bash
 # /etc/NetworkManager/NetworkManager.conf
 <...>
@@ -56,18 +63,18 @@ You will need to remove the ifupdown package (used by installer) to avoid confli
 [ifupdown]
 managed=true # make sure it set to 'true'
 ```
-13. Reboot
-14. Enjoy your system ❤️
+12. Reboot
+13. Enjoy your system ❤️
 
 ## 💡 Bonus steps:
 
-- Install [[Flatpak]]
-- Install additional packages:
+1. Install additional packages:
 ```bash
 sudo apt install fonts-noto freefilesync git gpg gnome-shell-extension-manager gnome-tweaks imagemagick pipx python3-pip python3-venv seahorse stow ufw unifont wget yt-dlp zsh zsh-syntax-highlighting -y
 ```
 
-[[Debian releases]]
+
+
 
 
 [^1]: Sources:

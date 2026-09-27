@@ -14,7 +14,6 @@ keyserver hkps://keyring.debian.org:443
 ```bash
 gpg --list-keys
 ```
-
 - Import key:
 ```bash
 # From a remote keyserver
@@ -31,8 +30,7 @@ gpg --import <key_file>
 ```bash
 gpg --delete-key <ID>
 ```
-
-- Verify checksum:
+- Verify a file:
 ```bash
 gpg --verify <signature_file> <source_file>
 ```
