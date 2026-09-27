@@ -15,16 +15,19 @@ That’s why distributions pair checksums with [[GnuPG|GPG signatures]]: the che
 ## #️⃣ Common algorithms
 
 ### SHA-512
+
 - Modern algorithm, protected against brute-force attacks
 - Produces a 512-bit hash
 - Faster on 64-bit systems
 
 ### SHA-256
+
 - Also modern & secure algorithm used in blockchain
 - Produces a 256-bit hash
 - Faster on 32-bit systems
 
 ### MD5, SHA-1, CRC32
+
 - Legacy algorithms which are mostly deprecated today for security reasons 
 
 

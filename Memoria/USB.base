@@ -14,8 +14,8 @@ views:
       - property: file.ctime
         direction: ASC
     imageFit: contain
-    imageAspectRatio: 0.6
-    cardSize: 220
+    imageAspectRatio: 0.8
+    cardSize: 200
     image: note.pic
   - type: table
     name: Table

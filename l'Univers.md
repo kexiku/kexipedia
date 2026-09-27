@@ -14,9 +14,9 @@ banner_y: 42.8%
 
 - ## [[Merde]]
 
-# 🛵 la Zone Rouge
+# 🛵 Odometros
 
-- ## [[la Zone Rouge|la Zone Rouge]]
+- ## [[Odometros]]
 
 # 💿 Memoria
 

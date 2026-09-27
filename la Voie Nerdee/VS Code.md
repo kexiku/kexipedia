@@ -1,4 +1,4 @@
-Open-sorce code editor by Microsoft
+Open-source code editor by Microsoft
 
 ## 🛠️ Installation
 
