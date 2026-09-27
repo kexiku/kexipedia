@@ -3,7 +3,7 @@ div[aria-label="Close window"] { display: none !important; }
 div[aria-label="Restore down"] { display: none !important; }
 div[aria-label="Minimize"] { display: none !important; }
 
-/* adjust title size */
+/* increase title size */
 .markdown-preview-view .inline-title,
 .markdown-source-view.mod-cm6 .inline-title {
   font-size: 2.3rem;
@@ -12,10 +12,6 @@ div[aria-label="Minimize"] { display: none !important; }
 /* adjust banner icons */
 .banner-icon {
   padding-left: 0.5rem;
-}
-
-.markdown-source-view.mod-cm6 .HyperMD-header-3 {
-  padding-bottom: 1rem !important;
 }
 
 /* remove borders around properties */

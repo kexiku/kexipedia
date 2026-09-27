@@ -24,7 +24,7 @@ banner_icon: 🍹
 
 # NodeJS
 
-- [[Non-blocking I／O]]
+- [[Non-blocking I-O]]
 - [[Event loop]]
 - [[npm]]
 

@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("la Zone Rouge")
+    - file.inFolder("Odometros")
     - file.hasTag("Scooter")
 views:
   - type: cards
