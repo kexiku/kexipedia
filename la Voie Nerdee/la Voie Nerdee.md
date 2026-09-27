@@ -13,6 +13,9 @@ banner_icon: 🔭
 
 # 🪨 le Matériel
 
+- Memory
+	- [[Bit rot]]
+
 # 🀄 la Programmation
 
  - 📄 Languages
@@ -33,6 +36,7 @@ banner_icon: 🔭
 	- [[Kernel architecture]]
 	- [[Von Neumann architecture]]
 - [[Audio]]
+- [[Hash]]
 - [[Salting]]
 - [[Operating systems]]
 - [[Compiling]]
