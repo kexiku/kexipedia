@@ -2,36 +2,27 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[l'Univers.webp]]"
+banner: "[[l'univers.webp]]"
 banner_icon: 🌙
 banner_y: 42.8%
 ---
 # 🔭 la Voie Nerdée
 
-- ## [[la Voie Nerdee]]
+- [[la Voie Nerdee]]
 
-# 🧻 Merde
+# 🍥 Cryptofu
 
-- ## [[Merde]]
-
-# 🛵 Odometros
-
-- ## [[Odometros]]
+- [[Cryptofu]]
 
 # 💿 Memoria
 
-- ## [[Memoria|Memoria]]
+- [[Memoria|Memoria]]
 
-# dd
+# 🛵 Odometros
 
- - ## cc
-- ## ddd
-	- ddd
-	- dfdf
-	- yty
-	- wweet yuy 
-	- dggh tu
-- ![[9da.jpg]]
-- ## aa
-	- tt
+- [[Odometros]]
+
+# 🧻 Merde
+
+- [[Merde]]
 

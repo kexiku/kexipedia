@@ -12,7 +12,7 @@ A good checksum algorithm usually outputs a significantly different value, even 
 A checksum confirms integrity, but not authenticity. An attacker could replace a file and generate a matching checksum.
 That’s why distributions pair checksums with [[GnuPG|GPG signatures]]: the checksum proves the file hasn’t changed, the signature proves it came from the right source.
 
-## #️⃣ Common algorithms
+## 🧬 Common algorithms
 
 ### SHA-512
 
@@ -31,7 +31,7 @@ That’s why distributions pair checksums with [[GnuPG|GPG signatures]]: the che
 - Legacy algorithms which are mostly deprecated today for security reasons 
 
 
-## ☑️ Usage
+## 🫆 Usage
 
 - Verify the ISO checksum:
 ```bash

@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[la Merde.webp]]"
+banner: merde.webp
 banner_icon: 🧻
 ---
 - [[🏴‍☠️ Yarr]]

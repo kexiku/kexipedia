@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[la Zone Rouge.webp]]"
+banner: "[[odometros.webp]]"
 banner_icon: 🛵
 ---
 # Les scooters

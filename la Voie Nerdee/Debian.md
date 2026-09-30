@@ -1,5 +1,5 @@
 ---
-banner: "[[Debian.webp]]"
+banner: "[[debian.webp]]"
 banner_icon: 🗻
 cssclasses:
   - dashboard
@@ -7,15 +7,22 @@ obsidianUIMode: preview
 ---
 # 🧭 Map
 
-- 🎒 Repository
-	- [[apt]]
-	- [[Backports]]
-	- [[netinst]]
-	- [[Debian public key]]
-
 - ⛺ Concepts
 	- [[Don't break Debian]]
+
+- 🎒 Repository
+	- [[apt]]
+		- [[apt sources|Sources]]
+		- [[apt autoremove|Autoremove]]
+		- [[apt-mark]]
+	- [[dpkg]]
+	- [[Backports]]
+	- [[Debian public key]]
+
+- 🫕 Versions
 	- [[Debian distributions]]
+	- [[Debian derivatives]]
+	- [[netinst]]
 
 ## 🛠️ Installation
 
