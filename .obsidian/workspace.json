@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07f0c03c9a412be9",
+        "id": "ac8058eb9fb5820e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c102537956a857",
+            "id": "2d0827680871965b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "l'Univers.md",
+                "file": "la Voie Nerdee/apt-mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "la Voie Nerdee/Proton VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -144,6 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "l'Univers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,19 +169,18 @@
             }
           },
           {
-            "id": "70ce28e1bf7c5cde",
+            "id": "66550819476d2c02",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "l'Univers.md"
+                "file": "la Voie Nerdee/apt autoremove.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,54 +198,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c9c102537956a857",
+  "active": "2d0827680871965b",
   "lastOpenFiles": [
-    "Memoria/Memoria.md",
-    "Memoria/Cruzer Snap.md",
-    "Odometros/Odometros.md",
-    "l'Univers.md",
-    "media/Memoria/transmemory-u301-black-128gb.webp",
-    "media/Memoria/transmemory-u202_img_prd003.webp",
-    "media/Memoria/ru-usb-3-0-flash-drive-fit-muf-128ab-apc-frontblack-131384010.webp",
-    "media/Memoria/ru-usb-3-0-flash-drive-fit-muf-64ab-apc-frontblack-131386866.webp",
-    "media/Memoria/transmemory-u366_img_prd002.webp",
-    "media/Memoria/transmemory-u301_img_prd003.webp",
-    "media/Memoria/transmemory-u301_img_prd002.webp",
-    "media/Memoria/transmemory-u301-black-64gb.webp",
-    "media/Memoria/transmemory-u202_img_prd006.webp",
-    "media/Memoria/transmemory-u202_img_prd005.webp",
-    "media/Memoria",
-    "la Voie Nerdee/Linux.md",
-    "Odometros/Scooters.base",
-    "Odometros/Hélène.md",
-    "Odometros/Joséphine.md",
-    "la Voie Nerdee/Debian distributions.md",
-    "la Voie Nerdee/Debian.md",
-    "la Voie Nerdee/Checksums.md",
-    "la Voie Nerdee/Mounting.md",
+    "la Voie Nerdee/apt.md",
+    "la Voie Nerdee/apt autoremove.md",
+    "la Voie Nerdee/apt sources.md",
+    "la Voie Nerdee/apt-mark.md",
     "la Voie Nerdee/swap.md",
-    "la Voie Nerdee/Unix philosophy.md",
-    "la Voie Nerdee/GnuPG.md",
+    "Merde/Callouts.md",
+    "la Voie Nerdee/Debian.md",
+    "media/banners/l'univers.png",
+    "media/banners/memoria.png",
+    "la Voie Nerdee/Linux.md",
+    "Merde/Roadmap.md",
+    "la Voie Nerdee/dpkg.md",
+    "la Voie Nerdee/Debian derivatives.md",
+    "media/DebianFamilyTree1210.svg",
+    "la Voie Nerdee/Packages.md",
+    "la Voie Nerdee/Debian distributions.md",
+    "la Voie Nerdee/Don't break Debian.md",
+    "media/banners/dont-break-debian.webp",
+    "media/banners/don't break debian.webp",
+    "la Voie Nerdee/User interfaces.md",
+    "l'Univers.md",
+    "media/fuck-nvidia.jpg",
+    "media/linus-torvalds-finger.jpg",
+    "la Voie Nerdee/media/DebianFamilyTree1210.svg",
+    "la Voie Nerdee/media",
     "la Voie Nerdee/la Voie Nerdee.md",
-    "la Voie Nerdee/Δέλτα.md",
-    "la Voie Nerdee/Debian public key.md",
+    "Cryptofu/DEX.md",
+    "Cryptofu/Cryptofu.md",
+    "Cryptofu/Getting started.md",
+    "Cryptofu/Liquidity pools.md",
+    "Cryptofu/Trading.md",
+    "Cryptofu/Lending.md",
+    "Cryptofu/Keys.md",
+    "Cryptofu/Wallets.md",
+    "Cryptofu/DeFi.md",
+    "media/banners/blockchain.webp",
+    "media/banners/dex.webp",
+    "Cryptofu/media",
+    "Cryptofu",
+    "media/Memoria",
+    "Odometros/Scooters.base",
     "media/key-DA87E80D6294BE9B.txt",
     "media/key-988021A964E6EA7D.txt",
     "media/key-42468F4009EA8AC3.txt",
     "la Voie Nerdee/media/key-42468F4009EA8AC3.txt",
     "la Voie Nerdee/media/key-DA87E80D6294BE9B.txt",
-    "la Voie Nerdee/media/key-988021A964E6EA7D 1.txt",
-    "la Voie Nerdee/media/key-988021A964E6EA7D.txt",
-    "la Voie Nerdee/dirmngr.md",
-    "la Voie Nerdee/top.md",
-    "la Voie Nerdee/Proton VPN.md",
-    "la Voie Nerdee/Packages.md",
-    "la Voie Nerdee/VFS.md",
-    "la Voie Nerdee/VS Code.md",
-    "la Voie Nerdee/apt.md",
-    "la Voie Nerdee/Salting.md",
-    "la Voie Nerdee/Passwords.md",
-    "la Voie Nerdee/media",
     "Untitled.canvas"
   ]
 }

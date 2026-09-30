@@ -1,9 +1,9 @@
 ---
-banner: "[[Linux.webp]]"
-banner_icon: 🪐
-banner_y: 50.0%
 cssclasses:
   - dashboard
+banner: linux.webp
+banner_icon: 🪐
+banner_y: 50.0%
 obsidianUIMode: preview
 ---
 # ♟️ l' Essentiel
@@ -11,6 +11,7 @@ obsidianUIMode: preview
 - ⚖️ Fundamentals
 	- [[Unix philosophy]]
 	- [[POSIX]]
+	- [[User interfaces]]
 
 # 🔮 le Système
 
@@ -28,6 +29,10 @@ obsidianUIMode: preview
 	- [[ALSA]]
 	- [[PulseAudio]]
 	- [[PipeWire]]
+
+- 🪞 Graphics
+	- [[Desktop environments]]
+	- [[Window managers]]
 
 - ⚗️ Processus
 	- [[Processes]]
@@ -100,7 +105,7 @@ obsidianUIMode: preview
 	- [[ImageMagick]]
 
 - 🎈 Packages
-	- [[apt]] ([[Backports]])
+	- [[apt]]
 	- [[Flatpak]]
 	- [[reflector]]
 
