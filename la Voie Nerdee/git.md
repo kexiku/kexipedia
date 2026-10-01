@@ -97,7 +97,6 @@ _(combine staged changes with the previous commit)_
 - `... -c`
 🔂 Switch to the newly created branch
 
-
 `git restore <file>`
 ♻️ Restore file from the index
 
@@ -112,6 +111,14 @@ _(combine staged changes with the previous commit)_
 `git show somebranch:path/to/your/file`
 Log file content to the console
 
+See the exact date the file was added to repo:
+```bash
+git log --diff-filter=A --follow --format=%ad --date=short -- README.md
+```
+- `--diff-filter=A` → show commits where the file was added
+- `--follow` → follow the file across renames
+- `--format=%ad` and `--date=short`→ format the output to display just the date
+- `-- path/to/file` → only inspect that file
 # 📮 Stash
 
 `git stash`

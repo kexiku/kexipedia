@@ -15,6 +15,7 @@ obsidianUIMode: preview
 		- [[apt sources|Sources]]
 		- [[apt autoremove|Autoremove]]
 		- [[apt-mark]]
+	- [[aptitude]]
 	- [[dpkg]]
 	- [[Backports]]
 	- [[Debian public key]]

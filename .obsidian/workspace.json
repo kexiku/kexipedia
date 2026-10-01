@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac8058eb9fb5820e",
+        "id": "ac1a5757950db145",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0827680871965b",
+            "id": "001c4c7112cddc62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'Univers.md",
-                "mode": "preview",
+                "file": "la Voie Nerdee/bash.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "l'Univers"
+              "title": "bash"
             }
           }
         ]
@@ -174,13 +174,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "la Voie Nerdee/apt autoremove.md"
+                "file": "la Voie Nerdee/bash.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,45 +199,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d0827680871965b",
+  "active": "001c4c7112cddc62",
   "lastOpenFiles": [
+    "la Voie Nerdee/Backports.md",
     "la Voie Nerdee/apt.md",
-    "la Voie Nerdee/apt autoremove.md",
-    "la Voie Nerdee/apt sources.md",
+    "la Voie Nerdee/Audio.md",
+    "la Voie Nerdee/Arrays.md",
     "la Voie Nerdee/apt-mark.md",
-    "la Voie Nerdee/swap.md",
+    "la Voie Nerdee/apt sources.md",
+    "la Voie Nerdee/apt autoremove.md",
+    "la Voie Nerdee/ALSA.md",
+    "Cryptofu/DeFi.md",
+    "Cryptofu/Cryptofu.md",
+    "Cryptofu/Blockchain.md",
+    "la Voie Nerdee/Linux.md",
+    "la Voie Nerdee/Users.md",
+    "l'Univers.md",
+    "media/banners/user.webp",
+    "la Voie Nerdee/POSIX.md",
+    "la Voie Nerdee/User interfaces.md",
+    "la Voie Nerdee/systemd.md",
+    "la Voie Nerdee/Unix philosophy.md",
+    "media/banners/unix-philosophy.webp",
+    "la Voie Nerdee/la Voie Nerdee.md",
+    "la Voie Nerdee/git.md",
     "Merde/Callouts.md",
+    "la Voie Nerdee/Filesystem structure.md",
+    "la Voie Nerdee/dirmngr.md",
+    "la Voie Nerdee/GnuPG.md",
+    "la Voie Nerdee/Ownertrust.md",
     "la Voie Nerdee/Debian.md",
     "media/banners/l'univers.png",
     "media/banners/memoria.png",
-    "la Voie Nerdee/Linux.md",
-    "Merde/Roadmap.md",
-    "la Voie Nerdee/dpkg.md",
-    "la Voie Nerdee/Debian derivatives.md",
     "media/DebianFamilyTree1210.svg",
-    "la Voie Nerdee/Packages.md",
-    "la Voie Nerdee/Debian distributions.md",
-    "la Voie Nerdee/Don't break Debian.md",
     "media/banners/dont-break-debian.webp",
     "media/banners/don't break debian.webp",
-    "la Voie Nerdee/User interfaces.md",
-    "l'Univers.md",
     "media/fuck-nvidia.jpg",
     "media/linus-torvalds-finger.jpg",
     "la Voie Nerdee/media/DebianFamilyTree1210.svg",
     "la Voie Nerdee/media",
-    "la Voie Nerdee/la Voie Nerdee.md",
-    "Cryptofu/DEX.md",
-    "Cryptofu/Cryptofu.md",
-    "Cryptofu/Getting started.md",
-    "Cryptofu/Liquidity pools.md",
-    "Cryptofu/Trading.md",
-    "Cryptofu/Lending.md",
-    "Cryptofu/Keys.md",
-    "Cryptofu/Wallets.md",
-    "Cryptofu/DeFi.md",
-    "media/banners/blockchain.webp",
-    "media/banners/dex.webp",
     "Cryptofu/media",
     "Cryptofu",
     "media/Memoria",
