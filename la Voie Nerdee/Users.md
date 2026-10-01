@@ -1,3 +1,8 @@
+---
+banner: user.webp
+banner_icon: 👤
+banner_y: 39.2%
+---
 A *user* is an individual or system entity that can log in and access the system.
 Users in Linux are managed through unique accounts with assigned [[UID|User IDs]], [[permissions]], and roles.
 

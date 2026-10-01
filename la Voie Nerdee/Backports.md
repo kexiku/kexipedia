@@ -8,7 +8,7 @@ They provide a simple way to use newer software on a stable release without upgr
 
 ##  🛠️ Setup
 
-- [[apt#Upgrading to the new format|Convert]] your apt source files to a new format if you didn't already
+- Convert your apt [[apt sources|source files]] to a new format if you haven't already
 - Create `/etc/apt/sources.list.d/debian-backports.sources`:
 ```bash
 Types: deb deb-src
@@ -28,8 +28,7 @@ All backports are deactivated by default.
 ```bash
 apt install <package>/trixie-backports
 ```
-
-- If you also want missing dependencies to be installed from backports too:
+- If you also want missing dependencies to be installed from backports:
 ```bash
 apt install -t trixie-backports <package>
 ```

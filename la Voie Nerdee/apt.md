@@ -6,8 +6,11 @@ It acts as a front-end for [[dpkg]], automatically resolving complex package dep
 
 ### Fetch failures
 
-If apt refuses to install/update a package due to 404 error, refreshing package information cache may help:
+Sometimes apt fails to install or update packages, resulting in a 404 error.
+This is usually caused by an interrupted update, mirror rotation or corrupted cache files.
+
+In this case, refreshing package metadata directory may help:
 ```bash
 sudo rm -r /var/lib/apt/lists
 ```
-`sudo apt update` will recreate the lists directory on the next run.
+`sudo apt update` will recreate it on the next run.

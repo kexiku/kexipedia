@@ -3,7 +3,7 @@
 To handle digital audio, modern computers use method called *PCM*.
 PCM stands for Pulse-code Modulation, which is a way to represent sampled analog signals in a digital format.
 
-For PCM to be converted into an analog signal, you need a DAC (**D**igital to **A**nalog **C**onverter), which is usually performed by a sound card.
+For PCM to be converted into an analog signal, you need a DAC (Digital to Analog Converter), which is usually performed by a sound card.
 
 A PCM stream has two basic properties: the *sampling rate* and the *bit depth*.
 

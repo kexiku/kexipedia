@@ -10,7 +10,7 @@ Adding repositories lets you manage non-Debian packages using normal Debian pack
 
 The main apt sources configuration file is `/etc/apt/sources.list.d/debian.sources`
 
-If you add a new source, it's best to put it in a separate file: put it in the same directory with a name that describes the source and ends with `.sources`
+If you add a new source, it's best to create a separate file for it: put it in the same directory with a name that describes the source and ends with `.sources`
 (e.g. `/etc/apt/sources.list.d/vscode.sources`)
 
 ## 📝 Formats

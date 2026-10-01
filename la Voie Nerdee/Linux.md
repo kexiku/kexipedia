@@ -87,6 +87,7 @@ obsidianUIMode: preview
 - 🛡️ Tools
 	- [[ufw]]
 	- [[GnuPG]]
+		- [[Ownertrust]]
 		- [[dirmngr]]
 
 # 🎠 Userland
@@ -106,6 +107,7 @@ obsidianUIMode: preview
 
 - 🎈 Packages
 	- [[apt]]
+		- [[aptitude]]
 	- [[Flatpak]]
 	- [[reflector]]
 

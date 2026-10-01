@@ -1,89 +1,93 @@
 The *Linux Filesystem Hierarchy Standard (FHS)* defines the directory structure in Unix-like operating systems.
 It is maintained by the [Linux Foundation](https://www.linuxfoundation.org/).
 
-## `/ (root)`
+## 🗄️ `/` (root)
 
 The top-most directory in a file tree where all other directories branching from
 *(not to be confused with `/root`, which is root user’s home directory)*
 
-## `/bin`
+## 🛠️ `/bin`
 
-Essential commands and binaries that need to be available in Single user mode (e.g. `ls`, `cat`, `grep`)
+Essential commands and binaries that need to be available in single user mode (e.g. `ls`, `cat`, `grep`)
 
-## `/boot`
+## 🚀 `/boot`
 
 Bootloader and kernel files
 (e.g. [[initrd]], [[vmlinux]], [[grub]]) 
 
-## `/dev`
+## 🔌 `/dev`
 
 Device files
 (e.g. USB, disk [[partitions]], `/dev/null`)
 
-## `/etc`
+## ⚙️ `/etc`
 
 System-wide config files
 
-## `/home`
+## 🏠 `/home`
 
 User's home directories which stores their personal files, downloads, user settings etc.
 
 Each user can create, delete, or modify files only in their own home directory and cannot access others’ home directories
 
-## `/lib`
+## 📚 `/lib`
 
 Libraries required for binaries in `/bin` and `/sbin`
 
-## `/media`
+## 💿 `/media`
 
 [[Mounting|Mount]] points for removable devices
 
-## `/mnt`
+## 📃 `/mnt`
 
 Temporarily mounted filesystems
 
-## `/opt`
+## 📦 `/opt`
 
 Third-party software and [[packages]]
 
-### `/proc`
+## ⚗️ `/proc`
 
 Virtual filesystem providing detailed information about system [[processes]] and [[kernel]]
 
-## `/root`
+## 🔒 `/root`
 
 [[Root]] user's home directory
 
-## `/run`
+## 👟 `/run`
 
 Runtime data: information about the system state since the last boot, including files needed for [[daemons]]
 
-## `/sbin`
+## 🧰 `/sbin`
 
 Essential system binaries used for administrative purposes
 (e.g. `iptables`, `reboot`, `fdisk`, `swapon`)
 
-## `/srv`
+## 🌐 `/srv`
 
 Data for services provided by the system, such as websites, FTP files, and other network services
 
-## `/sys`
+## 📄 `/sys`
 
 Information about devices, drivers, and some kernel features
 
-## `/tmp`
+## ⌚ `/tmp`
 
 Temporary files
 
-## `/usr`
+## 👤 `/usr`
 
 _Secondary hierarchy_ for user data; contains the majority of user utilities and applications
 
-#### `/usr/bin`
+#### 🔨 `/usr/bin`
 
 Non-essential command binaries for all users
 
-## `/var`
+#### 🕹️ `/usr/games`
+
+Historically used to store binaries for non-essential, toy programs
+
+## 🗂️ `/var`
 
 Variable files, such as logs, spool files, and temporary e-mail files
 
