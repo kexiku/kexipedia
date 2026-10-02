@@ -2,7 +2,7 @@
 banner_y: 44.4%
 ---
 A *checksum* is a short, unique code generated from a block of data to verify its integrity.
-It acts as a digital fingerprint that represents the exact state of a file.
+It acts as a digital fingerprint that represents the exact state of a [[files|file]].
 
 Comparing checksums helps detecting errors that may occur during the file transmission or [[Bit rot|storage]].
 
@@ -30,10 +30,10 @@ That’s why distributions pair checksums with [[GnuPG|GPG signatures]]: the che
 
 - Legacy algorithms which are mostly deprecated today for security reasons 
 
-
 ## 🫆 Usage
 
 - Verify the ISO checksum:
+
 ```bash
 # Make sure the checksum file is in the same directory as the ISO file
 sha256sum --check --ignore-missing <sum_file> # same for sha512sum, md5sum etc.

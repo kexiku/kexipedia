@@ -17,6 +17,7 @@ Methods and properties:
 
 
 Every map.set call returns the map itself, so we can “chain” the calls:
+
 ```jsx
 map.set('1', 'str1')
   .set(1, 'num1')

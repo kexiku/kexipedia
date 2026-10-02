@@ -2,6 +2,7 @@
 
 - If the binary `+` is applied to strings, it merges (concatenates) them
 - If any of the operands is a string, then the other one is converted to a string too
+- 
 ```jsx
 console.log('pine' + 'apple'); // pineapple
 console.log('1' + 2 + 3); // 123

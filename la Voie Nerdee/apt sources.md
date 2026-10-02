@@ -3,6 +3,7 @@
 Common apt repositories include [[Debian distributions|Stable]], Security and [[Backports]].
 
 Adding repositories lets you manage non-Debian packages using normal Debian package management tools, making them easy to update and remove.
+
 > [!warning]
 > Adding third-party repositories can [[Don't break Debian|break your system]] in ways that are hard to fix
 
@@ -18,6 +19,7 @@ If you add a new source, it's best to create a separate file for it: put it in t
 Old `sources.list` files should be converted to the modern `debian.sources` format (recommended to use since [Trixie](https://wiki.debian.org/DebianTrixie))
 
 - To upgrade sources files, run:
+
 ```bash
 sudo apt modernize-sources
 ```

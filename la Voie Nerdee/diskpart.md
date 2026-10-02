@@ -9,18 +9,22 @@
 ## 💽 Usage
 
 ### Select object
+
 ```powershell
 list disk
 select disk X # Replace X with your SSD number
 ```
+
 Object might be either disk, partition or volume.
 
 ### Convert to NTFS
+
 ```powershell
 convert gpt
 ```
 
 ### Create partitions
+
 ```powershell
 ~~~ EFI System Partition ~~~
 create partition efi size=100
@@ -37,6 +41,7 @@ assign letter=C
 ```
 
 ### Wipe disk
+
 ```powershell
 clean
 ```

@@ -1,4 +1,9 @@
-# 🎵 Basics
+---
+banner: audio.webp
+banner_icon: 🔈
+banner_y: 50.0%
+---
+## 🎵 Basics
 
 To handle digital audio, modern computers use method called *PCM*.
 PCM stands for Pulse-code Modulation, which is a way to represent sampled analog signals in a digital format.
@@ -9,11 +14,11 @@ A PCM stream has two basic properties: the *sampling rate* and the *bit depth*.
 
 The sampling rate is expressed in Hz and determines how often a sample of a waveform is captured; while the bit depth determines the number of bits of information in each sample.
 
-# 🎶 Resampling
+## 🎶 Resampling
 
 *Resampling* is the process of turning a PCM stream into another PCM stream of a different resolution.
 
-# 💿 Encoding
+## 💿 Encoding
 
 *Encoding* is the process of taking a PCM stream and writing it to a permanent format.
 

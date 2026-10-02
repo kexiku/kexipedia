@@ -22,7 +22,6 @@ Makes the data presentable for applications to consume.
 Responsible for translation, [encryption](https://www.cloudflare.com/learning/ssl/what-is-encryption/), and compression of data.
 ![[osi_model_presentation_layer_6.png]]
 
-
 ## 5. Session layer
 
 Responsible for opening and closing communication between the two devices.

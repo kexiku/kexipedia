@@ -3,15 +3,18 @@ The process involves several steps, including password [[hash|hashing]], [[Salti
 
 All user passwords are converted into a unique hash using a one-way function, thus it cannot be reversed to obtain the original password.
 
-Most Linux distros use the SHA-512 algorithm for password hashing, although other algorithms like MD5 or SHA-256 may also be used depending on the system configuration.
+Most Linux distros use the SHA-512 algorithm for password hashing.
 
 ## 🔒 Management
 
 - Change password:
+
 ```bash
 passwd
 ```
+
 - Lock password:
+
 ```bash
 passwd -l <username>
 
@@ -21,7 +24,9 @@ sudo exigrep <username> /etc/shadow
 # If a line beginning with `!` or a `*` symbols after a username it signalize that the account is disabled
 # Any other value would indicate a working password
 ```
+
 - Change password timeout:
+
 ```bash
 sudo visudo
 

@@ -7,6 +7,7 @@ All the devices specified in the `/etc/fstab` are mounted automatically at syste
 ## 🪢Usage
 
 - Mount a filesystem:
+
 ```bash
 sudo mount <device> <mountpoint> # For a current session
 
@@ -14,6 +15,7 @@ sudo mount <device> <mountpoint> # For a current session
 ```
 
 - Unmount a filesystem:
+
 ```bash
 sudo umount [<device>|<mountpoint>]
 ```

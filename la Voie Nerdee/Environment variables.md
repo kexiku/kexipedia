@@ -11,11 +11,13 @@ They provide a simple way to share configuration settings between multiple appli
 ## Usage
 
 - List all current environmental variables:
+
 ```bash
 printenv
 ```
 
 - Define a variable:
+
 ```bash
 # for the current session:
 export <VARIABLE>=<VALUE>
@@ -24,12 +26,14 @@ export <VARIABLE>=<VALUE>
 To define it permanently, add the line above to the `~/.bash_profile` or `~/.zprofile` and reload the shell
 
 - Display a variable:
+
 ```bash
 echo $VARIABLE
 ```
 
 - Run a command under a modified environment
   (without affecting any global environment variables):
+
 ```bash
 env <VARIABLE>=<VALUE> <command>
 ```

@@ -6,6 +6,7 @@ To fix this, you can update the keyring's password to match your new one.
 ## 🪛 Troubleshooting
 
 In case you don't remember your previous password and want to reset keyrings:
+
 ```bash
 # Remove existing keyring
 rm ~/.local/share/keyrings/login.keyring && rm ~/.local/share/keyrings/user.keystore

@@ -53,6 +53,8 @@ There are various [[system calls]] which control the process execution:
 
 
 
+
+
 [^1]: Sources:
 	https://www.geeksforgeeks.org/linux-unix/processes-in-linuxunix/
 	https://www.geeksforgeeks.org/linux-unix/kill-command-in-linux-with-examples/

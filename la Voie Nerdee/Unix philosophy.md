@@ -15,3 +15,4 @@ The *Unix philosophy* emphasizes building simple, short, clear and extensible so
 - *Make it easy to write, test, and run programs*
 
 ![[66f52ee3d736ec8f772c31f6_668f9ab9dfc5ed35e5e1ac07_UNIX_20principles.png]]
+

@@ -16,6 +16,7 @@ Keys can either be *public* or *private* depending on their visibility.
 - Proves ownership of assets
 
 If you lose your private keys, you lose access to your money.
+
 > [!danger] Remember: not your keys, not your coins.
 
 

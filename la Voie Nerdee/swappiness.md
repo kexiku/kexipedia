@@ -10,10 +10,13 @@ Lower swappiness values prioritize keeping data in RAM, while higher swappiness 
 
 - Check the `/proc/sys/vm/swappiness`
 - Edit `/etc/sysctl.conf`:
+
 ```bash
 vm.swappiness = [value]
 ```
+
 - Apply changes:
+
 ```bash
 sudo sysctl -p
 ```

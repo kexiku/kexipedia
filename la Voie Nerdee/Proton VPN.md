@@ -1,6 +1,6 @@
 # proton-vpn-cli
 
-The official command-line interface for Proton VPN
+The official command-line [[User interfaces|interface]] for Proton VPN
 
 ## 🛠️ Installation
 
