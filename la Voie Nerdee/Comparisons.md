@@ -1,6 +1,7 @@
 When comparing values of different types, JavaScript converts the values to _numbers_.
 
 **For a non-strict check** `==` there’s a special rule for `null` and `undefined`. These two are a “sweet couple”: they equal each other, but not any other value:
+
 ```jsx
 console.log(null == undefined); // true
 ```

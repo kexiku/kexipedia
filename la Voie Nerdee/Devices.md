@@ -16,7 +16,6 @@ There are 3 types of device files:
 - Virtual devices with no physical counterpart
   (`/dev/random`, `/dev/null`)
 
-
 ## 💽 Device naming convention
 
 ```

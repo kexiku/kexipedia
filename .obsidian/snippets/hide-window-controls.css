@@ -1,0 +1,13 @@
+/* hide window control buttons */
+div[aria-label="Close window"] { display: none !important; }
+div[aria-label="Restore down"] { display: none !important; }
+div[aria-label="Minimize"] { display: none !important; }
+
+/* expand tab bar to the right */
+.workspace-tab-header-container {
+  padding-right: 0 !important;
+}
+
+.workspace-tab-header-container::after {
+  display: none !important;
+}

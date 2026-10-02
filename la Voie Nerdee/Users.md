@@ -31,22 +31,26 @@ Despite the file name it doesn't actually store users [[Passwords|passwords]]: o
 ## 👥 Management
 
 - Add user:
+
 ```bash
 sudo adduser <username>
 sudo usermod -aG sudo <username> # add user to sudo group
 ```
 
 - Set user password:
+
 ```bash
 passwd <username>
 ```
 
 - Delete user:
+
 ```bash
 sudo deluser <username>
 ```
 
 - Add a comment for a user:
+
 ```bash
 sudo usermod -c "comment" <username>
 ```

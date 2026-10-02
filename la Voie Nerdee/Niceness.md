@@ -1,6 +1,6 @@
-The *nice value (niceness)* in Linux is a mechanism used to control the CPU scheduling priority of a process.
+The *nice value (niceness)* in Linux is a mechanism used to control the CPU scheduling priority of a [[Processes|process]].
 
-It's a user-adjustable value that suggests to the kernel how "nice" a process should be to other processes when competing for CPU time.
+It's a user-adjustable value that suggests to the [[kernel]] how "nice" a process should be to other processes when competing for CPU time.
 
 ## 🗝️ Key concepts
 
@@ -12,11 +12,13 @@ It's a user-adjustable value that suggests to the kernel how "nice" a process sh
 ## ✨ Usage
 
 - Start a new command with a specified nice value:
+
 ```bash
 nice -n <nice_value> <command>
 ```
 
 - Change the nice value of an already running process:
+
 ```bash
 renice -n <nice_value> -p <PID>
 ```

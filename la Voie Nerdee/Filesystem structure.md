@@ -12,12 +12,12 @@ Essential commands and binaries that need to be available in single user mode (e
 
 ## 🚀 `/boot`
 
-Bootloader and kernel files
+Bootloader and [[kernel]] files
 (e.g. [[initrd]], [[vmlinux]], [[grub]]) 
 
 ## 🔌 `/dev`
 
-Device files
+[[Devices|Device]] files
 (e.g. USB, disk [[partitions]], `/dev/null`)
 
 ## ⚙️ `/etc`
@@ -26,7 +26,7 @@ System-wide config files
 
 ## 🏠 `/home`
 
-User's home directories which stores their personal files, downloads, user settings etc.
+[[Users|User]]'s home directory to store the personal files, downloads, user settings etc.
 
 Each user can create, delete, or modify files only in their own home directory and cannot access others’ home directories
 
@@ -69,7 +69,7 @@ Data for services provided by the system, such as websites, FTP files, and other
 
 ## 📄 `/sys`
 
-Information about devices, drivers, and some kernel features
+Information about [[devices]], drivers, and some kernel features
 
 ## ⌚ `/tmp`
 

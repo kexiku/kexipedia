@@ -20,6 +20,8 @@ obsidianUIMode: preview
 	- [[Devices]]
 	- [[System calls]]
 	- [[Packages]]
+	- [[Shell]]
+	- [[Shell types]]
 
 - 🍄 Resources
 	- [[Memory]]
@@ -132,6 +134,7 @@ obsidianUIMode: preview
 	- [[sed]]
 	- [[set]]
 	- [[command]]
+	- [[IFS]]
 
 - ⚰️ I/O
 	- [[Standard streams]]

@@ -20,17 +20,22 @@ In fact, running `apt autoremove` is virtually risk-free if you follow simple re
 Here are some steps to prevent apt from touching crucial packages:
 
 - Perform a dry run:
+
 ```bash
 sudo apt -s autoremove
 ```
+
 This prints exactly what apt plans to remove without making any changes.
 
  - Analyze the output:
+ 
 >[!success] Safe to remove
 >- Libraries (`lib...`)
 >- Old Linux kernels (`linux-image-...`)
 >- Headers
+
 - Search the output for crucial packages:
+
 >[!caution] Danger zone
 >- Core components
 >- Metapackages (`ubuntu-desktop`, `gnome-core`, `gdm3`)
@@ -45,6 +50,7 @@ Once marked manual, `apt autoremove` will ignore it.
 By default, `apt autoremove` doesn't delete configuration files for removed packages.
 
 If you want them to also being removed, use `--purge` flag:
+
 ```bash
 apt autoremove --purge <package_name>
 ```
@@ -54,9 +60,11 @@ apt autoremove --purge <package_name>
 If system starts to behave strangely or refuses to boot after running `apt autoremove`, don't panic.
 
 First, open the apt history log to see what exactly was removed:
+
 ```bash
 less +G /var/log/apt/history.log # read from the end
 ```
+
 Then, reinstall the missing packages directly from the command line.
 
 

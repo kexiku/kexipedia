@@ -6,6 +6,7 @@ A shell builtin used to locate a command and check if it exists.
 ## ❔ Usage
 
 - Check if a command exists:
+
 ```bash
 command -v <command>
 ```

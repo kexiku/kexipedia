@@ -7,10 +7,12 @@ If a process has defined a custom method to handle a specific signal, that metho
 ## 📡 Usage
 
 To send a specific signal to process, use `kill` command:
+
 ```bash
 kill [-signal] <PID>
 # Sends SIGTERM signal by default
 ```
+
 Signal can be specified by its number or a signal name (either with or without the `SIG` prefix).
 
 ### Common signals

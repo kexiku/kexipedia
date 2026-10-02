@@ -3,10 +3,12 @@
 ## 🔐 Usage
 
 - To change a key's trust level:
+
 ```bash
 gpg --edit-key <key_ID>
 trust
 ```
+
 You will be prompted to select a trust level then.
 
 ### Available trust levels

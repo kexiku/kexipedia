@@ -1,4 +1,4 @@
-In Linux, both *hard links* and *soft links* (also known as [[symlinks]]) provide ways to create references to files, but they differ fundamentally in their implementation and behavior:
+In Linux, both *hard links* and *soft links* (also known as [[symlinks]]) provide ways to create references to [[files]], but they differ fundamentally in their implementation and behavior:
 
 ## 🪨 Hard links
 

@@ -1,4 +1,5 @@
 *top* is a command-line system monitoring utility available on various UNIX systems.
+
 It presents a real-time view of running [[processes]] along with overall resource usage details such as CPU load, memory consumption etc.
 
 ## 🧰 Main interface
@@ -6,7 +7,7 @@ It presents a real-time view of running [[processes]] along with overall resourc
 ### `top`
 
 - Initial (summary) line
-- Shows system time, uptime, number of users and load average
+- Shows system time, uptime, number of [[users]] and load average
   *(the average number of processes waiting for CPU time over the last 1 minute, 5 minutes, and 15 minutes, respectively)*
 
 ### `tasks:`

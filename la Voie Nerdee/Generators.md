@@ -1,4 +1,5 @@
 ## ✍️ Syntax
+
 ```jsx
 function* generator() {
   yield 1;
@@ -12,6 +13,7 @@ console.log(gen.next().value); // 1
 console.log(gen.next().value); // 2
 console.log(gen.next().value); // 3
 ```
+
 When generator function is called, it doesn’t run its code. Instead it returns a generator object to manage the execution.
 
 ## 🛠️ Methods
