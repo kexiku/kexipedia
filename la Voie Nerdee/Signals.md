@@ -1,4 +1,4 @@
-In Linux, process *signals* are software interrupts used for inter-process communication and managing [[processes|process]] behavior.
+In [[Linux]], process *signals* are software interrupts used for inter-process communication and managing [[processes|process]] behavior.
 
 When a signal is sent to a process, the operating system interrupts its execution and notifies it of some system event, such as termination, pause, etc.
 

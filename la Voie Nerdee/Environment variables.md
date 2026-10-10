@@ -1,5 +1,5 @@
 An *environment variable* is a named object that contains data used by one or more applications.
-They provide a simple way to share configuration settings between multiple applications and [[processes]] in Linux.
+They provide a simple way to share configuration settings between multiple applications and [[processes]] in [[Linux]].
 
 ## A few key points to keep in mind
 

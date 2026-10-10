@@ -11,3 +11,15 @@ You can change the `IFS` value if you need to parse strings with non-standard de
 ```bash
 IFS=","
 ```
+
+> [!tip]
+> To avoid breaking subsequent commands that rely on whitespace separation, it is standard practice to save the original `IFS` value before changing it globally:
+> ```bash
+> # Save old IFS
+> OLD_IFS=$IFS
+> # Set custom IFS
+> IFS=":"
+> # ... run your code ...
+> # Restore default IFS
+> IFS=$OLD_IFS
+> ```

@@ -1,4 +1,4 @@
-In Linux, input and output operations between a program and its environment are managed through standard *I/O streams*.
+In [[Linux]], input and output operations between a program and its environment are managed through standard *I/O streams*.
 
 There are 3 types of I/O connections:
 ## standard input (*stdin*)

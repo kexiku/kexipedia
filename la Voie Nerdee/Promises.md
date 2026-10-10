@@ -1,4 +1,4 @@
-## ✍️ Syntax
+## 📜 Syntax
 
 ```jsx
 let promise = new Promise(function(resolve, reject) {

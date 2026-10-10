@@ -1,4 +1,4 @@
-Whenever you execute a command or program in Linux, the operating system creates a *process* to run it.
+Whenever you execute a command or program in [[Linux]], the operating system creates a *process* to run it.
 A process is simply a running instance of a program.
 
 The user account under whose permissions a program is running called a *process owner*.

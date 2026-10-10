@@ -2,7 +2,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "dashboard",
-    "tiny-tweaks"
+    "tiny-tweaks",
+    "hide-window-controls"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false,
