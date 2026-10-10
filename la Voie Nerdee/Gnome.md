@@ -12,13 +12,6 @@ $ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Shift>A
 $ gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Alt>Shift_L']"
 ```
 
-### 📟 Set default terminal
-
-```bash
-gsettings set org.gnome.desktop.default-applications.terminal exec kitty
-#for example
-```
-
 ### 📂 Set Files shortcut
 
 - Go to Settings > Keyboard > View and Customize Shortcuts
@@ -34,6 +27,12 @@ nautilus --new-window
 - Run `ibus-setup`
 - Go to Emoji tab
 - Clear Emoji annotation shortcuts
+
+### Disable extensions auto-download
+
+```bash
+gsettings set org.gnome.software download-updates false
+```
 
 ### 🪄 Download & Install incompatible extensions
 

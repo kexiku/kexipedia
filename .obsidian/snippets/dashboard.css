@@ -55,12 +55,6 @@
   display: none;
 }
 
-/* Hide collapse arrows */
-.heading-collapse-indicator,
-.cm-fold-indicator .collapse-indicator {
-  display: none !important;
-}
-
 /* Shrink collapse icons area */
 .list-collapse-indicator {
   margin: 0px !important;

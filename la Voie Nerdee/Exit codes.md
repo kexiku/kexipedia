@@ -1,14 +1,8 @@
 An *exit code* (also known as an *status code*) is a numerical value returned by a command or script to indicate the outcome of its execution.
 
-Code `0` generally indicates a successful result; anything other than `0` is considered an error.
+In [[Linux]], code `0` generally indicates a successful result; anything other than `0` is considered an error.
+
+> [!warning]
+> In many programming languages, this is exactly the opposite: zero is considered "false" and nonzero values are considered "true"
 
 The `?` [[environment variables|environment variable]] contains info about the exit status of the previous command.
-
-## 🔀 Condition chaining
-
-| *Operator* | *Name*    | *Meaning*                                             |
-| ---------- | --------- | ----------------------------------------------------- |
-| `&&`       | AND       | executes only if the previous command is a success    |
-| `︱︱`       | OR        | executes only if the previous command is a failure    |
-| `;`        | Separator | executes regardless of status of the previous command |
-

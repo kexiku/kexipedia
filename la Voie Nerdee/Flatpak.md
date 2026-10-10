@@ -1,4 +1,4 @@
-*Flatpak* is a universal software deployment and package management framework for Linux that allows applications to run in a secure, isolated environment.
+*Flatpak* is a universal software deployment and package management framework for [[Linux]] that allows applications to run in a secure, isolated environment.
 
 [[Packages]] distributing via Flatpak are called *flatpaks*.
 

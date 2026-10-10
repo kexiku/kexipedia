@@ -8,9 +8,14 @@ obsidianUIMode: preview
 ---
 # ♟️ l' Essentiel
 
+- 🕰️ Personal
+	- [[Timeline]]
+
 - ⚖️ Fundamentals
 	- [[Unix philosophy]]
 	- [[POSIX]]
+	- [[XDG]]
+		- [[XDG Base Directory|Base Directory]]
 	- [[User interfaces]]
 
 # 🔮 le Système
@@ -20,8 +25,6 @@ obsidianUIMode: preview
 	- [[Devices]]
 	- [[System calls]]
 	- [[Packages]]
-	- [[Shell]]
-	- [[Shell types]]
 
 - 🍄 Resources
 	- [[Memory]]
@@ -119,21 +122,16 @@ obsidianUIMode: preview
 
 # 🕯️ Terminal
 
-- 🐚 Shells
-	- [[bash]]
-	- [[zsh]]
-	- [[fish]]
-
 - 🪶 Scripting
+	- [[Shell]]
+	- [[Shell types]]
 	- [[Functions]]
 	- [[Variables]]
 	- [[Pipelines]]
 	- [[Exit codes]]
+	- [[Conditional chaining]]
 	- [[Regular expressions]]
 	- [[shebang]]
-	- [[sed]]
-	- [[set]]
-	- [[command]]
 	- [[IFS]]
 
 - ⚰️ I/O
@@ -142,6 +140,14 @@ obsidianUIMode: preview
 	- [[Redirection]]
 	- [[tee]]
 
-- 🛶 Utils
+- 🐚 Shells
+	- [[Bash]]
+	- [[Zsh]]
+	- [[fish]]
+
+- 🎻 Utils
+	- [[cat]]
+	- [[sed]]
+	- [[set]]
 	- [[dd]]
 	- [[git]]

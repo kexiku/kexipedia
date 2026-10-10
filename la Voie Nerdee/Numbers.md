@@ -1,4 +1,4 @@
-## 🍧 Syntax
+## 📜 Syntax
 
 We can use underscore `_` as the separator:
 
