@@ -16,10 +16,15 @@
 ## 2024-06-08
 
 > [!hint]- First Linux installation (Mint)
-![[IMG_20240608_160533.jpg]]
+> ![[Screenshot from 2024-06-16 12-17-59.png]]
 
 > [!quote]- Bonus
-![[Screenshot From 2026-10-04 03-38-55.png]]
+> ![[IMG_20240608_160533.jpg]]
+
+## 2024-06-21
+
+> [!example]- First desktop ricing
+![[Screenshot from 2024-06-21 16-32-38.png]]
 
 ## 2024-06-27
 
@@ -33,10 +38,21 @@
 
 ## 2024-10-21
 
-> [!hint] First tried KDE
+> [!hint]- First tried KDE
+> ![[Screenshot_20241021_185405.png]]
+
+> [!quote]- Bonus
+> ![[Screenshot_20241021_194857.png]]
 > Felt in love with Linux 💘
 
 ## 2024-10-28
 
 > [!abstract]- Spent whole weekend to setup Kitty
+![[Screenshot_20241028_122320 2.png]]
+
+## 2024-12-01
+
+> [!question]- Applejack?
+> ![[Screenshot_20241201_184011.png]]
+> Yep! :3
 

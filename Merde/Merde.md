@@ -6,4 +6,5 @@ banner: merde.webp
 banner_icon: 🧻
 ---
 - [[🏴‍☠️ Yarr]]
-- [[Callouts]]
+- [[💬 Callouts]]
+- [[🐧 My Linux Timeline]]

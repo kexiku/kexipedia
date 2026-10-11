@@ -27,7 +27,7 @@ The `init` process adopts these orphans and becomes their new parent.
 
 > ℹ️ Every process (except `init` and `kthreadd`) has its own PPID.
 
-When a child process finishes execution, it becomes a *zombie* until its parent process performs a `wait()` operation to collect its [[Exit codes|termination status]].
+When a child process finishes execution, it becomes a *zombie* until its parent process performs a `wait()` operation to collect its [[Exit status codes|termination status]].
 
 ## 🌀 Process flow
 
@@ -46,7 +46,7 @@ There are various [[system calls]] which control the process execution:
 
 ### wait()
 - Suspend the execution of a process
-- Retrieve the [[Exit codes|exit status]] of the last process it waited for
+- Retrieve the [[Exit status codes|exit status]] of the last process it waited for
 
 > [!example]- Flow scheme
 ![[Screenshot From 2026-01-29 22-06-41.webp|400]]
