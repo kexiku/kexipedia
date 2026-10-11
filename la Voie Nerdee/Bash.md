@@ -8,13 +8,21 @@ obsidianUIMode: preview
 ---
 - 🟢 Basics
 	- [[Bash config]]
-	- [[Conditional statements]]
 	- [[Positional parameters]]
+	- [[Parameter expansion]]
+
+- ⚪ Statements
+	- [[Conditional statements]]
+		- [[if]]
+		- [[case]]
 
 - 🅱️ Builints
 	- [[command]]
+	- [[set]]
 	- [[read]]
 	- [[printf]]
+	- [[shift]]
+	- [[trap]]
 	- [[exit]]
 
 - 🔣 Operators

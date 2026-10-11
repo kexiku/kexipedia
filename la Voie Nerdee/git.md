@@ -147,6 +147,22 @@ _and_  keep them in your stash
 Include untracked files
 
 
+## Filter repo
+
+To make a filtered copy of an existing git repository, use `git filter repo` utility:
+
+```bash
+git clone https://github.com/original-repo.git new-repo
+cd new-repo
+
+git filter-repo \
+  --subdirectory-filter path/to/dir \
+  --message-callback '
+    if message.startswith(b"zsh: "):
+      return message[len(b"zsh: "):]
+    return message
+  '
+```
 
 
 

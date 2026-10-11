@@ -8,9 +8,6 @@ obsidianUIMode: preview
 ---
 # ♟️ l' Essentiel
 
-- 🕰️ Personal
-	- [[Timeline]]
-
 - ⚖️ Fundamentals
 	- [[Unix philosophy]]
 	- [[POSIX]]
@@ -127,9 +124,7 @@ obsidianUIMode: preview
 	- [[Shell types]]
 	- [[Functions]]
 	- [[Variables]]
-	- [[Pipelines]]
-	- [[Exit codes]]
-	- [[Conditional chaining]]
+	- [[Exit status codes]]
 	- [[Regular expressions]]
 	- [[shebang]]
 	- [[IFS]]
@@ -143,11 +138,12 @@ obsidianUIMode: preview
 - 🐚 Shells
 	- [[Bash]]
 	- [[Zsh]]
-	- [[fish]]
+	- [[Fish]]
 
 - 🎻 Utils
 	- [[cat]]
+	- [[cut]]
 	- [[sed]]
-	- [[set]]
+	- [[mktemp]]
 	- [[dd]]
 	- [[git]]

@@ -1,5 +1,5 @@
-- `&&`: Logical AND
-- `||`: Logical OR
+- `&&`: Logical AND (executes only if the previous command succeeds)
+- `||`: Logical OR (executes only if the previous command fails)
 - `!`: Logical NOT
 
 

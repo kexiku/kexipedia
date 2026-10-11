@@ -4,17 +4,16 @@
 - `$1`: the first argument
 - `$2`: the second argument
 - ...
-- `$9`: the ninth argument
 - `${10}`: the tenth argument (*double-digit parameters require curly braces*)
 
 > [!tip]
-> To extract the basename of the script from its path, use the following syntax:
+> To extract the script's basename from its path, use the following syntax:
 > ```bash
 > ${0##*/}
 > ```
 > `##` removes the longest matching prefix that matches the pattern following it, while `*/` matching any sequence of characters ending with `/`.
 > 
-> Together, `${0##*/}` removes all the characters before the last slash, leaving only the final path component (the script's filename).
+> Together, `${0##*/}` removes all the characters before the last slash, leaving only the final path component (the script file).
 
 
 

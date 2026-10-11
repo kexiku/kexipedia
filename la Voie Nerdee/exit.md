@@ -8,5 +8,5 @@ exit [N]
 
 #### `N`
 
-- Exit [[Exit codes|status code]]
+- Exit [[Exit status codes|status code]]
 - If omitted, exit with the status code of the last command executed
