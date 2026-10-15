@@ -5,6 +5,17 @@ obsidianUIMode: preview
 banner: merde.webp
 banner_icon: 🧻
 ---
-- [[🏴‍☠️ Yarr]]
-- [[💬 Callouts]]
-- [[🐧 My Linux Timeline]]
+- 🗨️ La Discussion
+	- [[Post-Dairy Society]]
+	- [[Yarr]]
+
+- 🟣 Strada
+	- [[Άλφα]]
+	- [[Βήτα]]
+	- [[Γάμμα]]
+	- [[Δέλτα]]
+	- [[Ωμέγα]]
+
+- 🚽 Et Tout
+	- [[Callouts]]
+	- [[My Linux Timeline]]

@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[la voie nerdee.webp]]"
+banner: "[[la-voie-nerdee.webp]]"
 banner_icon: 🔭
 ---
 # 🪶 le Logiciel
@@ -20,6 +20,7 @@ banner_icon: 🔭
 
  - 📄 Languages
 	- [[JavaScript]]
+	- [[CSS]]
 
 - 🗄️ Databases
 	- [[MongoDB]]
@@ -33,10 +34,7 @@ banner_icon: 🔭
 # 🪔 Théorie
 
 - 🏛️ Architectures
-	- [[Kernel architecture]]
 	- [[Von Neumann architecture]]
 - [[Audio]]
-- [[Hash]]
 - [[Salting]]
-- [[Operating systems]]
 - [[Compiling]]

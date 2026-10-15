@@ -2,6 +2,9 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
+banner: cryptofu.webp
+banner_icon: 🍥
+banner_y: 4.0%
 ---
 # Basics
 

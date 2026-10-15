@@ -1,3 +1,8 @@
+---
+banner: callouts.webp
+banner_icon: 💬
+banner_y: 0.0%
+---
 # Callouts Examples
 
 > [!note]
