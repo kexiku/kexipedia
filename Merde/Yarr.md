@@ -1,3 +1,8 @@
+---
+banner: yarr.webp
+banner_icon: 🏴‍☠️
+banner_y: 58.4%
+---
 Piracy usually means downloading or distributing copyright-restricted content, like music, programs, games & all other sorts of media - so, I think that's exactly what you're looking for.
 
 In some countries it's illegal, in some others they don't give a hoot - but eventually it all comes down to your personal moral standards.

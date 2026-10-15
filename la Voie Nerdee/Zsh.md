@@ -6,12 +6,17 @@ banner: zsh.webp
 banner_y: 12.8%
 banner_icon: 💤
 ---
-- zsh
+- 🧰 Basics
 	- [[Zsh config]]
-	- [[Path modifiers]]
 	- [[fpath]]
+
+- 🧪 Features
+	- [[Path modifiers]]
+
+- 🔩 Builtins
 	- [[autoload]]
 	- [[zstyle]]
+	- [[zparseopts]]
 
 ## 🛠️ Set up
 

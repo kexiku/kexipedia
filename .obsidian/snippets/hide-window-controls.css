@@ -7,7 +7,3 @@ div[aria-label="Minimize"] { display: none !important; }
 .workspace-tab-header-container {
   padding-right: 0 !important;
 }
-
-.workspace-tab-header-container::after {
-  display: none !important;
-}

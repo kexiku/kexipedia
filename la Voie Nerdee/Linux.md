@@ -9,11 +9,11 @@ obsidianUIMode: preview
 # ♟️ l' Essentiel
 
 - ⚖️ Fundamentals
-	- [[Unix philosophy]]
+	- [[Unix]]
+		- [[Unix philosophy]]
 	- [[POSIX]]
 	- [[XDG]]
 		- [[XDG Base Directory|Base Directory]]
-	- [[User interfaces]]
 
 # 🔮 le Système
 
@@ -35,6 +35,7 @@ obsidianUIMode: preview
 - 🪞 Graphics
 	- [[Desktop environments]]
 	- [[Window managers]]
+	- [[User interfaces]]
 
 - ⚗️ Processus
 	- [[Processes]]
@@ -72,6 +73,7 @@ obsidianUIMode: preview
 	- [[VFS]]
 	- [[ext4]]
 	- [[Btrfs]]
+	- [[ISO9660]]
 
 # ⚔️ Sécurité
 
@@ -111,7 +113,6 @@ obsidianUIMode: preview
 	- [[apt]]
 		- [[aptitude]]
 	- [[Flatpak]]
-	- [[reflector]]
 
 - 🎀 Software
 	- [[VS Code]]
@@ -121,7 +122,7 @@ obsidianUIMode: preview
 
 - 🪶 Scripting
 	- [[Shell]]
-	- [[Shell types]]
+		- [[Shell types]]
 	- [[Functions]]
 	- [[Variables]]
 	- [[Exit status codes]]

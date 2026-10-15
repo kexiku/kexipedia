@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30c91855fcd54f3f",
+        "id": "dc49368734e9e2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "51192a65ad08d8a2",
+            "id": "4e011453717b704d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "l'Univers.md",
+                "file": "Neuralium/Neuralium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la Voie Nerdee/Proton VPN.md",
+                "file": "la Voie Nerdee/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "l'Univers.md",
+                "file": "la Voie Nerdee/Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "l'Univers.md"
+                "file": "Neuralium/Neuralium.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -199,44 +199,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51192a65ad08d8a2",
+  "active": "4e011453717b704d",
   "lastOpenFiles": [
-    "Memoria/Memoria.md",
-    "Memoria/Ultra Shift.md",
-    "Memoria/Ultra Luxe.md",
-    "Memoria/Ultra Luxe ⭐.md",
-    "Memoria/U366.md",
-    "Memoria/U301 🐉.md",
-    "Memoria/U301 ⚫.md",
-    "Memoria/Dual Drive Luxe.md",
-    "Memoria/Cruzer Snap.md",
-    "l'Univers.md",
     "la Voie Nerdee/la Voie Nerdee.md",
+    "l'Univers.md",
+    "Neuralium/Neuralium.md",
+    "Odometros/Odometros.md",
+    "Cryptofu/Cryptofu.md",
+    "Neuralium/Tinkering with Programming.md",
+    "Neuralium/Switching IT Specialities.md",
+    "Neuralium/Life Struggles and Support.md",
+    "Neuralium/Privacy vs Opportunity.md",
     "la Voie Nerdee/Linux.md",
-    "la Voie Nerdee/Zsh.md",
-    "la Voie Nerdee/Bash.md",
-    "la Voie Nerdee/trap.md",
-    "Merde/💬 Callouts.md",
-    "la Voie Nerdee/mktemp.md",
-    "Merde/🐧 My Linux Timeline.md",
     "Merde/Merde.md",
-    "la Voie Nerdee/🐧 My Linux Timeline.md",
-    "media/Screenshot_20241201_184011.png",
-    "media/Screenshot_20241028_122320 2.png",
-    "media/Screenshot_20241028_122320 1.png",
-    "media/Screenshot_20241028_122320.png",
-    "media/Screenshot from 2024-06-16 12-17-59.png",
-    "media/Screenshot from 2024-06-21 16-32-38.png",
-    "media/Screenshot_20241021_194857.png",
-    "media/Screenshot_20241021_185405.png",
-    "la Voie Nerdee/Command.md",
-    "la Voie Nerdee/Conditional statements.md",
-    "la Voie Nerdee/cut.md",
-    "la Voie Nerdee/sed.md",
-    "la Voie Nerdee/File test operators.md",
-    "la Voie Nerdee/Parameter expansion.md",
-    "media/banners/zsh.webp",
-    "media/banners/bash.webp",
+    "Merde/My Linux Timeline.md",
+    "media/Screenshot From 2026-10-15 17-49-51.webp",
+    "Merde/Callouts.md",
+    "la Voie Nerdee/XDG.md",
+    "la Voie Nerdee/Inode.md",
+    "la Voie Nerdee/Links.md",
+    "la Voie Nerdee/Symlinks.md",
+    "la Voie Nerdee/Unix.md",
+    "la Voie Nerdee/Environment variables.md",
+    "la Voie Nerdee/ISO9660.md",
+    "media/Screenshot From 2026-10-15 16-13-23.webp",
+    "Merde/Bovine Science.md",
+    "Merde/Post-Dairy Society.md",
+    "Neuralium/Fill Tin Box.md",
+    "media/ChatGPT Image Sep 28, 2026, 04_35_01 PM.webp",
+    "media/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
+    "media/Screenshot From 2026-10-14 18-44-25.webp",
+    "la Voie Nerdee/reflector.md",
+    "la Voie Nerdee/Wimblows Recovery Environment.md",
+    "la Voie Nerdee/Wimblows.md",
+    "media/banners/neuralium.webp",
+    "media/banners/Neuralium.webp",
+    "media/banners/Neuralium.png",
+    "Neuralium",
+    "media/banners/cryptofu_1.webp",
+    "media/banners/cryptofu.webp",
     "templates",
     "la Voie Nerdee/media",
     "Cryptofu/media",
@@ -246,7 +247,6 @@
     "media/key-DA87E80D6294BE9B.txt",
     "media/key-988021A964E6EA7D.txt",
     "media/key-42468F4009EA8AC3.txt",
-    "la Voie Nerdee/media/key-42468F4009EA8AC3.txt",
     "Untitled.canvas"
   ]
 }

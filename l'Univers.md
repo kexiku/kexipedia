@@ -16,7 +16,11 @@ banner_y: 42.8%
 
 # 💿 Memoria
 
-- [[Memoria|Memoria]]
+- [[Memoria]]
+
+# 🪩 Neuralium
+
+- [[Neuralium]]
 
 # 🛵 Odometros
 
