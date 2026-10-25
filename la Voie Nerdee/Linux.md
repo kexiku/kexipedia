@@ -37,7 +37,7 @@ obsidianUIMode: preview
 	- [[Window managers]]
 	- [[User interfaces]]
 
-- ⚗️ Processus
+- ⚗️ Processes
 	- [[Processes]]
 	- [[Environment variables]]
 	- [[Niceness]]
@@ -46,6 +46,7 @@ obsidianUIMode: preview
 	- [[top]]
 
 - 📖 Control
+	- [[git]]
 	- [[grub]]
 	- [[systemd]]
 
@@ -83,6 +84,8 @@ obsidianUIMode: preview
 	- [[Firewall]]
 
 - 👑 Access
+	- [[Hostname]]
+		- [[FQDN]]
 	- [[Users]] | [[Groups]]
 	- [[Permissions]]
 	- [[UID]]
@@ -99,7 +102,7 @@ obsidianUIMode: preview
 - 🎪 Distros
 	- [[Debian]]
 
-- 🎟️ Desktop
+- 🍿 Desktop
 	- [[Wayland]]
 	- [[Hyprland]]
 	- [[Gnome]]
@@ -107,22 +110,36 @@ obsidianUIMode: preview
 - 🎭 Multimédia
 	- [[mpd]]
 	- [[yt-dlp]]
-	- [[ImageMagick]]
 
 - 🎈 Packages
 	- [[apt]]
-		- [[aptitude]]
 	- [[Flatpak]]
 
 - 🎀 Software
 	- [[VS Code]]
 	- [[Proton VPN]]
 
+- 🎟️ Utils
+	- [[cat]]
+	- [[cut]]
+	- [[sed]]
+	- [[mktemp]]
+	- [[dd]]
+
 # 🕯️ Terminal
 
-- 🪶 Scripting
+- 🦇 Basics
+	- [[Terminal]]
 	- [[Shell]]
 		- [[Shell types]]
+
+- ⚰️ I/O
+	- [[Standard streams]]
+	- [[Pipelines]]
+	- [[Redirection]]
+	- [[tee]]
+	
+- 🪶 Scripting
 	- [[Functions]]
 	- [[Variables]]
 	- [[Exit status codes]]
@@ -130,21 +147,7 @@ obsidianUIMode: preview
 	- [[shebang]]
 	- [[IFS]]
 
-- ⚰️ I/O
-	- [[Standard streams]]
-	- [[Pipelines]]
-	- [[Redirection]]
-	- [[tee]]
-
-- 🐚 Shells
+- 🎻 Shells
 	- [[Bash]]
 	- [[Zsh]]
 	- [[Fish]]
-
-- 🎻 Utils
-	- [[cat]]
-	- [[cut]]
-	- [[sed]]
-	- [[mktemp]]
-	- [[dd]]
-	- [[git]]

@@ -17,5 +17,4 @@ banner_icon: 🧻
 	- [[Ωμέγα]]
 
 - 🚽 Et Tout
-	- [[Callouts]]
 	- [[My Linux Timeline]]

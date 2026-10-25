@@ -1,4 +1,4 @@
-*Backports* in [[apt]] are recompiled packages from [[Debian distributions|testing]], adjusted and recompiled for usage on Debian stable.
+*Backports* in [[apt]] are recompiled packages from [[Debian releases|testing]], adjusted and recompiled for usage on Debian stable.
 
 They provide a simple way to use newer software on a stable release without upgrading the entire OS.
 

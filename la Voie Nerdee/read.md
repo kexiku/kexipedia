@@ -8,7 +8,7 @@ It splits the line into words based on the [[IFS]] variable and assigns those wo
 read [options] [names...]
 ```
 
-## 📖 Common options
+## 📖 Options
 
 #### `-r`
 

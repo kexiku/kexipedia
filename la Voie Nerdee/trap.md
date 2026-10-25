@@ -1,4 +1,4 @@
-`trap` is a [[Bash]] buitin that can handle asynchronous signals and execute a commands in response to the signal given to the program.
+`trap` is a [[Bash]] buitin that can handle asynchronous [[signals]] and execute commands in response to them.
 
 It's commonly used to clean up temporary files, manage errors, and makes script exit gracefully on interruption.
 
@@ -8,16 +8,16 @@ It's commonly used to clean up temporary files, manage errors, and makes script 
 trap 'commands' SIGNAL_1 SIGNAL_2 ...
 ```
 
-### `'commands'`
+### 'commands'
 
 - The string of code to run when the signal is caught
 
-### `SIGNAL`
+### SIGNAL
 
-- The specific Unix signal that triggers the trap
+- The specific Unix [[Signals|signal]] that triggers the trap
 - Can be specified by name (e.g. `SIGINT`) or by value (e.g. `2`)
 
-## 📢 Common signals
+## 📢 Signals
 
 | Signal         | Description                                                |
 | -------------- | ---------------------------------------------------------- |

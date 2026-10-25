@@ -8,6 +8,7 @@ banner_icon: 💤
 ---
 - 🧰 Basics
 	- [[Zsh config]]
+	- [[Zsh completions]]
 	- [[fpath]]
 
 - 🧪 Features

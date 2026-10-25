@@ -1,0 +1,1 @@
+The *kernel* is the most fundamental program on the computer that does all the basic housekeeping and lets you start other programs.

@@ -6,7 +6,7 @@ The `exit` command in [[Bash]] terminates a shell session or a running script.
 exit [N]
 ```
 
-#### `N`
+### `N`
 
 - Exit [[Exit status codes|status code]]
 - If omitted, exit with the status code of the last command executed

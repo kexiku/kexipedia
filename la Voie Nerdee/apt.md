@@ -2,6 +2,26 @@
 
 It acts as a front-end for [[dpkg]], automatically resolving complex package dependencies and managing [[apt sources|repositories]].
 
+## 📦 Usage
+
+- Update all the installed packages:
+
+```shell
+sudo apt update && sudo apt upgrade 
+```
+
+- Remove a package:
+
+```shell
+sudo apt remove <package_name>
+```
+
+- Remove a package and all its config files:
+
+```shell
+sudo apt purge <package_name>
+```
+
 ## 🪛 Troubleshooting
 
 ### Fetch failures
@@ -15,4 +35,4 @@ In this case, refreshing package metadata directory may help:
 sudo rm -r /var/lib/apt/lists
 ```
 
-`sudo apt update` will recreate it on the next run.
+`apt update` will recreate it on the next run.
