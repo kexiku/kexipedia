@@ -1,6 +1,6 @@
 [[Apt]] downloads and installs packages from one or more software *repositories*, sometimes called *sources*.
 
-Common apt repositories include [[Debian distributions|Stable]], Security and [[Backports]].
+Common apt repositories include [[Debian releases|Stable]], Security and [[Backports]].
 
 Adding repositories lets you manage non-Debian packages using normal Debian package management tools, making them easy to update and remove.
 

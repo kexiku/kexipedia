@@ -2,18 +2,18 @@ A [[Bash]] builtin used to locate a command.
 
 It allows you to distinguish the actual command from aliases or [[functions]] with the same name.
 
-> [!tip]
-> In modern scripting, it's preferable to use `command -v` instead of `which`:
-> - It complies with the [[POSIX]] standard
-> - It's a shell built-in
-
-## ❔ Usage
+## 📍 Usage
 
 - Check if a command exists:
 
 ```bash
-command -v <command>
+command -v <command> &>/dev/null # silence the output
 ```
+
+> [!tip]
+> In modern scripting, it's preferable to use `command -v` instead of `which`:
+> - It's a shell builtin 
+> - It complies with the [[POSIX]] standard
 
 
 

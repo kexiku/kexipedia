@@ -8,22 +8,28 @@ obsidianUIMode: preview
 # 🧭 Map
 
 - ⛺ Concepts
+	- [[Understanding Debian]]
 	- [[Don't break Debian]]
+
+- 🫕 Distribution
+	- [[Debian releases]]
+		- [[Debian LTS|LTS]]
+	- [[Debian lifecycle]]
+	- [[netinst]]
 
 - 🎒 Repository
 	- [[apt]]
 		- [[apt sources|Sources]]
 		- [[apt autoremove|Autoremove]]
 		- [[apt-mark]]
+		- [[apt-get]]
 	- [[aptitude]]
 	- [[dpkg]]
 	- [[Backports]]
 	- [[Debian public key]]
 
-- 🫕 Versions
-	- [[Debian distributions]]
+- 🗺️ More
 	- [[Debian derivatives]]
-	- [[netinst]]
 
 ## 🛠️ Installation
 

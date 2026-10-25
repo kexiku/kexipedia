@@ -21,6 +21,11 @@
   border-radius: 5px 5px 0 0;
 }
 
+/* reduce code block margins inside callouts */
+.callout pre {
+  margin: 1rem 0rem;
+}
+
 /* remove link underlines */
 .markdown-rendered .internal-link,
 .cm-s-obsidian span.cm-hmd-internal-link,

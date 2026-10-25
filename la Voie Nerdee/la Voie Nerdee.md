@@ -21,6 +21,7 @@ banner_icon: 🔭
  - 📄 Languages
 	- [[JavaScript]]
 	- [[CSS]]
+	- [[Markdown]]
 
 - 🗄️ Databases
 	- [[MongoDB]]

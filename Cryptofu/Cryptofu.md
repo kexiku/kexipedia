@@ -18,6 +18,7 @@ banner_y: 4.0%
 
 - DeFi
 	- [[dApps]]
+	- [[Smart contracts]]
 	- [[DEX]]
 	- [[Lending]]
 	- [[Liquidity pools]]

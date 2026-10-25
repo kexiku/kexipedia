@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "dc49368734e9e2b8",
+        "id": "32832d01e2811d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "4e011453717b704d",
+            "id": "5cb4583c13edf01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'Univers.md",
+                "file": "la Voie Nerdee/Debian releases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Debian releases"
+            }
+          },
+          {
+            "id": "42b812628ca01218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdee/Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "l'Univers"
+              "title": "Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuralium/Neuralium.md",
+                "file": "la Voie Nerdee/Debian releases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,14 +190,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Neuralium/Neuralium.md"
+                "file": "Cryptofu/Smart contracts.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,45 +214,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e011453717b704d",
+  "active": "42b812628ca01218",
   "lastOpenFiles": [
-    "la Voie Nerdee/la Voie Nerdee.md",
-    "l'Univers.md",
-    "Neuralium/Neuralium.md",
-    "Odometros/Odometros.md",
-    "Cryptofu/Cryptofu.md",
-    "Neuralium/Tinkering with Programming.md",
-    "Neuralium/Switching IT Specialities.md",
-    "Neuralium/Life Struggles and Support.md",
-    "Neuralium/Privacy vs Opportunity.md",
+    "la Voie Nerdee/Kernel.md",
     "la Voie Nerdee/Linux.md",
-    "Merde/Merde.md",
-    "Merde/My Linux Timeline.md",
-    "media/Screenshot From 2026-10-15 17-49-51.webp",
+    "la Voie Nerdee/Debian releases.md",
+    "la Voie Nerdee/Debian.md",
+    "la Voie Nerdee/apt.md",
+    "l'Univers.md",
+    "la Voie Nerdee/apt-get.md",
+    "la Voie Nerdee/apt sources.md",
+    "la Voie Nerdee/Debian lifecycle.md",
+    "la Voie Nerdee/Debian LTS.md",
+    "la Voie Nerdee/Understanding Debian.md",
+    "la Voie Nerdee/Debian derivatives.md",
+    "la Voie Nerdee/apt-mark.md",
+    "la Voie Nerdee/apt autoremove.md",
+    "la Voie Nerdee/Don't break Debian.md",
+    "la Voie Nerdee/Markdown.md",
+    "la Voie Nerdee/Styling text.md",
+    "la Voie Nerdee/Headings.md",
     "Merde/Callouts.md",
-    "la Voie Nerdee/XDG.md",
-    "la Voie Nerdee/Inode.md",
-    "la Voie Nerdee/Links.md",
-    "la Voie Nerdee/Symlinks.md",
-    "la Voie Nerdee/Unix.md",
-    "la Voie Nerdee/Environment variables.md",
-    "la Voie Nerdee/ISO9660.md",
+    "la Voie Nerdee/la Voie Nerdee.md",
+    "la Voie Nerdee/Salting.md",
+    "Merde/Merde.md",
+    "la Voie Nerdee/cut.md",
+    "la Voie Nerdee/sed.md",
+    "la Voie Nerdee/dpkg.md",
+    "la Voie Nerdee/Debian public key.md",
+    "media/banners/smart-contracts.webp",
+    "media/banners/dapps.webp",
+    "media/banners/markdown.webp",
+    "media/understanding-debian.webp",
+    "media/Screenshot From 2026-10-15 17-49-51.webp",
     "media/Screenshot From 2026-10-15 16-13-23.webp",
-    "Merde/Bovine Science.md",
-    "Merde/Post-Dairy Society.md",
-    "Neuralium/Fill Tin Box.md",
     "media/ChatGPT Image Sep 28, 2026, 04_35_01 PM.webp",
     "media/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
     "media/Screenshot From 2026-10-14 18-44-25.webp",
-    "la Voie Nerdee/reflector.md",
-    "la Voie Nerdee/Wimblows Recovery Environment.md",
-    "la Voie Nerdee/Wimblows.md",
     "media/banners/neuralium.webp",
-    "media/banners/Neuralium.webp",
-    "media/banners/Neuralium.png",
     "Neuralium",
-    "media/banners/cryptofu_1.webp",
-    "media/banners/cryptofu.webp",
     "templates",
     "la Voie Nerdee/media",
     "Cryptofu/media",

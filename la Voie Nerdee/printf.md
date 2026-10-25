@@ -8,22 +8,26 @@ It serves as a more reliable and feature-rich replacement for `echo`, mirroring 
 printf [-v var] "FORMAT" [arguments...]
 ```
 
-#### `-v`
-
-- tells `printf` not to print the output but to assign it to the variable (`var`)
-
-#### FORMAT
+### FORMAT
 
 - A string that may contain three different types of objects:
 	- Regular characters (printed to output as-is)
 	- Backslash-escaped special characters (like `\n` for new line)
-	- Format specifiers
+	- Format specifiers *(see the table below)*
 
-#### arguments
+### arguments
 
 - Values that replace specifiers in the format string
 
-## Common format specifiers
+## 🖨️ Usage
+
+- Assign the output to variable:
+
+```bash
+printf -v message "Hello, %s!" "Alice"
+```
+
+## ℹ️ Common *format* specifiers
 
 | Specifier    | Description                              | Example                 |
 | ------------ | ---------------------------------------- | ----------------------- |
@@ -32,11 +36,14 @@ printf [-v var] "FORMAT" [arguments...]
 | `%f`         | Formats a floating-point number          | `printf "%f" 3.14`      |
 | `%%`         | Prints a literal percent sign (`%`)      | `printf "100%%"`        |
 
-## Key Differences from `echo`
-
-- No Automatic Newline
-- Format Reusability
-- Consistency
+> [!info]
+> Unlike `echo`, `printf` doesn't automatically append a trailing newline to the string.
+> 
+> To add a newline, you must use the escape sequence:
+> 
+> ```
+> printf "%s\n" "Done"
+> ```
 
 
 

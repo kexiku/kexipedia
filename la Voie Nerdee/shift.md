@@ -1,6 +1,6 @@
 The `shift` command is a [[Bash]] builtin that moves the command-line arguments to the left.
 
-It's useful for argument iterations when multiple *option-value* pairs need to be processed.
+It's useful for argument iterations when multiple **option**-**value** pairs need to be processed.
 
 ## 📜 Syntax
 

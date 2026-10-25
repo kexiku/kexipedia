@@ -5,5 +5,7 @@ It behaves similarly to the standard `$PATH` variable, but instead of searching 
 ## 🔍 How it Works
 
 When you ask zsh to load a function or a completion script using the `autoload` command, it doesn't load the function into memory immediately.
+
 Instead, it searches the directories listed in `$fpath` for a file that matches the function name.
+
 When the function is finally called, zsh reads and executes the contents of the function file.
