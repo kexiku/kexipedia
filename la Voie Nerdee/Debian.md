@@ -95,7 +95,7 @@ managed=true # make sure it set to 'true'
 1. Install additional packages:
 
 ```bash
-sudo apt install fonts-noto freefilesync git gpg gnome-shell-extension-manager gnome-tweaks imagemagick pipx python3-pip python3-venv seahorse stow ufw unifont wget yt-dlp zsh zsh-syntax-highlighting -y
+sudo apt install fonts-noto freefilesync git gpg gnome-shell-extension-manager gnome-tweaks imagemagick mpv pipx python3-pip python3-venv seahorse stow ufw unifont wget yt-dlp zsh zsh-syntax-highlighting -y
 ```
 
 

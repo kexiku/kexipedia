@@ -17,7 +17,7 @@ obsidianUIMode: preview
 2. Go to:
 	- Computer configuration
 	- Administrative Templates
-	- Windows Components
-	- Windows Update
-	- Manage updates offered from Windows Update
-3. Set `Do not include drivers with Windows Updates` to `Enabled`
+	- Wimblows Components
+	- Wimblows Update
+	- Manage updates offered from Wimblows Update
+3. Set `Do not include drivers with Wimblows Updates` to `Enabled`
