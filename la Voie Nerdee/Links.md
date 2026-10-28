@@ -2,7 +2,7 @@ In [[Linux]], both *hard links* and *soft links* (also known as [[symlinks]]) pr
 
 ## 🪨 Hard links
 
-- Point directly to to a specific [[inode]]
+- Point directly to to a specific [[Inodes|inode]]
 - Use same inode number as target
 - Cannot be used across file systems
 - Cannot link to directories

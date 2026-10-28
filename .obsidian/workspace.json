@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "32832d01e2811d0f",
+        "id": "2839331a3e4a97f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb4583c13edf01e",
+            "id": "0b91160951edfb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdee/Debian releases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Debian releases"
-            }
-          },
-          {
-            "id": "42b812628ca01218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdee/Linux.md",
+                "file": "l'Univers.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "l'Univers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdee/Debian releases.md",
+                "file": "l'Univers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +174,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cryptofu/Smart contracts.md"
+                "file": "l'Univers.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,34 +199,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "42b812628ca01218",
+  "active": "0b91160951edfb03",
   "lastOpenFiles": [
-    "la Voie Nerdee/Kernel.md",
-    "la Voie Nerdee/Linux.md",
-    "la Voie Nerdee/Debian releases.md",
-    "la Voie Nerdee/Debian.md",
-    "la Voie Nerdee/apt.md",
-    "l'Univers.md",
-    "la Voie Nerdee/apt-get.md",
-    "la Voie Nerdee/apt sources.md",
-    "la Voie Nerdee/Debian lifecycle.md",
-    "la Voie Nerdee/Debian LTS.md",
-    "la Voie Nerdee/Understanding Debian.md",
-    "la Voie Nerdee/Debian derivatives.md",
-    "la Voie Nerdee/apt-mark.md",
-    "la Voie Nerdee/apt autoremove.md",
-    "la Voie Nerdee/Don't break Debian.md",
-    "la Voie Nerdee/Markdown.md",
-    "la Voie Nerdee/Styling text.md",
-    "la Voie Nerdee/Headings.md",
-    "Merde/Callouts.md",
+    "la Voie Nerdee/PipeWire.md",
+    "la Voie Nerdee/JACK.md",
+    "la Voie Nerdee/PulseAudio.md",
+    "la Voie Nerdee/Bit rate.md",
     "la Voie Nerdee/la Voie Nerdee.md",
+    "la Voie Nerdee/Encoding.md",
+    "la Voie Nerdee/Sound servers.md",
+    "la Voie Nerdee/Flatpak.md",
+    "la Voie Nerdee/Resampling.md",
+    "l'Univers.md",
+    "la Voie Nerdee/ALSA.md",
+    "la Voie Nerdee/Linux.md",
+    "la Voie Nerdee/PCM.md",
+    "media/banners/pcm.webp",
+    "la Voie Nerdee/Audio.md",
+    "la Voie Nerdee/Bit depth.md",
+    "la Voie Nerdee/Sample rate.md",
+    "la Voie Nerdee/Dynamic range.md",
+    "la Voie Nerdee/FAT32.md",
+    "la Voie Nerdee/Frequency.md",
     "la Voie Nerdee/Salting.md",
-    "Merde/Merde.md",
-    "la Voie Nerdee/cut.md",
-    "la Voie Nerdee/sed.md",
-    "la Voie Nerdee/dpkg.md",
-    "la Voie Nerdee/Debian public key.md",
+    "la Voie Nerdee/ext4.md",
+    "la Voie Nerdee/exFAT.md",
+    "la Voie Nerdee/Kernel.md",
+    "la Voie Nerdee/Wimblows.md",
+    "la Voie Nerdee/Inodes.md",
+    "la Voie Nerdee/df.md",
     "media/banners/smart-contracts.webp",
     "media/banners/dapps.webp",
     "media/banners/markdown.webp",
@@ -251,7 +237,6 @@
     "media/ChatGPT Image Sep 28, 2026, 04_35_01 PM.webp",
     "media/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
     "media/Screenshot From 2026-10-14 18-44-25.webp",
-    "media/banners/neuralium.webp",
     "Neuralium",
     "templates",
     "la Voie Nerdee/media",

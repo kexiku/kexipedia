@@ -29,8 +29,9 @@ obsidianUIMode: preview
 
 - 🪉 Audio
 	- [[ALSA]]
-	- [[PulseAudio]]
-	- [[PipeWire]]
+	- [[Sound servers]]
+		- [[PulseAudio]]
+		- [[PipeWire]]
 
 - 🪞 Graphics
 	- [[Desktop environments]]
@@ -57,13 +58,13 @@ obsidianUIMode: preview
 
 - 🏛️ Basics
 	- [[Files]]
-	- [[Filesystem]]
-	- [[Filesystem structure]]
+	- [[File system]]
+	- [[File system structure]]
 
 - 📜 Management
 	- [[Partitions]]
 	- [[Mounting]]
-	- [[Inode]]
+	- [[Inodes]]
 	- [[Links]]
 	- [[Symlinks]]
 
@@ -71,10 +72,17 @@ obsidianUIMode: preview
 	- [[Checksums]]
 
 - ⚱️ File systems
-	- [[VFS]]
 	- [[ext4]]
+	- [[FAT32]]
+	- [[exFAT]]
+	- [[VFS]]
 	- [[Btrfs]]
+	- [[NTFS]]
 	- [[ISO9660]]
+
+- 🪽 Tools
+	- [[df]]
+	- [[dd]]
 
 # ⚔️ Sécurité
 
@@ -124,7 +132,6 @@ obsidianUIMode: preview
 	- [[cut]]
 	- [[sed]]
 	- [[mktemp]]
-	- [[dd]]
 
 # 🕯️ Terminal
 
