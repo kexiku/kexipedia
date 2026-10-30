@@ -2,8 +2,9 @@
 cssclasses:
   - dashboard
 obsidianUIMode: preview
-banner: "[[la-voie-nerdee.webp]]"
+banner: unitech.webp
 banner_icon: 🔭
+banner_y: 22.0%
 ---
 # 🪶 le Logiciel
 
