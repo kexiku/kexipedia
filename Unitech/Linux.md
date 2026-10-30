@@ -6,7 +6,7 @@ banner_icon: 🪐
 banner_y: 50.0%
 obsidianUIMode: preview
 ---
-# ♟️ l' Essentiel
+# ♟️ Theoria
 
 - ⚖️ Fundamentals
 	- [[Unix]]
@@ -15,23 +15,18 @@ obsidianUIMode: preview
 	- [[XDG]]
 		- [[XDG Base Directory|Base Directory]]
 
-# 🔮 le Système
+# 🔮 Systema
 
 - 🪔 Core
 	- [[Kernel]]
 	- [[Devices]]
 	- [[System calls]]
 	- [[Packages]]
+	- [[Audio]]
 
 - 🍄 Resources
 	- [[Memory]]
 	- [[swap]] | [[swappiness]]
-
-- 🪉 Audio
-	- [[ALSA]]
-	- [[Sound servers]]
-		- [[PulseAudio]]
-		- [[PipeWire]]
 
 - 🪞 Graphics
 	- [[Desktop environments]]
@@ -54,14 +49,14 @@ obsidianUIMode: preview
 - 🕸️ Network
 	- [[iwctl]]
 
-# 🏺 Stockage
+# 🏺 Cellarium
 
 - 🏛️ Basics
 	- [[Files]]
 	- [[File system]]
 	- [[File system structure]]
 
-- 📜 Management
+- 🪉 Management
 	- [[Partitions]]
 	- [[Mounting]]
 	- [[Inodes]]
@@ -71,7 +66,7 @@ obsidianUIMode: preview
 - ⏳ Integrity
 	- [[Checksums]]
 
-- ⚱️ File systems
+- 📜 File systems
 	- [[ext4]]
 	- [[FAT32]]
 	- [[exFAT]]
@@ -84,7 +79,7 @@ obsidianUIMode: preview
 	- [[df]]
 	- [[dd]]
 
-# ⚔️ Sécurité
+# ⚔️ Securitas
 
 - 🏰 Basics
 	- [[Passwords]]
@@ -119,11 +114,8 @@ obsidianUIMode: preview
 	- [[mpd]]
 	- [[yt-dlp]]
 
-- 🎈 Packages
-	- [[apt]]
-	- [[Flatpak]]
-
 - 🎀 Software
+	- [[Flatpak]]
 	- [[VS Code]]
 	- [[Proton VPN]]
 

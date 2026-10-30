@@ -37,14 +37,5 @@ banner_y: 22.0%
 
 - 🏛️ Architectures
 	- [[Von Neumann architecture]]
-- Audio
-	- [[Frequency]]
-	- [[Dynamic range]]
-	- [[PCM]]
-		- [[Sample rate]]
-		- [[Bit depth]]
-		- [[Bit rate]]
-	- [[Resampling]]
-	- [[Encoding]]
 - [[Salting]]
 - [[Compiling]]

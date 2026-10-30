@@ -1,4 +1,4 @@
-*PipeWire* is a modern low-level multimedia framework for hanlding audio and video streams on [[Linux]].
+*PipeWire* is a modern low-level multimedia framework for hanlding [[audio]] and video streams on [[Linux]].
 
 It's designed as a successor to older [[sound servers]] like [[PulseAudio]] and [[JACK]], aiming to unify audio and video processing by providing minimal latency and playback functionality.
 
