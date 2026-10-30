@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Odometros")
+    - file.inFolder("Senrius")
     - file.hasTag("Scooter")
 views:
   - type: cards

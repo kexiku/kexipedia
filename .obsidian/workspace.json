@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2839331a3e4a97f4",
+        "id": "b97f2a36490cf656",
         "type": "tabs",
         "children": [
           {
-            "id": "0b91160951edfb03",
+            "id": "7e1f878e207de78a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l'Univers.md",
+                "file": "Unitech/Unitech.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "l'Univers"
+              "title": "Unitech"
+            }
+          },
+          {
+            "id": "fa8f7fcc615e5c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unitech/Linux.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
             }
           }
         ]
@@ -174,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "l'Univers.md"
+                "file": "Unitech/Unitech.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -199,54 +214,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b91160951edfb03",
+  "active": "7e1f878e207de78a",
   "lastOpenFiles": [
+    "Unitech/Linux.md",
+    "Unitech/Unitech.md",
+    "Unitech/OSI model.md",
+    "Kexipedia.md",
+    "Neuralium/Neuralium.md",
+    "Adnexa/Banners/kexipedia.webp",
+    "Adnexa/Banners/unitech.webp",
+    "Neuralium/Fill Tin Box.md",
+    "Unitech/User interfaces.md",
+    "Adnexa/Banners/kexiversum.webp",
+    "Adnexa/Banners/wallhaven-8gdpgo.png",
+    "Senrius/Senrius.md",
+    "Merde/Merde.md",
+    "Senrius/Scooters.base",
+    "la Voie Nerdee/Debian public key.md",
+    "Adnexa/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
+    "Adnexa/761356774688.webp",
+    "la Voie Nerdee/Linux.md",
+    "Memoria/Memoria.md",
+    "Memoria/U202 🌈.md",
+    "la Voie Nerdee/la Voie Nerdee.md",
+    "Adnexa/Banners/Ωμέγα.webp",
+    "Adnexa/Banners/Δέλτα.webp",
+    "Adnexa/Banners/Γάμμα.webp",
+    "Adnexa/Banners/Βήτα.webp",
+    "Adnexa/Banners",
     "la Voie Nerdee/PipeWire.md",
     "la Voie Nerdee/JACK.md",
     "la Voie Nerdee/PulseAudio.md",
     "la Voie Nerdee/Bit rate.md",
-    "la Voie Nerdee/la Voie Nerdee.md",
     "la Voie Nerdee/Encoding.md",
     "la Voie Nerdee/Sound servers.md",
     "la Voie Nerdee/Flatpak.md",
     "la Voie Nerdee/Resampling.md",
-    "l'Univers.md",
     "la Voie Nerdee/ALSA.md",
-    "la Voie Nerdee/Linux.md",
     "la Voie Nerdee/PCM.md",
-    "media/banners/pcm.webp",
     "la Voie Nerdee/Audio.md",
     "la Voie Nerdee/Bit depth.md",
-    "la Voie Nerdee/Sample rate.md",
-    "la Voie Nerdee/Dynamic range.md",
-    "la Voie Nerdee/FAT32.md",
-    "la Voie Nerdee/Frequency.md",
-    "la Voie Nerdee/Salting.md",
-    "la Voie Nerdee/ext4.md",
-    "la Voie Nerdee/exFAT.md",
-    "la Voie Nerdee/Kernel.md",
-    "la Voie Nerdee/Wimblows.md",
-    "la Voie Nerdee/Inodes.md",
-    "la Voie Nerdee/df.md",
-    "media/banners/smart-contracts.webp",
-    "media/banners/dapps.webp",
-    "media/banners/markdown.webp",
-    "media/understanding-debian.webp",
-    "media/Screenshot From 2026-10-15 17-49-51.webp",
-    "media/Screenshot From 2026-10-15 16-13-23.webp",
-    "media/ChatGPT Image Sep 28, 2026, 04_35_01 PM.webp",
-    "media/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
-    "media/Screenshot From 2026-10-14 18-44-25.webp",
     "Neuralium",
     "templates",
     "la Voie Nerdee/media",
     "Cryptofu/media",
     "Cryptofu",
     "media/Memoria",
-    "Odometros/Scooters.base",
     "media/key-DA87E80D6294BE9B.txt",
     "media/key-988021A964E6EA7D.txt",
-    "media/key-42468F4009EA8AC3.txt",
     "Untitled.canvas"
   ]
 }

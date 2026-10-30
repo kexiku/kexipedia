@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "dashboard",
     "tiny-tweaks",
-    "hide-window-controls"
+    "hide-window-controls",
+    "hide-attachments"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false,
