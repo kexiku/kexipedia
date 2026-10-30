@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e1f878e207de78a",
+            "id": "d6a05cf08e0bdee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,21 +23,22 @@
             }
           },
           {
-            "id": "fa8f7fcc615e5c2b",
+            "id": "715ad7209b44ae70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unitech/Linux.md",
+                "file": "Unitech/Audio.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Audio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unitech/Unitech.md"
+                "file": "Unitech/Audio.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -214,12 +215,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e1f878e207de78a",
+  "active": "715ad7209b44ae70",
   "lastOpenFiles": [
-    "Unitech/Linux.md",
-    "Unitech/Unitech.md",
-    "Unitech/OSI model.md",
+    "Unitech/ALSA.md",
+    "Unitech/Audio.md",
+    "Unitech/OSS.md",
     "Kexipedia.md",
+    "Unitech/Linux.md",
+    "Unitech/Unix philosophy.md",
+    "Unitech/PipeWire.md",
+    "Unitech/PulseAudio.md",
+    "Unitech/Sound servers.md",
+    "Unitech/Unitech.md",
+    "Unitech/Salting.md",
+    "Unitech/Nyquist theorem.md",
+    "Unitech/Encoding.md",
+    "Unitech/Bitrate.md",
+    "Unitech/PCM.md",
+    "Unitech/VBR.md",
+    "Unitech/CBR.md",
+    "Unitech/Sample rate.md",
+    "Unitech/Dynamic range.md",
+    "Unitech/Frequency.md",
+    "Adnexa/Banners/audio.webp",
+    "Unitech/OSI model.md",
     "Neuralium/Neuralium.md",
     "Adnexa/Banners/kexipedia.webp",
     "Adnexa/Banners/unitech.webp",
@@ -230,30 +249,12 @@
     "Senrius/Senrius.md",
     "Merde/Merde.md",
     "Senrius/Scooters.base",
-    "la Voie Nerdee/Debian public key.md",
     "Adnexa/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
     "Adnexa/761356774688.webp",
-    "la Voie Nerdee/Linux.md",
-    "Memoria/Memoria.md",
-    "Memoria/U202 🌈.md",
-    "la Voie Nerdee/la Voie Nerdee.md",
     "Adnexa/Banners/Ωμέγα.webp",
     "Adnexa/Banners/Δέλτα.webp",
     "Adnexa/Banners/Γάμμα.webp",
-    "Adnexa/Banners/Βήτα.webp",
     "Adnexa/Banners",
-    "la Voie Nerdee/PipeWire.md",
-    "la Voie Nerdee/JACK.md",
-    "la Voie Nerdee/PulseAudio.md",
-    "la Voie Nerdee/Bit rate.md",
-    "la Voie Nerdee/Encoding.md",
-    "la Voie Nerdee/Sound servers.md",
-    "la Voie Nerdee/Flatpak.md",
-    "la Voie Nerdee/Resampling.md",
-    "la Voie Nerdee/ALSA.md",
-    "la Voie Nerdee/PCM.md",
-    "la Voie Nerdee/Audio.md",
-    "la Voie Nerdee/Bit depth.md",
     "Neuralium",
     "templates",
     "la Voie Nerdee/media",

@@ -2,7 +2,7 @@ The *sample rate* is the number of times per second an analog audio waveform is 
 
 It's measured in Hertz (Hz) or kilohertz (kHz), where 1 kHz equals 1,000 samples per second.
 
-Under the *Nyquist theorem*, the highest audio frequency you can record is half of the sampling rate frequency.
+Under the [[Nyquist theorem]], the highest audio frequency you can record is *half* of the sampling rate.
 Since human hearing caps out at around 20 kHz, a sample rate must be at least 40 kHz to capture the full audible spectrum.
 
 ## 🎚️ Common sample rates
