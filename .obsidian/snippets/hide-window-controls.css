@@ -7,3 +7,13 @@ div[aria-label="Minimize"] { display: none !important; }
 .workspace-tab-header-container {
   padding-right: 0 !important;
 }
+
+/* make the maximized button clickable */
+body.is-hidden-frameless:not(.is-maximized):not(.is-fullscreen) .workspace-tab-header-container:after {
+  width: 44px !important;
+}
+
+/* hide the blank space in tab header */
+body.is-maximized .workspace-tab-header-container:after {
+  display: none !important;
+}

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "45330bd15021f6cb",
+        "id": "348def7f868c55dd",
         "type": "tabs",
         "children": [
           {
-            "id": "65e6dd7c636f0718",
+            "id": "32efb1c7e8681a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unitech/Unitech.md",
+                "file": "Kexipedia.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unitech"
+              "title": "Kexipedia"
             }
           }
         ]
@@ -177,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unitech/Unitech.md"
+                "file": "Snippets/Sources.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -202,11 +202,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65e6dd7c636f0718",
+  "active": "32efb1c7e8681a12",
   "lastOpenFiles": [
-    "Unitech/Checksums.md",
+    "Senrius/Senrius.md",
     "Unitech/Unitech.md",
     "Kexipedia.md",
+    "Unitech/Unix philosophy.md",
+    "Snippets/Sources.md",
+    "Snippets",
+    "Unitech/Audio.md",
+    "Unitech/Checksums.md",
     "Unitech/OSI model.md",
     "Unitech/Network.md",
     "Unitech/DHCP.md",
@@ -215,7 +220,6 @@
     "Unitech/Terminal.md",
     "Unitech/git.md",
     "Unitech/Gnome.md",
-    "Unitech/Audio.md",
     "Merde/Merde.md",
     "Merde/yt-dlp.md",
     "Unitech/yt-dlp.md",
@@ -227,9 +231,6 @@
     "Unitech/User interfaces.md",
     "Unitech/Windows.md",
     "Unitech/FAT32.md",
-    "Unitech/Thunderbolt Firmware.md",
-    "Unitech/Windows Recovery Environment.md",
-    "Unitech/chkdsk.md",
     "Adnexa/Banners/network.webp",
     "Adnexa/Banners/audio.webp",
     "Adnexa/Banners/kexipedia.webp",
@@ -249,7 +250,6 @@
     "Cryptofu",
     "media/Memoria",
     "media/key-DA87E80D6294BE9B.txt",
-    "media/key-988021A964E6EA7D.txt",
     "Untitled.canvas"
   ]
 }
