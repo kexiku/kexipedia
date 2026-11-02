@@ -4,7 +4,8 @@
     "dashboard",
     "tiny-tweaks",
     "hide-window-controls",
-    "hide-attachments"
+    "hide-attachments",
+    "hide-folders"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false,

@@ -1,0 +1,14 @@
+{
+  "slashTrigger": "/",
+  "fuzzySearch": true,
+  "highlight": true,
+  "showPath": false,
+  "showFileContent": false,
+  "snippetPath": "Snippets",
+  "ignoreProperties": true,
+  "templaterSupport": false,
+  "textSelectionString": "%%textSelection%%",
+  "cursorPositionString": "%%cursor%%",
+  "maxSelectedTextLength": 50,
+  "showSelectedText": false
+}

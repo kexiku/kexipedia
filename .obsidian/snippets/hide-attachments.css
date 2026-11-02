@@ -1,6 +1,6 @@
 /* hide attachments folder from the file tree */
-div[data-path='Adnexa'],
-div[data-path='Adnexa'] + div.nav-folder-children
+div[data-path='Attachments'],
+div[data-path='Attachments'] + div.nav-folder-children
 {
   display: none;
 }
