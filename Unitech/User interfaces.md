@@ -27,5 +27,7 @@ They vary based on how information is displayed and how users input actions.
 
 
 
-[^1]: Sources:
-		https://itsfoss.com/gui-cli-tui/
+---
+
+<small>Sources:</small>
+<small>• https://itsfoss.com/gui-cli-tui</small>

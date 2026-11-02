@@ -25,5 +25,7 @@ Since human hearing caps out at around 20 kHz, a sample rate must be at least 40
 
 
 
-[^1]: Sources:
-		https://www.sonarworks.com/blog/learn/sample-rate
+---
+
+<small>Sources:</small>
+<small>• https://www.sonarworks.com/blog/learn/sample-rate</small>

@@ -33,6 +33,8 @@ It presents a sequence of characters which can reveals the user's approximate ge
 
 
 
-[^1]: Sources:
-	https://www.geeksforgeeks.org/computer-science-fundamentals/what-is-an-ip-address/
-	https://www.geeksforgeeks.org/computer-networks/differences-between-ipv4-and-ipv6/
+---
+
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/computer-science-fundamentals/what-is-an-ip-address</small>
+<small>• https://www.geeksforgeeks.org/computer-networks/differences-between-ipv4-and-ipv6</small>

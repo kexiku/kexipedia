@@ -1,7 +1,0 @@
-- **Bold text**
-- *Italic text*
-- ***Bold & Italic text***
-- ~~Strikethrough text~~
-- <sub>subscript</sub> text
-- <sup>superscript</sup> text
-- <u>underlined</u> text

@@ -6,5 +6,7 @@ Debian LTS is not handled by the Debian security team, but by a separate group o
 
 
 
-[^1]: Sources:
-		https://wiki.debian.org/LTS
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/LTS</small>

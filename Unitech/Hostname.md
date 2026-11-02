@@ -31,5 +31,7 @@ sudo hostnamectl set-hostname <new_hostname>
 
 
 
-[^1]: Sources:
-		https://wiki.debian.org/Hostname?pow_referer=https%3A%2F%2Fwww.google.com%2F
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/Hostname</small>

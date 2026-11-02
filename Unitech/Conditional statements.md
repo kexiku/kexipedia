@@ -26,6 +26,8 @@ fi
 
 
 
-[^1]: Sources:
-		https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Conditional_Expressions
-		https://www.w3schools.com/bash/bash_conditions.php
+---
+
+<small>Sources:</small>
+<small>• https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Conditional_Expressions</small>
+<small>• https://www.w3schools.com/bash/bash_conditions.php</small>

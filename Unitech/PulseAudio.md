@@ -8,6 +8,8 @@ While PulseAudio has historically been the standard sound server for Linux, many
 
 
 
-[^1]: Sources:
-		https://wiki.debian.org/PulseAudio
-		https://wiki.archlinux.org/title/PulseAudio
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/PulseAudio</small>
+<small>• https://wiki.archlinux.org/title/PulseAudio</small>

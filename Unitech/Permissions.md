@@ -49,6 +49,8 @@ Where `xxx` is a 3-digit number where each digit can be anything from 0 to 7. Th
 
 
 
-[^1]: Sources:
-	https://wiki.archlinux.org/title/File_permissions_and_attributes
-	https://www.geeksforgeeks.org/linux-unix/set-file-permissions-linux/
+---
+
+<small>Sources:</small>
+<small>• https://wiki.archlinux.org/title/File_permissions_and_attributes</small>
+<small>• https://www.geeksforgeeks.org/linux-unix/set-file-permissions-linux</small>

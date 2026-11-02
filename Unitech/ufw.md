@@ -62,5 +62,7 @@ sudo ufw delete allow ssh
 
 
 
-[^1]: Sources:
-	https://wiki.debian.org/Uncomplicated%20Firewall%20%28ufw%29
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/Uncomplicated%20Firewall%20%28ufw%29</small>

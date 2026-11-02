@@ -33,5 +33,7 @@ It allows programs to request access to privileged resources such as CPU, disk s
 
 
 
-[^1]: Sources:
-	https://www.geeksforgeeks.org/linux-unix/linux-system-call-in-detail/
+---
+
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/linux-unix/linux-system-call-in-detail</small>

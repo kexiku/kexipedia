@@ -1,0 +1,6 @@
+/* hide snippets folder from the file tree */
+div[data-path='Snippets'],
+div[data-path='Snippets'] + div.nav-folder-children
+{
+  display: none;
+}

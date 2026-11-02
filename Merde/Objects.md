@@ -147,8 +147,8 @@ alert(clone.sizes.width); // 50, not related
 
 
 
-[^1]: Sources:
-	[https://javascript.info/object](https://javascript.info/object)
-	[https://javascript.info/object-copy](https://javascript.info/object-copy)
+---
 
-
+<small>Sources:</small>
+<small>• https://javascript.info/object</small>
+<small>• https://javascript.info/object-copy</small>

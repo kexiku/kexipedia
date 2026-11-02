@@ -28,8 +28,9 @@ It allows to modify shell options, configure environmental attributes, and handl
 
 
 
+---
 
-[^1]: Source:
-		https://www.geeksforgeeks.org/linux-unix/shell-scripting-set-command/
-		https://linuxize.com/post/bash-strict-mode/
-		https://linuxcommandlibrary.com/man/set
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/linux-unix/shell-scripting-set-command</small>
+<small>• https://linuxize.com/post/bash-strict-mode</small>
+<small>• https://linuxcommandlibrary.com/man/set</small>

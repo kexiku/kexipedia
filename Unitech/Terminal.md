@@ -10,5 +10,7 @@ Examples of common [[Linux]] terminal emulators include [Gnome terminal](https:/
 
 
 
-[^1]: Sources:
-		https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/
+---
+
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line</small>

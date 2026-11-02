@@ -56,10 +56,12 @@ To schedule a new _microtask_
 
 
 
+---
 
-[^1]: Sources:
-	[https://www.educative.io/answers/what-is-the-event-driven-non-blocking-i-o-model-in-node-js](https://www.educative.io/answers/what-is-the-event-driven-non-blocking-i-o-model-in-node-js)
-	[https://javascript.info/microtask-queue](https://javascript.info/microtask-queue)
-	[https://javascript.info/event-loop](https://javascript.info/event-loop)
-	[https://www.builder.io/blog/visual-guide-to-nodejs-event-loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
-	[https://litslink.com/blog/node-js-architecture-from-a-to-z](https://litslink.com/blog/node-js-architecture-from-a-to-z)
+<small>Sources:</small>
+<small>• https://www.educative.io/answers/what-is-the-event-driven-non-blocking-i-o-model-in-node-js</small>
+<small>• https://javascript.info/microtask-queue</small>
+<small>• https://javascript.info/event-loop</small>
+<small>• https://www.builder.io/blog/visual-guide-to-nodejs-event-loop</small>
+<small>• https://litslink.com/blog/node-js-architecture-from-a-to-z</small>
+

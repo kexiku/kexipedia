@@ -35,6 +35,8 @@ systemctl --user start mpd.service
 
 
 
-[^1]: Sources:
-	https://wiki.archlinux.org/title/Music_Player_Daemon
-	https://mpd.readthedocs.io/en/stable/user.html#
+---
+
+<small>Sources:</small>
+<small>• https://wiki.archlinux.org/title/Music_Player_Daemon</small>
+<small>• https://mpd.readthedocs.io/en/stable/user.html#</small>

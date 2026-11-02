@@ -71,5 +71,7 @@ Then, reinstall the missing packages directly from the command line.
 
 
 
-[^1]: Sources:
-	https://fastfox.pro/blog/tutorials/apt-autoremove-safe-cleanup/
+---
+
+<small>Sources:</small>
+<small>• https://fastfox.pro/blog/tutorials/apt-autoremove-safe-cleanup/</small>

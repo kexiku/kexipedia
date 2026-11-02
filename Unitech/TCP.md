@@ -13,5 +13,7 @@ However, other transport protocols can be used with IP.
 
 
 
-[^1]: Sources:
-	https://www.cloudflare.com/learning/network-layer/internet-protocol/
+---
+
+<small>Sources:</small>
+<small>• https://www.cloudflare.com/learning/network-layer/internet-protocol</small>

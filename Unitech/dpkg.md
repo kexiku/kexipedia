@@ -6,5 +6,7 @@ It serves as the core engine for higher-level, user-friendly tools like [[apt]] 
 
 
 
-[^1]: Sources:
-		https://man7.org/linux/man-pages/man1/dpkg.1.html
+---
+
+<small>Sources:</small>
+<small>• https://man7.org/linux/man-pages/man1/dpkg.1.html</small>

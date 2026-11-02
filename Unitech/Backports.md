@@ -42,7 +42,8 @@ apt install -t trixie-backports <package>
 
 
 
-[^1]: Sources:
-	https://wiki.debian.org/Backports
-	https://backports.debian.org/
-	https://backports.debian.org/Instructions/
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/Backports</small>
+<small>• https://backports.debian.org</small>

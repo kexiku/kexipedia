@@ -22,5 +22,7 @@ There are 3 types of I/O connections:
 
 
 
-[^1]: Sources:
-	https://zedas.fr/posts/linux-explained-6-standard-streams/
+---
+
+<small>Sources:</small>
+<small>• https://zedas.fr/posts/linux-explained-6-standard-streams</small>

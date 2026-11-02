@@ -59,6 +59,8 @@ new Promise((resolve) => {
 
 
 
-[^1]: Sources:
-	[https://javascript.info/promise-basics](https://javascript.info/promise-basics)
-	[https://javascript.info/promise-chaining](https://javascript.info/promise-chaining)
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/promise-basics</small>
+<small>• https://javascript.info/promise-chaining</small>

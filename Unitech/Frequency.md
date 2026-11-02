@@ -11,6 +11,7 @@ Waves below 20 Hz are called *infrasound*, and waves above 20 kHz are called *ul
 
 
 
-[^1]: Sources:
-	https://www.reddit.com/r/linux/comments/coi4dt/a_complete_guide_of_and_debunking_of_audio_on/
-		
+---
+
+<small>Sources:</small>
+<small>• https://www.reddit.com/r/linux/comments/coi4dt/a_complete_guide_of_and_debunking_of_audio_on</small>

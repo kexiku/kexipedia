@@ -24,6 +24,8 @@ See https://flathub.org/en/setup
 
 
 
-[^1]: Sources:
-	https://docs.flatpak.org/en/latest/basic-concepts.html
-	https://fedoraproject.org/wiki/Flatpak
+---
+
+<small>Sources:</small>
+<small>• https://docs.flatpak.org/en/latest/basic-concepts.html</small>
+<small>• https://fedoraproject.org/wiki/Flatpak</small>

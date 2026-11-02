@@ -28,5 +28,7 @@ Before becoming available in [[Debian releases|Stable]] repository, every Debian
 
 
 
-[^1]: Sources:
-		https://wiki.debian.org/DebianReleases
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/DebianReleases</small>

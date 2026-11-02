@@ -25,7 +25,9 @@ With dApps, you can do a lot of actions with your assets such as [[trading]], ge
 
 
 
-[^1]: Sources:
-		https://ethereum.org/defi/
-		https://www.coinbase.com/learn/crypto-basics/what-is-defi
-		https://www.fidelity.com/learning-center/trading-investing/crypto/decentralized-finance-defined
+---
+
+<small>Sources:</small>
+<small>• https://ethereum.org/defi/</small>
+<small>• https://www.coinbase.com/learn/crypto-basics/what-is-defi</small>
+<small>• https://www.fidelity.com/learning-center/trading-investing/crypto/decentralized-finance-defined</small>

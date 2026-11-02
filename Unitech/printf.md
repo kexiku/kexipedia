@@ -49,5 +49,7 @@ printf -v message "Hello, %s!" "Alice"
 
 
 
-[^1]: Sources:
-		https://linuxize.com/post/bash-printf-command/
+---
+
+<small>Sources:</small>
+<small>• https://linuxize.com/post/bash-printf-command</small>

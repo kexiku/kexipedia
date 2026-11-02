@@ -35,7 +35,8 @@ wpctl reset -a
 
 
 
-[^1]: Sources:
-		https://en.wikipedia.org/wiki/PipeWire
-		https://wiki.archlinux.org/title/PipeWire
-	
+---
+
+<small>Sources:</small>
+<small>• https://en.wikipedia.org/wiki/PipeWire</small>
+<small>• https://wiki.archlinux.org/title/PipeWire</small>

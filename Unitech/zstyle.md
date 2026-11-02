@@ -23,5 +23,7 @@ zstyle ':omz:plugins:git' aliases yes # ...except git
 
 
 
-[^1]: Sources:
-		https://thevaluable.dev/zsh-completion-guide-examples/
+---
+
+<small>Sources:</small>
+<small>• https://thevaluable.dev/zsh-completion-guide-examples</small>

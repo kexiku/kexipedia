@@ -21,5 +21,9 @@ df -i
 
 
 
-[^1]: Sources:
-		https://wiki.archlinux.org/title/Ext4
+
+
+---
+
+<small>Sources:</small>
+<small>• https://wiki.archlinux.org/title/Ext4</small>

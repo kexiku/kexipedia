@@ -28,8 +28,9 @@
 
 
 
-[^1]: Sources:
-	https://thevaluable.dev/zsh-install-configure-mouseless/
-	https://unix.stackexchange.com/questions/71253/what-should-shouldnt-go-in-zshenv-zshrc-zlogin-zprofile-zlogout
-	https://batsov.com/articles/2025/03/01/back-to-the-basics-zsh-without-oh-my-zsh/
-	
+---
+
+<small>Sources:</small>
+<small>• https://thevaluable.dev/zsh-install-configure-mouseless</small>
+<small>• https://unix.stackexchange.com/questions/71253/what-should-shouldnt-go-in-zshenv-zshrc-zlogin-zprofile-zlogout</small>
+<small>• https://batsov.com/articles/2025/03/01/back-to-the-basics-zsh-without-oh-my-zsh</small>

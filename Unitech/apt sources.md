@@ -61,5 +61,7 @@ For a working configuration with all suites and components enabled, see:
 
 
 
-[^1]: Sources:
-		https://wiki.debian.org/SourcesList
+---
+
+<small>Sources:</small>
+<small>• https://wiki.debian.org/SourcesList</small>

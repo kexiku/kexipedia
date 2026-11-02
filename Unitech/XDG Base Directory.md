@@ -40,5 +40,7 @@ Many UNIX tools and applications utilize these variables by default.
 
 
 
-[^1]: Sources:
-		https://en.wikipedia.org/wiki/Freedesktop.org
+---
+
+<small>Sources:</small>
+<small>• https://en.wikipedia.org/wiki/Freedesktop.org</small>

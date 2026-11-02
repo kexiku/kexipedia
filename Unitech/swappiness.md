@@ -25,5 +25,7 @@ sudo sysctl -p
 
 
 
-[^1]: Sources:
-	https://phoenixnap.com/kb/swappiness
+---
+
+<small>Sources:</small>
+<small>• https://phoenixnap.com/kb/swappiness</small>

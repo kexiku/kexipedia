@@ -28,5 +28,7 @@ read [options] [names...]
 
 
 
-[^1]: Sources:
-		https://linuxize.com/post/bash-read/
+---
+
+<small>Sources:</small>
+<small>• https://linuxize.com/post/bash-read</small>

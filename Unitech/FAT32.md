@@ -35,5 +35,7 @@ sudo mlabel -i /dev/<partition> ::MYLABEL
 
 
 
-[^1]: Sources:
-		https://www.coursera.org/articles/fat32
+---
+
+<small>Sources:</small>
+<small>• https://www.coursera.org/articles/fat32</small>

@@ -79,6 +79,8 @@ gpgconf --kill dirmngr
 
 
 
-[^1]: Sources:
-	https://www.gnupg.org/gph/en/manual/x334.html
-	https://wiki.archlinux.org/title/GnuPG
+---
+
+<small>Sources:</small>
+<small>• https://www.gnupg.org/gph/en/manual/x334.html</small>
+<small>• https://wiki.archlinux.org/title/GnuPG</small>

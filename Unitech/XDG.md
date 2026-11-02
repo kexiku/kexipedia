@@ -14,6 +14,8 @@ The most widely used XDG standard is the [[XDG Base Directory]] specification, w
 
 
 
-[^1]: Sources:
-		https://en.wikipedia.org/wiki/Freedesktop.org
-		https://www.freedesktop.org/wiki/
+---
+
+<small>Sources:</small>
+<small>• https://en.wikipedia.org/wiki/Freedesktop.org</small>
+<small>• https://www.freedesktop.org/wiki</small>

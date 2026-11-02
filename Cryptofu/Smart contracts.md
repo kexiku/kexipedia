@@ -22,6 +22,8 @@ Since all smart contracts are written in blockchain, their terms are visible to 
 
 
 
-[^1]: Sources:
-		https://ethereum.org/smart-contracts/
-		https://www.geeksforgeeks.org/solidity/smart-contracts-in-blockchain/
+---
+
+<small>Sources:</small>
+<small>• https://ethereum.org/smart-contracts/</small>
+<small>• https://www.geeksforgeeks.org/solidity/smart-contracts-in-blockchain/</small>

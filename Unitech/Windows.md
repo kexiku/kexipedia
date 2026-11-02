@@ -9,7 +9,6 @@ obsidianUIMode: preview
 	- [[diskpart]]
 	- [[chkdsk]]
 	- [[Windows Recovery Environment]]
-	- [[Thunderbolt Firmware]]
 
 ## 💽 Disable automatic driver updates
 
