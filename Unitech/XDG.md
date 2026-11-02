@@ -1,4 +1,4 @@
-[Freedesktop.org](https://www.freedesktop.org/), formerly known as *X Desktop Group* (*XDG*), is an open-source project that creates and mantains software for desktop environments on [[Linux]] and UNIX-like operating systems.
+[Freedesktop.org](https://www.freedesktop.org/), formerly known as *X Desktop Group* (*XDG*), is an open-source project that creates and mantains software for desktop environments on [[Linux]] and [[UNIX]]-like operating systems.
 
 It provides hosting for a number of relevant open-source projects like [[Wayland]], [[X11|X.Org]], [[D-Bus]], [[NetworkManager]] and [many others](https://www.freedesktop.org/wiki/Software/).
 

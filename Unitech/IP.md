@@ -5,7 +5,7 @@ It allows devices to communicate with each other by assigning [[IP address]] to 
 The data transmitted over IP is divided into smaller pieces, called *packets*.
 Each packet has several pieces of information attached to it like sender & receiver IP address, packet length, time to live (TTL) and others, which helps [[routers]] send packets to the right place.
 
-Once the packets arrive at their destination, they are handled differently depending on which transport [[protocols|protocol]] is used in combination with IP.
+Once the packets arrive at their destination, they are handled differently depending on which transport protocol is used in combination with IP.
 
 
 

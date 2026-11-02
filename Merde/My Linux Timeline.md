@@ -3,11 +3,6 @@ banner: my-linux-timeline.webp
 banner_icon: 🐧
 banner_y: 9.2%
 ---
-## 2023-08-10
-
-> [!note]- ...
-> ![[Screenshot From 2026-10-04 03-28-54.webp]]
-
 ## 2024-06-08
 
 > [!hint]- First Linux installation (Mint)
@@ -44,18 +39,12 @@ banner_y: 9.2%
 
 ## 2024-12-01
 
-> [!question]- Applejack?
+> [!question]- Adopted a waifu
 > ![[Screenshot_20241201_184011.webp]]
-> Yep! :3
-
-## 2025-05-11
-
-> [!info]- Started using symlinks for dotfiles
-> ![[Screenshot From 2026-10-15 17-49-51.webp]]
 
 ## 2025-08-07
 
-> [!hint]- Finally 🙌
+> [!hint]- Btw
 ![[Screenshot From 2026-10-15 16-13-23.webp]]
 
 > [!quote]- Two hours later...

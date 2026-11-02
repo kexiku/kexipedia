@@ -5,16 +5,13 @@ obsidianUIMode: preview
 banner: merde.webp
 banner_icon: 🧻
 ---
-- 🗨️ La Discussion
+- 💬 La Discussion
 	- [[Post-Dairy Society]]
 	- [[Yarr]]
 
-- 🟣 Strada
-	- [[Άλφα]]
-	- [[Βήτα]]
-	- [[Γάμμα]]
-	- [[Δέλτα]]
-	- [[Ωμέγα]]
-
-- 🚽 Et Tout
+- 👁️‍🗨️ Informatique
+	- [[JavaScript]]
+	- [[CSS]]
+	- [[Markdown]]
+	- [[yt-dlp]]
 	- [[My Linux Timeline]]

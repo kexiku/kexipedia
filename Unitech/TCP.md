@@ -1,4 +1,4 @@
-The *Transmission Control Protocol* (TCP) is a transport [[protocols|protocol]] which controls the way data is sent and received on the Internet.
+The *Transmission Control Protocol* (TCP) is a transport protocol which controls the way data is sent and received on the Internet.
 
 Before transmitting data, TCP opens a connection with the recipient, ensuring that all packets arrive in order once transmission begins.
 The recipient will acknowledge receiving each packet that arrives, and if no acknowledgement is received, missing packets will be sent again.

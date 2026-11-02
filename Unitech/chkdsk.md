@@ -1,4 +1,4 @@
-`chkdsk` (*Check Disk*) is a built-in [[Wimblows]] utility that scans hard drive for file system errors and bad sectors.
+`chkdsk` (*Check Disk*) is a built-in [[Windows]] utility that scans hard drive for file system errors and bad sectors.
 
 ## 🔧 Drive repair steps
 
@@ -13,7 +13,7 @@ chkdsk <drive_letter> /r # locate bad sectors and recover readable data
 > [!important]
 > `chkdsk` cannot repair disks when they're mounted.
 > 
-> If the command above is refuses to execute, try to run it from the [[Wimblows Recovery Environment]]
+> If the command above is refuses to execute, try to run it from the [[Windows Recovery Environment]]
 
 
 

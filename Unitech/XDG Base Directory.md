@@ -2,7 +2,7 @@
 
 Many UNIX tools and applications utilize these variables by default.
 
-## 👤 User directories
+## 📂 User directories
 
 - `XDG_CONFIG_HOME`
     - User-specific configuration files (similar to `/etc`)
@@ -26,7 +26,7 @@ Many UNIX tools and applications utilize these variables by default.
     - Not required to have a default value
     - [[systemd]] sets this to `/run/user/$UID`
 
-## 💽 System directories
+## 📁 System directories
 
 - `XDG_CONFIG_DIRS`
     - List of directories separated by `:` (analogous to `PATH`)
