@@ -38,5 +38,7 @@ user.sayHi(); // Oleg
 
 
 
-[^1]: Sources:
-	[https://javascript.info/object-methods](https://javascript.info/object-methods)
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/object-methods</small>

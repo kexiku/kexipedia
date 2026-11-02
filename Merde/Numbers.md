@@ -156,8 +156,8 @@ console.log(bar); // 1
 
 
 
-[^1]: Sources:
-	[https://javascript.info/operators](https://javascript.info/operators#string-concatenation-with-binary)
-	[https://javascript.info/number](https://javascript.info/number)
+---
 
-
+<small>Sources:</small>
+<small>• https://javascript.info/operators#string-concatenation-with-binary</small>
+<small>• https://javascript.info/number</small>

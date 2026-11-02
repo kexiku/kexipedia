@@ -19,5 +19,7 @@
 
 
 
-[^1]: Sources:
-		https://bash.cyberciti.biz/guide/$1
+---
+
+<small>Sources:</small>
+<small>• https://bash.cyberciti.biz/guide/$1</small>

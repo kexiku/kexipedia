@@ -35,6 +35,8 @@ Decentralized applications serve various purposes like finance, gaming, and soci
 
 
 
-[^1]: Sources:
-		https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp
-		https://blog.uniswap.org/what-are-decentralized-applications
+---
+
+<small>Sources:</small>
+<small>• https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp</small>
+<small>• https://blog.uniswap.org/what-are-decentralized-applications</small>

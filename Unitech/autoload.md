@@ -25,5 +25,7 @@ The concept of `autoload` command is also known as *"lazy loading"*.
 
 
 
-[^1]: Sources:
-		https://thevaluable.dev/zsh-completion-guide-examples/
+---
+
+<small>Sources:</small>
+<small>• https://thevaluable.dev/zsh-completion-guide-examples/</small>

@@ -93,7 +93,11 @@ When a client wants to communicate with a server, it performs the following step
 ![[http-response.webp]]
 
 
-> **Sources:**
-> - https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/
-> - https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
+
+
+---
+
+<small>Sources:</small>
+<small>• https://www.cloudflare.com/learning/network-layer/what-is-a-protocol</small>
+<small>• https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview</small>

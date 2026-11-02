@@ -34,5 +34,7 @@ You can configure many aspects of the completion system using the [[zstyle]] mod
 
 
 
-[^1]: Sources:
-		https://thevaluable.dev/zsh-completion-guide-examples/
+---
+
+<small>Sources:</small>
+<small>• https://thevaluable.dev/zsh-completion-guide-examples</small>

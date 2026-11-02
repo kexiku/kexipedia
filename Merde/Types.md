@@ -30,6 +30,8 @@ console.log(1 + 2 + '3'); // 33
 
 
 
-[^1]: Sources:
-	[https://javascript.info/type-conversions](https://javascript.info/type-conversions)
-	[https://javascript.info/operators](https://javascript.info/operators)
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/type-conversions</small>
+<small>• https://javascript.info/operators</small>

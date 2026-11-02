@@ -31,5 +31,8 @@ While being a direct part of a DeFi system, DEXs often offer a wide range of exp
 
 
 
-[^1]: Sources:
-		https://blog.uniswap.org/what-is-a-decentralized-exchange
+---
+
+<small>Sources:</small>
+<small>• https://blog.uniswap.org/what-is-a-decentralized-exchange</small>
+

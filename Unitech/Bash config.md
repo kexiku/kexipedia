@@ -25,6 +25,8 @@
 
 
 
-[^1]: Sources:
-	https://www.uwyo.edu/data-science/resources/knowledge-base/what-is-a-bash-profile.html
-	https://www.baeldung.com/linux/bashrc-vs-bash-profile-vs-profile
+---
+
+<small>Sources:</small>
+<small>• https://www.uwyo.edu/data-science/resources/knowledge-base/what-is-a-bash-profile.html</small>
+<small>• https://www.baeldung.com/linux/bashrc-vs-bash-profile-vs-profile</small>

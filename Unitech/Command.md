@@ -19,6 +19,8 @@ command -v <command> &>/dev/null # silence the output
 
 
 
-[^1]: Sources:
-	https://stackoverflow.com/questions/37056192/which-vs-command-v-in-bash
-	https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+---
+
+<small>Sources:</small>
+<small>• https://stackoverflow.com/questions/37056192/which-vs-command-v-in-bash</small>
+<small>• https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html</small>

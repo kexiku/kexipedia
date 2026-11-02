@@ -8,5 +8,7 @@ Lossy encoding removes significant amount of data from the [[PCM]] stream to sav
 
 
 
-[^1]: Sources:
-	https://www.reddit.com/r/linux/comments/coi4dt/a_complete_guide_of_and_debunking_of_audio_on/
+---
+
+<small>Sources:</small>
+<small>• https://www.reddit.com/r/linux/comments/coi4dt/a_complete_guide_of_and_debunking_of_audio_on/</small>

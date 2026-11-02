@@ -10,5 +10,7 @@ By default, ALSA only allows a single application at a time to access a sound ca
 
 
 
-[^1]: Sources:
-		https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture
+---
+
+<small>Sources:</small>
+<small>• https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture</small>

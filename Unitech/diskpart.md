@@ -54,5 +54,7 @@ clean
 
 
 
-[^1]: Sources:
-	https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart
+---
+
+<small>Sources:</small>
+<small>• https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart</small>

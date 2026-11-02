@@ -24,5 +24,7 @@ Each bit represents approximately 6 dB of dynamic range, so 16-bits provide 96 d
 
 
 
-[^1]: Sources:
-		https://www.sonarworks.com/blog/learn/understanding-bit-depth
+---
+
+<small>Sources:</small>
+<small>• https://www.sonarworks.com/blog/learn/understanding-bit-depth</small>

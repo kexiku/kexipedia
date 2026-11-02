@@ -7,5 +7,7 @@
 
 
 
-[^1]: Sources:
-		https://www.w3schools.com/bash/bash_operators.php
+---
+
+<small>Sources:</small>
+<small>• https://www.w3schools.com/bash/bash_operators.php</small>

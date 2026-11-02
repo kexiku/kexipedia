@@ -55,7 +55,9 @@ The name "Sid" also comes from the "Toy Story" animated motion picture: Sid was 
 
 
 
-[^1]: Sources:
-		https://www.debian.org/doc/manuals/debian-faq/choosing.en.html
-		https://www.debian.org/doc/manuals/debian-faq/ftparchives.en.html#dists
-		https://wiki.debian.org/Debian_Systems_Administration_for_non-Debian_SysAdmins
+---
+
+<small>Sources:</small>
+<small>• https://www.debian.org/doc/manuals/debian-faq/choosing.en.html</small>
+<small>• https://www.debian.org/doc/manuals/debian-faq/ftparchives.en.html#dists</small>
+<small>• https://wiki.debian.org/Debian_Systems_Administration_for_non-Debian_SysAdmins</small>

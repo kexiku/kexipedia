@@ -6,5 +6,8 @@ It's designed specifically for professional music production, live performance, 
 
 
 
-[^1]: Sources:
-		https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit
+---
+
+<small>Sources:</small>
+<small>• https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit</small>
+

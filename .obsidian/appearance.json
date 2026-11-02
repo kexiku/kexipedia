@@ -5,7 +5,8 @@
     "tiny-tweaks",
     "hide-window-controls",
     "hide-attachments",
-    "hide-folders"
+    "hide-folders",
+    "hide-snippets"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false,

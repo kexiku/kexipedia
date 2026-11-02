@@ -18,11 +18,3 @@ Keys can either be *public* or *private* depending on their visibility.
 If you lose your private keys, you lose access to your money.
 
 > [!danger] Remember: not your keys, not your coins.
-
-
-
-
-
-
-[^1]: Sources:
-		

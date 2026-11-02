@@ -21,5 +21,7 @@ sudo mkfs.exfat /dev/<partition>
 
 
 
-[^1]: Sources:
-		https://www.msab.com/glossary/exfat-extended-file-allocation-table/
+---
+
+<small>Sources:</small>
+<small>• https://www.msab.com/glossary/exfat-extended-file-allocation-table</small>

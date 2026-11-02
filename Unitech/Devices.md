@@ -39,6 +39,8 @@ There are 3 types of device files:
 
 
 
-[^1]: Sources:
-	https://opensource.com/article/16/11/managing-devices-linux
-	https://wiki.archlinux.org/title/Device_file
+---
+
+<small>Sources:</small>
+<small>• https://opensource.com/article/16/11/managing-devices-linux</small>
+<small>• https://wiki.archlinux.org/title/Device_file</small>

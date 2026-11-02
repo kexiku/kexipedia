@@ -34,7 +34,9 @@ Self-custodial solutions in turn are divided into *hardware* and *software* wall
 
 
 
-[^1]: Sources:
-		https://www.kraken.com/learn/custodial-non-custodial-crypto-wallet
-		https://www.ledger.com/what-is-a-crypto-wallet
-		https://www.ledger.com/academy/topics/crypto/types-of-crypto-wallets
+---
+
+<small>Sources:</small>
+<small>• https://www.kraken.com/learn/custodial-non-custodial-crypto-wallet</small>
+<small>• https://www.ledger.com/what-is-a-crypto-wallet</small>
+<small>• https://www.ledger.com/academy/topics/crypto/types-of-crypto-wallets</small>

@@ -128,7 +128,7 @@ Let’s recap these methods to avoid any confusion:
 
 
 
-[^1]: Sources:
-	<https://javascript.info/string>
+---
 
-
+<small>Sources:</small>
+<small>• https://javascript.info/string</small>

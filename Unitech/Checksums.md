@@ -43,6 +43,8 @@ sha256sum --check --ignore-missing <sum_file> # same for sha512sum, md5sum etc.
 
 
 
-[^1]: Sources:
-		https://en.wikipedia.org/wiki/Checksum
-		https://linuxsecurity.com/features/what-are-checksums-why-should-you-be-using-them
+---
+
+<small>Sources:</small>
+<small>• https://en.wikipedia.org/wiki/Checksum</small>
+<small>• https://linuxsecurity.com/features/what-are-checksums-why-should-you-be-using-them</small>

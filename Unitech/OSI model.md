@@ -64,5 +64,10 @@ Includes the physical equipment involved in the data transfer, such as the cable
 ![[osi_model_physical_layer_1.png]]
 
 
-> **Source:**
-> https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
+
+
+
+---
+
+<small>Sources:</small>
+<small>• https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi</small>

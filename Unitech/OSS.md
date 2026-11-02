@@ -13,6 +13,8 @@ It was superseded by the [[ALSA]], which has a lot of of advantages over OSS:
 
 
 
-[^1]: Sources:
-		https://en.wikipedia.org/wiki/Open_Sound_System
-		https://wiki.archlinux.org/title/Open_Sound_System
+---
+
+<small>Sources:</small>
+<small>• https://en.wikipedia.org/wiki/Open_Sound_System</small>
+<small>• https://wiki.archlinux.org/title/Open_Sound_System</small>

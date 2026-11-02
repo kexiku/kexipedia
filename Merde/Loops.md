@@ -33,5 +33,8 @@ The `continue` directive can also be used with a label.
 
 
 
-[^1]: Sources:
-	[https://javascript.info/while-for](https://javascript.info/while-for)
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/while-for</small>
+

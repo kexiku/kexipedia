@@ -35,5 +35,7 @@ trap 'commands' SIGNAL_1 SIGNAL_2 ...
 
 
 
-[^1]: Sources:
-		https://www.geeksforgeeks.org/linux-unix/shell-scripting-bash-trap-command/
+---
+
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/linux-unix/shell-scripting-bash-trap-command</small>

@@ -1,0 +1,1 @@
+<small>• %%cursor%%</small>

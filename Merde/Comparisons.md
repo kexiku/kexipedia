@@ -12,5 +12,7 @@ console.log(null == undefined); // true
 
 
 
-[^1]: Sources:
-	[https://javascript.info/comparison](https://javascript.info/comparison)
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/comparison</small>

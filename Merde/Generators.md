@@ -31,6 +31,8 @@ The result of `next()` is always an object with two properties:
 
 
 
-[^1]: Sources:
-	<https://javascript.info/generators>
-	<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator>
+---
+
+<small>Sources:</small>
+<small>• https://javascript.info/generators</small>
+<small>• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator</small>

@@ -36,5 +36,7 @@ uid   Debian CD signing key debian-cd@lists.debian.org
 
 
 
-[^1]: Sources:
-		https://www.debian.org/CD/verify
+---
+
+<small>Sources:</small>
+<small>• https://www.debian.org/CD/verify</small>

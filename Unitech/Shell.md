@@ -11,5 +11,7 @@ The shell gives users access to many powerful programs. They are called *CLIs*, 
 
 
 
-[^1]: Sources:
-		https://www.digitalocean.com/community/tutorials/different-types-of-shells-in-linux
+---
+
+<small>Sources:</small>
+<small>• https://www.digitalocean.com/community/tutorials/different-types-of-shells-in-linux</small>

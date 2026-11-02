@@ -25,5 +25,7 @@ You will be prompted to select a trust level then.
 
 
 
-[^1]: Sources:
-		https://gpgtools.tenderapp.com/kb/faq/what-is-ownertrust-trust-levels-explained
+---
+
+<small>Sources:</small>
+<small>• https://gpgtools.tenderapp.com/kb/faq/what-is-ownertrust-trust-levels-explained</small>

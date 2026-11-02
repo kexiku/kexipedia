@@ -34,5 +34,8 @@ sudo swapon /dev/<swap_path>
 
 
 
-[^1]: Sources:
-	https://phoenixnap.com/kb/swap-memory
+
+---
+
+<small>Sources:</small>
+<small>• https://phoenixnap.com/kb/swap-memory</small>

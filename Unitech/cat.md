@@ -28,5 +28,8 @@ EOF
 
 
 
-[^1]: Source:
-		https://www.geeksforgeeks.org/linux-unix/cat-command-in-linux-with-examples/
+
+---
+
+<small>Sources:</small>
+<small>• https://www.geeksforgeeks.org/linux-unix/cat-command-in-linux-with-examples</small>

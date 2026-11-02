@@ -20,8 +20,8 @@ The key principle underlying the DeFi lending concept is that the borrower must 
 
 
 
+---
 
+<small>Sources:</small>
+<small>• https://www.cube.exchange/what-is/defi-lending</small>
 
-
-[^1]: Sources:
-		https://www.cube.exchange/what-is/defi-lending

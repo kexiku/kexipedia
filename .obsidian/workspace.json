@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "348def7f868c55dd",
+        "id": "a66fc1143a335001",
         "type": "tabs",
         "children": [
           {
-            "id": "32efb1c7e8681a12",
+            "id": "34a70159c5a10b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,8 +100,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unitech/Unitech.md",
-                "collapseAll": false,
+                "file": "Kexipedia.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -177,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Snippets/Sources.md"
+                "file": "Kexipedia.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -202,35 +202,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32efb1c7e8681a12",
+  "active": "34a70159c5a10b50",
   "lastOpenFiles": [
-    "Senrius/Senrius.md",
-    "Unitech/Unitech.md",
-    "Kexipedia.md",
-    "Unitech/Unix philosophy.md",
-    "Snippets/Sources.md",
-    "Snippets",
-    "Unitech/Audio.md",
-    "Unitech/Checksums.md",
-    "Unitech/OSI model.md",
-    "Unitech/Network.md",
-    "Unitech/DHCP.md",
-    "Unitech/Shell types.md",
-    "Unitech/Shell.md",
-    "Unitech/Terminal.md",
-    "Unitech/git.md",
-    "Unitech/Gnome.md",
-    "Merde/Merde.md",
-    "Merde/yt-dlp.md",
-    "Unitech/yt-dlp.md",
-    "Unitech/df.md",
-    "Unitech/cat.md",
-    "Unitech/mktemp.md",
-    "Unitech/UID.md",
-    "Unitech/Hostname.md",
-    "Unitech/User interfaces.md",
+    "Unitech/zstyle.md",
+    "Unitech/Zsh config.md",
+    "Unitech/Zsh completions.md",
+    "Unitech/Zsh.md",
+    "Unitech/zparseopts.md",
+    "Unitech/XDG Base Directory.md",
+    "Unitech/XDG.md",
+    "Unitech/Windows Recovery Environment.md",
     "Unitech/Windows.md",
-    "Unitech/FAT32.md",
+    "Unitech/VS Code.md",
+    "Unitech/Von Neumann architecture.md",
+    "Unitech/VFS.md",
+    "Unitech/VBR.md",
+    "Unitech/Users.md",
+    "Unitech/User interfaces.md",
+    "Unitech/Unix philosophy.md",
+    "Unitech/Unix.md",
+    "Unitech/Unitech.md",
+    "Unitech/Understanding Debian.md",
+    "Unitech/UID.md",
+    "Unitech/ufw.md",
+    "Unitech/UDP.md",
+    "Unitech/trap.md",
+    "Unitech/top.md",
+    "Unitech/Terminal.md",
+    "Unitech/Thunderbolt Firmware.md",
+    "Snippets",
     "Adnexa/Banners/network.webp",
     "Adnexa/Banners/audio.webp",
     "Adnexa/Banners/kexipedia.webp",

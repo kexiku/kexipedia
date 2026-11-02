@@ -8,5 +8,7 @@ For example, a stereo 16-bit audio with a 44.1 kHz sample rate would have a bitr
 
 
 
-[^1]: Sources:
-		https://www.waveroom.com/blog/bit-rate-vs-sample-rate-vs-bit-depth/
+---
+
+<small>Sources:</small>
+<small>• https://www.waveroom.com/blog/bit-rate-vs-sample-rate-vs-bit-depth</small>

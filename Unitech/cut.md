@@ -18,5 +18,7 @@ The `cut` command in [[Linux]] is used to cut a specific part of a file and prin
 
 
 
-[^1]: Source:
-		https://itsfoss.com/cut-command/
+---
+
+<small>Sources:</small>
+<small>• https://itsfoss.com/cut-command</small>

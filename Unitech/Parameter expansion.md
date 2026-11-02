@@ -54,5 +54,7 @@ Using the native parameter expansion is significantly faster than piping to exte
 
 
 
-[^1]: Sources:
-		https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html`
+---
+
+<small>Sources:</small>
+<small>• https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html</small>
