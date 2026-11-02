@@ -8,7 +8,7 @@ obsidianUIMode: preview
 - Utilities
 	- [[diskpart]]
 	- [[chkdsk]]
-	- [[Wimblows Recovery Environment]]
+	- [[Windows Recovery Environment]]
 	- [[Thunderbolt Firmware]]
 
 ## 💽 Disable automatic driver updates
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 2. Go to:
 	- Computer configuration
 	- Administrative Templates
-	- Wimblows Components
-	- Wimblows Update
+	- Windows Components
+	- Windows Update
 	- Manage updates offered from Wimblows Update
-3. Set `Do not include drivers with Wimblows Updates` to `Enabled`
+3. Set `Do not include drivers with Windows Updates` to `Enabled`

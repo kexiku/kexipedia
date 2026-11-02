@@ -4,15 +4,15 @@ banner_y: 44.4%
 A *checksum* is a short, unique code generated from a block of data to verify its integrity.
 It acts as a digital fingerprint that represents the exact state of a [[files|file]].
 
-Comparing checksums helps detecting errors that may occur during the file transmission or [[Bit rot|storage]].
+Comparing checksums helps detecting errors that may occur during the file transmission or storage.
 
 The process that generates the checksum is called a *checksum algorithm*.
 A good checksum algorithm usually outputs a significantly different value, even for small changes made to the input.
 
-A checksum confirms integrity, but not authenticity. An attacker could replace a file and generate a matching checksum.
+A checksum confirms *integrity*, not authenticity. An attacker could replace a file and generate a matching checksum.
 That’s why distributions pair checksums with [[GnuPG|GPG signatures]]: the checksum proves the file hasn’t changed, the signature proves it came from the right source.
 
-## 🧬 Common algorithms
+## Common algorithms
 
 ### SHA-512
 

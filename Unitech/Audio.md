@@ -35,6 +35,7 @@ obsidianUIMode: preview
 	- [[Sound servers]]
 		- [[PulseAudio]]
 		- [[PipeWire]]
+	- [[mpd]]
 
 - 💿 Codecs
 	- [[MP3]]

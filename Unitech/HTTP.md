@@ -1,4 +1,4 @@
-*HTTP* is a client-server application layer [[protocols|protocol]].
+*HTTP* is a client-server application layer protocol.
 
 Each individual request is sent to a server, which handles it and provides an answer called the _response_.
 

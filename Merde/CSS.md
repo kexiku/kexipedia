@@ -1,4 +1,4 @@
-## 📑 Recommended properties ordering flow
+## 📑 Recommended properties flow
 
 1. Positioning & Context: `position`, `top`, `right`, `bottom`, `left`, `z-index`
 2. Display & Flex/Grid (box outer): `display`, `flex-direction`, `justify-content`, `align-items`, `gap`

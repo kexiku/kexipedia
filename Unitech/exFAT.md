@@ -1,6 +1,6 @@
 *exFAT* (*Extensible File Allocation Table*) is a lightweight [[file system]] introduced by Microsoft in 2006 to replace the older [[FAT32]] format.
 
-It works natively across modern operating systems, including [[Wimblows]], [[macOS]], [[Linux]] ([[kernel]] 5.4+), Android and iOS.
+It works natively across modern operating systems, including [[Windows]], [[macOS]], [[Linux]] ([[kernel]] 5.4+), Android and iOS.
 
 Unlike [[FAT32]], which caps individual files at 4GB, exFAT supports file sizes up to 16 exabytes and partition sizes up to 128 petabytes, making it ideal for storing large files like high-resolution videos or disk images.
 
