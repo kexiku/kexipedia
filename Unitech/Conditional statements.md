@@ -10,7 +10,7 @@ if [[ -e source.txt ]] then
 fi
 ```
 
-The construction `[[ CONDITION ]]` contains a [[File test operators|test conditional expression]] which returns an [[Exit status codes|exit status]] of zero (*success*) if `CONDITION` is true, and a non-zero exit status (*failure*) if `CONDITION` is false.
+The construction `[[ CONDITION ]]` contains a test [[conditional expressions|conditional expression]] which returns an [[exit status]] of zero (*success*) if `CONDITION` is true, and a non-zero exit status (*failure*) if `CONDITION` is false.
 
 In our case, `CONDITION` is `-e source.txt`, which is true if and only if there exists a file named `source.txt`.
 

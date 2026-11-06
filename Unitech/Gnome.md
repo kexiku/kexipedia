@@ -3,7 +3,7 @@ banner: "[[gnome.webp]]"
 banner_icon: 🐾
 banner_y: 68.4%
 ---
-## ⚙️ Set up
+## ⚙️ Setup
 
 ### ⌨️ Change layout switching shortcut
 

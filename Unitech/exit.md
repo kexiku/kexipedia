@@ -1,4 +1,4 @@
-The `exit` command in [[Bash]] terminates a shell session or a running script.
+The `exit` command in [[Bash]] terminates a [[shell]] session or a running script.
 
 ## 📜 Syntax
 
@@ -8,5 +8,5 @@ exit [N]
 
 ### `N`
 
-- Exit [[Exit status codes|status code]]
+- [[Exit status]] code
 - If omitted, exit with the status code of the last command executed

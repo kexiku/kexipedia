@@ -1,4 +1,4 @@
-In [[Zsh]], `autoload` is a built-in command that tells the shell to load an external function only when that function is first called, rather than loading it immediately at startup.
+In [[Zsh]], `autoload` is a built-in command that tells the [[shell]] to load an external function only when that function is first called, rather than loading it immediately at startup.
 
 This reduces the shell startup time because the shell doesn't parse any autoloaded functions at the initialization stage.
 

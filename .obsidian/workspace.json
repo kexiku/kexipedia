@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a66fc1143a335001",
+        "id": "09f8d9f0801000e3",
         "type": "tabs",
         "children": [
           {
-            "id": "34a70159c5a10b50",
+            "id": "487d3347c9595bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kexipedia.md",
-                "mode": "preview",
+                "file": "Unitech/Menu.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kexipedia"
+              "title": "Menu"
+            }
+          },
+          {
+            "id": "ed46aed5e0b4ce48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unitech/select.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "select"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +116,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kexipedia.md",
-                "collapseAll": true,
+                "file": "Unitech/unset.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unitech/Unitech.md",
+                "file": "Unitech/MPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unitech/Unitech.md",
+                "file": "Unitech/MPD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,14 +193,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kexipedia.md"
+                "file": "Unitech/Unitech.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,34 +217,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "34a70159c5a10b50",
+  "active": "ed46aed5e0b4ce48",
   "lastOpenFiles": [
-    "Unitech/zstyle.md",
-    "Unitech/Zsh config.md",
-    "Unitech/Zsh completions.md",
-    "Unitech/Zsh.md",
-    "Unitech/zparseopts.md",
-    "Unitech/XDG Base Directory.md",
-    "Unitech/XDG.md",
-    "Unitech/Windows Recovery Environment.md",
-    "Unitech/Windows.md",
-    "Unitech/VS Code.md",
-    "Unitech/Von Neumann architecture.md",
-    "Unitech/VFS.md",
-    "Unitech/VBR.md",
-    "Unitech/Users.md",
-    "Unitech/User interfaces.md",
-    "Unitech/Unix philosophy.md",
-    "Unitech/Unix.md",
-    "Unitech/Unitech.md",
-    "Unitech/Understanding Debian.md",
-    "Unitech/UID.md",
-    "Unitech/ufw.md",
-    "Unitech/UDP.md",
+    "Unitech/Menu.md",
+    "Unitech/select.md",
+    "Unitech/Git.md",
+    "Unitech/Adding & commiting.md",
+    "Unitech/case.md",
+    "Kexipedia.md",
+    "Unitech/Bash.md",
+    "Unitech/Error suppression.md",
+    "Unitech/Symlink resolver.md",
+    "Unitech/Source directory finder.md",
+    "Unitech/Bash config.md",
+    "Unitech/Cleanup function.md",
+    "Unitech/Exit status.md",
+    "Unitech/export.md",
+    "Unitech/unset.md",
+    "Unitech/set.md",
+    "Unitech/Conditional expressions.md",
+    "Unitech/exit.md",
     "Unitech/trap.md",
-    "Unitech/top.md",
-    "Unitech/Terminal.md",
-    "Unitech/Thunderbolt Firmware.md",
+    "Unitech/shift.md",
+    "Unitech/printf.md",
+    "Unitech/read.md",
+    "Unitech/Command.md",
+    "Unitech/Conditional statements.md",
+    "Unitech/Signals.md",
+    "Unitech/Redirection.md",
+    "Snippets/Tip",
+    "Snippets/Info",
+    "Snippets/Note",
+    "Snippets/Warning",
+    "Attachments/Banners/git.webp",
     "Snippets",
     "Adnexa/Banners/network.webp",
     "Adnexa/Banners/audio.webp",
@@ -241,15 +261,10 @@
     "Adnexa/ChatGPT Image Oct 14, 2026, 08_21_39 PM.jpg",
     "Adnexa/761356774688.webp",
     "Adnexa/Banners/Ωμέγα.webp",
-    "Adnexa/Banners/Δέλτα.webp",
     "Adnexa/Banners",
     "Neuralium",
     "templates",
     "la Voie Nerdee/media",
-    "Cryptofu/media",
-    "Cryptofu",
-    "media/Memoria",
-    "media/key-DA87E80D6294BE9B.txt",
     "Untitled.canvas"
   ]
 }

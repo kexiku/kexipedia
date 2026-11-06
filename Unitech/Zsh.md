@@ -19,7 +19,7 @@ banner_icon: 💤
 	- [[zstyle]]
 	- [[zparseopts]]
 
-## 🛠️ Set up
+## 🛠️ Setup
 
 1. Make zsh the default shell:
 

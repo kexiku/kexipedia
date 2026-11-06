@@ -1,4 +1,4 @@
-[[Bash]] *parameter expansion* is the mechanism the shell uses to substitute a variable or parameter with its actual value.
+[[Bash]] *parameter expansion* is the mechanism the [[shell]] uses to substitute a variable or parameter with its actual value.
 
 Beyond simple evaluation (like `$var` or `${var}`), the `${...}` syntax unlocks a powerful built-in toolkit for string manipulation, pattern matching and case modification.
 
@@ -6,50 +6,84 @@ Using the native parameter expansion is significantly faster than piping to exte
 
 ## 💲 Common operations
 
-### `${var:−default}`
+- Evaluate to `default` if `$var` is unset or empty:
 
-- Evaluate to `default` if `$var` is unset or empty
+```bash
+${var:−default}
+```
 
-### `${var:=default}`
+- Evaluate to `default` and *assign* it to `$var` if it's unset or empty:
 
-- Evaluate to `default` and *assign* it to `$var` if it's unset or empty
+```bash
+${var:=default}
+```
 
-### `${var:?error_msg}`
+- Exits script with `error_msg` if `$var` is unset or empty:
 
-- Exits script with `error_msg` if `$var` is unset or empty
+```bash
+${var:?error_msg}
+```
 
-### `${#var}`
+- Returns the number of characters in the string:
 
-- Returns the number of characters in the string
+```bash
+${#var}
+```
 
-### `${var#pattern}`
+- Deletes the *shortest* match of a `pattern` from the *left* side:
 
-- Deletes the *shortest* match of a `pattern` from the *left* side
+```bash
+${var#pattern}
+```
 
-### `${var##pattern}`
+- Deletes the *longest* match of a `pattern` from the *left* side:
 
-- Deletes the *longest* match of a `pattern` from the *left* side
+```bash
+${var##pattern}
+```
 
-### `${var%pattern}`
+- Deletes the *shortest* match of a `pattern` from the *right* side:
 
-- Deletes the *shortest* match of a `pattern` from the *right* side
+```bash
+${var%pattern}
+```
 
-### `${var%%pattern}`
+- Deletes the *longest* match of a `pattern` from the *right* side:
 
-- Deletes the *longest* match of a `pattern` from the *right* side
+```bash
+${var%%pattern}
+```
 
-### `${var/pattern/replacement}`
+- Replaces the first occurrence of `pattern` with `replacement`:
 
-- Replaces the first occurrence of `pattern` with `replacement`
+```bash
+${var/pattern/replacement}
+```
 
-### `${var//pattern/replacement}`
+- Replaces *every* occurrence of `pattern` with `replacement`:
 
-- Replaces *every* occurrence of `pattern` with `replacement`
+```bash
+${var//pattern/replacement}
+```
 
-### `${var^^}` / `${var,,}`
+- Converts the entire string to uppercase/lowercase:
 
-- Converts the entire string to uppercase / lowercase
+```bash
+${var^^} # Uppercase
+${var,,} # Lowercase
+```
 
+- Extract the directory portion from path (alternative to [[dirname]]):
+
+```bash
+${path%/*}
+```
+
+- Extract the file name from path (alternative to [[basename]]):
+
+```bash
+${path##*/}
+```
 
 
 

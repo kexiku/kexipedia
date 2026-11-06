@@ -1,4 +1,4 @@
-`zparseopts` is a built-in [[Zsh]] utility that extracts command flags and options directly into shell arrays
+`zparseopts` is a built-in [[Zsh]] utility that extracts command flags and options directly into shell [[arrays]]
 
 ## 📜 Syntax
 

@@ -1,4 +1,4 @@
-A background [[daemons|daemon]] that [[GnuPG]] uses for all network-related operations, like:
+`dirmngr` is a [[daemons|daemon]] that [[GnuPG]] uses for all network-related operations, like:
 
 - 🔑 Fetching keys
 - 🔏 Resolving and verifying certificates

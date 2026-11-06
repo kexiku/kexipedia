@@ -1,4 +1,4 @@
-The `printf` command in [[Bash]] is a powerful shell builtin used to format and print text.
+The `printf` command in [[Bash]] is a powerful [[shell]] builtin used to format and print text.
 
 It serves as a more reliable and feature-rich replacement for `echo`, mirroring the behavior of the C language's `printf()` function.
 

@@ -1,4 +1,4 @@
-The `read` command is a [[Bash]] builtin utility that reads a single line of text from [[Standard streams|standard input]].
+The `read` command is a [[Bash]] built-in utility that reads a single line of text from [[Standard streams|standard input]].
 
 It splits the line into words based on the [[IFS]] variable and assigns those words to one or more variables.
 

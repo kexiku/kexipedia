@@ -1,12 +1,12 @@
 ### `~/.bash_profile`
  
-- Executed for [[Shell types#Interactive login shells|interactive login shells]]
+- Executed for [[Shell types|interactive login shells]]
 - Runs once when you invoke a new shell
 - Suitable for [[environment variables]]
 
 ### `~/.bashrc`
 
-- Executed for [[Shell types#Interactive non-login shells|interactive non-login shells]]
+- Executed for [[Shell types|interactive non-login shells]]
 - Runs every time you open a new terminal window
 - Suitable for custom [[aliases]] and [[functions]]
 
