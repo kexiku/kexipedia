@@ -1,4 +1,4 @@
-`if` statement in [[Bash]] allows to specify multiple commands to run if the [[Conditional statements|conditional expression]] succeeds.
+`if` statement in [[Bash]] allows to specify multiple commands to run if the conditional expression succeeds.
 
 in addition, we can use `else` clause to specify one or more commands to run instead if the conditional expression fails:
 

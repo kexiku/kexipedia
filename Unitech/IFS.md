@@ -1,4 +1,4 @@
-In Unix-like operation systems, *IFS* (stands for *Internal Field Separator*) is a special shell environment variable used by command-line interpreters to determine how strings are split into individual words during text processing.
+In Unix-like operation systems, *IFS* (stands for *Internal Field Separator*) is a special [[shell]] environment variable used by command-line interpreters to determine how strings are split into individual words during text processing.
 
 By default, the shell sets `IFS` to include three whitespaces:
 

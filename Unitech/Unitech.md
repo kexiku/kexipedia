@@ -14,14 +14,14 @@ banner_y: 22.0%
 	- [[Von Neumann architecture]]
 
 - 🔬 Web
-	- [[Network]] ★
+	- [[Network]] ✦
 
 - 🧪 Platforms
 	- [[Unix]]
 		- [[Unix philosophy]]
 	- [[Linux]]
-		- [[Debian]] ★
-	- [[Windows]] ★
+		- [[Debian]] ✦
+	- [[Windows]] ✦
 
 - ⚖️ Standards
 	- [[POSIX]]
@@ -60,7 +60,7 @@ banner_y: 22.0%
 	- [[Mounting]]
 	- [[Inodes]]
 	- [[Links]]
-	- [[Symlinks]]
+	- [[Symbolic links]]
 
 - ⏳ Integrity
 	- [[Checksums]]
@@ -110,7 +110,7 @@ banner_y: 22.0%
 	- [[Gnome]]
 
 - 🎭 Multimédia
-	- [[Audio]] ★
+	- [[Audio]] ✦
 	- [[Video]]
 
 - 🎀 Software
@@ -118,7 +118,7 @@ banner_y: 22.0%
 	- [[Flatpak]]
 
 - 🎈 Dev
-	- [[git]]
+	- [[Git]]
 	- [[VS Code]]
 
 # 🦇 Terminal
@@ -136,18 +136,24 @@ banner_y: 22.0%
 	
 - 🪶 Scripting
 	- [[Functions]]
-	- [[Exit status codes]]
+	- [[Exit status]]
 	- [[Regular expressions]]
 	- [[shebang]]
 	- [[IFS]]
 
 - 🪦 Shells
-	- [[Bash]] ★
-	- [[Zsh]] ★
+	- [[Bash]] ✦
+	- [[Zsh]] ✦
 	- [[Fish]]
 
 - 🥀 Utils
+	- [[cd]]
+	- [[pwd]]
 	- [[cat]]
 	- [[cut]]
 	- [[sed]]
 	- [[mktemp]]
+	- [[dirname]]
+	- [[basename]]
+	- [[realpath]]
+	- [[readlink]]

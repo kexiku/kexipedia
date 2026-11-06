@@ -1,4 +1,4 @@
-`zstyle` is a [[Zsh]] built-in command used to configure context-aware settings for shell utilities.
+`zstyle` is a [[Zsh]] built-in command used to configure context-aware settings for [[shell]] utilities.
 
 Unlike traditional global shell options (`setopt`) or [[environment variables]], `zstyle` allows you to define styles that only apply under specific *patterns*.
 

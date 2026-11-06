@@ -1,6 +1,6 @@
 `trap` is a [[Bash]] buitin that can handle asynchronous [[signals]] and execute commands in response to them.
 
-It's commonly used to clean up temporary files, manage errors, and makes script exit gracefully on interruption.
+It's commonly used to [[Cleanup function|clean up temporary files]], manage errors, and makes script exit gracefully on interruption.
 
 ## 📜 Syntax
 

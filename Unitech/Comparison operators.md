@@ -1,3 +1,5 @@
+## ❔ Conditional expressions
+
 - `-eq`: Equal to
 - `-ne`: Not equal to
 - `-lt`: Less than
@@ -5,12 +7,14 @@
 - `-gt`: Greater than
 - `-ge`: Greater than or equal to
 
-## String comparison operators
+## 🔢 Arithmetic evaluation
 
-- `=`: Equal to
+- `==`: Equal to
 - `!=`: Not equal to
-- `<`: Less than, in ASCII alphabetical order
-- `>`: Greater than, in ASCII alphabetical order
+- `<`: Less than
+- `<=`: Less than or equal to
+- `>`: Greater than
+- `>=`: Greater than or equal to
 
 
 

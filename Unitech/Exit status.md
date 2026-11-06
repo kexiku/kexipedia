@@ -5,4 +5,3 @@ In [[Linux]], code `0` generally indicates a successful result; anything other t
 > [!warning]
 > In many programming languages, this is exactly the opposite: zero is considered "false" and nonzero values are considered "true"
 
-The `?` [[environment variables|environment variable]] contains info about the exit status of the previous command.

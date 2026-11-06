@@ -68,15 +68,6 @@
       "key": "\\"
     }
   ],
-  "backlink:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ],
   "editor:insert-footnote": [
     {
       "modifiers": [
@@ -99,5 +90,15 @@
       ],
       "key": "Enter"
     }
-  ]
+  ],
+  "backlink:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "editor:open-link-in-new-split": []
 }
