@@ -1,4 +1,4 @@
-In [[Zsh]], `$fpath` (*function path*) is a special [[Environment variables|environment]] parameter that stores an array of directories where the shell searches for autoloaded function definitions and completion scripts.
+In [[Zsh]], `$fpath` (*function path*) is a special [[Environment variables|environment]] parameter that stores an array of directories where the shell searches for autoloaded function definitions and completion [[scripts]].
 
 It behaves similarly to the standard `$PATH` variable, but instead of searching for executable binaries, it searches for script files.
 

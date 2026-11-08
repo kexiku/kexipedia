@@ -18,6 +18,13 @@ git commit -m "<message>"
 git commit --amend
 ```
 
+- DIscard changes in working directory to the last commit:
+
+```bash
+git reset --hard HEAD
+```
+
+
 - See the exact date the file was added to repo:
 
 ```bash

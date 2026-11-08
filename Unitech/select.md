@@ -29,8 +29,7 @@ PS3="Choose an option (1-3): "
 options=("Install" "Update" "Quit")
 
 # Start the select loop
-select opt in "${options[@]}"
-do
+select opt in "${options[@]}"; do
     case $opt in
         "Install")
             echo "Installing..."

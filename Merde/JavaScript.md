@@ -7,20 +7,19 @@ banner_icon: 🍹
 ---
 # Basics
 
-- [[Types]]
-- [[Comparisons]]
-- [[Numbers]]
-- [[Strings]]
-- [[Objects]]
-- [[Arrays]]
-- [[Map & Set]]
-- [[Functions]]
-- [[Generators]]
-- [[Loops]]
-- [[This]]
-- [[Timers]]
-- [[Promises]]
-- [[Requests]]
+- [[JS Types]]
+- [[JS Comparisons]]
+- [[JS Numbers]]
+- [[JS Strings]]
+- [[JS Objects]]
+- [[JS Arrays]]
+- [[JS Map & Set]]
+- [[JS Generators]]
+- [[JS Loops]]
+- [[JS This]]
+- [[JS Timers]]
+- [[JS Promises]]
+- [[JS Requests]]
 
 # NodeJS
 

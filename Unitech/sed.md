@@ -1,6 +1,6 @@
 *sed* (short for *stream editor*) is a line-by-line text processing utility in [[Linux]].
 
-It's commonly used in shell scripts to perform basic text transformations on an input stream, such as [[Files|file]] or [[Pipelines|pipeline]], using [[regular expressions]].
+It's commonly used in shell [[scripts]] to perform basic text transformations on an input stream, such as [[Files|file]] or [[Pipelines|pipeline]], using [[regular expressions]].
 
 ## 📜 Syntax
 

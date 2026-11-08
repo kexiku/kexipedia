@@ -19,6 +19,6 @@ Both interactive and non-interactive shells can be either login or non-login and
 ## Non-interactive shells
 
 - Don't require any kind of human interaction
-- Use in automated scripts
+- Use in automated [[scripts]]
 
 ![[shell-startup.png]]

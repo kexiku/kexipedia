@@ -135,10 +135,10 @@ banner_y: 22.0%
 	- [[tee]]
 	
 - 🪶 Scripting
-	- [[Functions]]
+	- [[Scripts]]
+	- [[Shebang]]
 	- [[Exit status]]
 	- [[Regular expressions]]
-	- [[shebang]]
 	- [[IFS]]
 
 - 🪦 Shells
@@ -149,6 +149,7 @@ banner_y: 22.0%
 - 🥀 Utils
 	- [[cd]]
 	- [[pwd]]
+	- [[env]]
 	- [[cat]]
 	- [[cut]]
 	- [[sed]]

@@ -8,11 +8,15 @@ obsidianUIMode: preview
 ---
 - 🟢 Basics
 	- [[Bash config]]
-	- [[Positional parameters]]
-	- [[Parameter expansion]]
+	- [[Bash naming]]
+	- [[Scripts execution]]
 	- [[Command substitution]]
 
-- ⚪ Conditionals
+- ⚪ Parameters
+	- [[Parameter expansion]]
+	- [[Positional parameters]]
+
+-  ↔️ Conditionals
 	- [[Conditional statements]]
 		- [[if]]
 		- [[case]]
@@ -31,6 +35,8 @@ obsidianUIMode: preview
 	- [[read]]
 	- [[printf]]
 	- [[shift]]
+	- [[readonly]]
+	- [[source]]
 	- [[trap]]
 	- [[select]]
 	- [[exit]]
@@ -42,11 +48,16 @@ obsidianUIMode: preview
 
 - 💡 Common patterns
 	- [[Strict mode]]
-	- [[Source directory finder]]
+	- [[Root checker]]
+	- [[Source directory resolver]]
 	- [[Symlink resolver]]
-	- [[Cleanup function]]
 	- [[Error suppression]]
+	- [[Cleanup function]]
 	- [[Menu]]
+
+- 🛡️ Guards
+	- [[Include guard]]
+	- [[Missing source guard]]
 
 ## ⌨️ Hotkeys
 

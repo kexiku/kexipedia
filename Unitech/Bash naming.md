@@ -1,0 +1,4 @@
+- Functions: `snake_case`
+- Constants/config variables: `UPPER_SNAKE_CASE`
+- Internal/private helpers: leading underscore (`_script_log`)
+- Local variables: lowercase, always declared with `local`

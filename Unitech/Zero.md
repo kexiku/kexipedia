@@ -1,11 +1,5 @@
 In [[Bash]], *zero* (`$0`) is a special read-only variable that stores the path of a [[Processes|process]] used to invoke the current [[shell]] or script.
 
-Its value depends on the execution context:
+Inside a [[source|sourced]] file, `$0` still holds the name of the script that did the sourcing, not the file being read. That makes `$0` unreliable for extracting a sourced file's location.
 
-- **Inside a script:** expands to the path of the file used to invoke the script
-- **Directly in the terminal:** expands to the path of the currently running shell (e.g. `/bin/bash`)
-
-> [!note]
-> `$0` variable cannot guarantee the full initial script's path to be returned.
-> 
-> Use [[BASH_SOURCE]] if the full path is crucial for your use case.
+Bash keeps the actual file path in the [[BASH_SOURCE]] array instead, where `BASH_SOURCE[0]` is the path of the file currently being executed.

@@ -31,3 +31,5 @@ done
 ## 🔍 Details
 
 1. [[select]]
+2. [[Arrays]]
+3. [[case]]

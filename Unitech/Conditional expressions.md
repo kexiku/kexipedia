@@ -13,7 +13,7 @@ Conditional expressions in [[Bash]] are used by the `[[` compound command and th
 > 
 > The `-a` option has been deprecated and can cause syntax confusion, as it also serves as the logical "AND" operator inside single brackets (`[ ... ]`).
 > 
-> `-e` complies with POSIX standards, making your scripts significantly more portable across different shells.
+> `-e` complies with [[POSIX]] standards, making your scripts significantly more portable across different shells.
 
 - True if file exists and is a directory file:
 

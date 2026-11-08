@@ -20,6 +20,17 @@ That ensures high security and stability of the system.
 
 See https://flathub.org/en/setup
 
+## 📦 Usage
+
+Prevent a specific application from updating:
+
+```bash
+flatpak mask org.app.example
+
+# To unmask:
+flatpak mask --remove org.app.example
+```
+
 
 
 

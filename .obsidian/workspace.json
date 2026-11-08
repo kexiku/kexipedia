@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "09f8d9f0801000e3",
+        "id": "03e177e3af4b4c91",
         "type": "tabs",
         "children": [
           {
-            "id": "487d3347c9595bfe",
+            "id": "d9831b14f1ba0a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unitech/Menu.md",
-                "mode": "source",
+                "file": "Kexipedia.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Menu"
-            }
-          },
-          {
-            "id": "ed46aed5e0b4ce48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unitech/select.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "select"
+              "title": "Kexipedia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unitech/unset.md",
+                "file": "Kexipedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unitech/Unitech.md"
+                "file": "Kexipedia.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -217,34 +201,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed46aed5e0b4ce48",
+  "active": "d9831b14f1ba0a15",
   "lastOpenFiles": [
-    "Unitech/Menu.md",
-    "Unitech/select.md",
-    "Unitech/Git.md",
     "Unitech/Adding & commiting.md",
-    "Unitech/case.md",
+    "Unitech/Git.md",
     "Kexipedia.md",
-    "Unitech/Bash.md",
-    "Unitech/Error suppression.md",
-    "Unitech/Symlink resolver.md",
-    "Unitech/Source directory finder.md",
-    "Unitech/Bash config.md",
-    "Unitech/Cleanup function.md",
-    "Unitech/Exit status.md",
-    "Unitech/export.md",
-    "Unitech/unset.md",
-    "Unitech/set.md",
+    "Unitech/source.md",
+    "Unitech/Scripts execution.md",
+    "Unitech/Zero.md",
+    "Unitech/Root checker.md",
+    "Unitech/Comparison operators.md",
     "Unitech/Conditional expressions.md",
-    "Unitech/exit.md",
-    "Unitech/trap.md",
-    "Unitech/shift.md",
-    "Unitech/printf.md",
-    "Unitech/read.md",
-    "Unitech/Command.md",
-    "Unitech/Conditional statements.md",
-    "Unitech/Signals.md",
-    "Unitech/Redirection.md",
+    "Unitech/Bash.md",
+    "Unitech/Missing source guard.md",
+    "Unitech/Parameter expansion.md",
+    "Unitech/Unitech.md",
+    "Unitech/Flatpak.md",
+    "Unitech/Shebang.md",
+    "Unitech/env.md",
+    "Unitech/Shell types.md",
+    "Unitech/sed.md",
+    "Unitech/Double dash.md",
+    "Unitech/Shell.md",
+    "Unitech/Include guard.md",
+    "Unitech/fpath.md",
+    "Unitech/Command substitution.md",
+    "Unitech/Bash shebang.md",
+    "Unitech/Scripts.md",
+    "Unitech/Terminal.md",
     "Snippets/Tip",
     "Snippets/Info",
     "Snippets/Note",
